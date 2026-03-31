@@ -1,0 +1,517 @@
+pageId: 6915e51cdd59b276297cbe4f
+branchId: null
+nodes:
+- id: 1c54e280-37a0-32ca-d44d-81d5ee53122e
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f148
+  type: component-instance
+  componentId: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f146
+  propertyOverrides: []
+- id: 48eb0862-0648-838c-90e7-508d66816e7c
+  type: component-instance
+  componentId: 48eb0862-0648-838c-90e7-508d66816e78
+  propertyOverrides: []
+- id: 2b93d1cc-a710-e24f-dc23-b689974dfe26
+  type: component-instance
+  componentId: 334235b2-f258-d4bf-c6d0-9052ffcbc41c
+  propertyOverrides: []
+- id: a58d47e0-367f-4320-f49d-47527c308dec
+  type: component-instance
+  componentId: a58d47e0-367f-4320-f49d-47527c308dbe
+  propertyOverrides: []
+- id: 7e4f58f9-d003-665f-1dda-64ff54cfc982
+  type: text
+  text:
+    html: '<h1>For teams keeping systems       alive today and connecting       SaaS + AI tomorrow</h1>'
+    text: 'For teams keeping systems       alive today and connecting       SaaS + AI tomorrow'
+  attributes: {}
+- id: 3bffd447-cfab-fade-d106-21d006137fa1
+  type: text
+  text:
+    html: <div class="paragraph-22">Naftiko gives platform and integration teams a
+      governed foundation to build, run, and evolve integrations that actually scale
+      without the brittle glue code.</div>
+    text: Naftiko gives platform and integration teams a governed foundation to build,
+      run, and evolve integrations that actually scale without the brittle glue code.
+  attributes: {}
+- id: f5a4eccd-1d63-ae7a-eba6-df930209cbd3
+  type: text-input
+  placeholder: Enter your email
+  attributes: {}
+- id: f5a4eccd-1d63-ae7a-eba6-df930209cbd4
+  type: submit-button
+  waitingText: Please wait...
+  value: Join the waitlist
+  attributes: {}
+- id: f5a4eccd-1d63-ae7a-eba6-df930209cbda
+  type: text
+  text:
+    html: <div>Thanks for signing up!</div>
+    text: Thanks for signing up!
+  attributes: {}
+- id: f5a4eccd-1d63-ae7a-eba6-df930209cbdd
+  type: text
+  text:
+    html: <div>Subscribed</div>
+    text: Subscribed
+  attributes: {}
+- id: f5a4eccd-1d63-ae7a-eba6-df930209cbe0
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: 06c8d785-dc94-00a8-b6ea-d19a80f82e26
+  type: text
+  text:
+    html: <div>Read the docs</div>
+    text: Read the docs
+  attributes: {}
+- id: 2a1efba2-5c32-f18f-df2c-8d02b52ca246
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915eebfc1b55b9014ab4e96
+  attributes: {}
+- id: 688ed5bb-eeff-4282-382a-66f5473ba91e
+  type: text
+  text:
+    html: '<h2 class="max-width-650">Naftiko: the entry point</h2>'
+    text: 'Naftiko: the entry point'
+  attributes: {}
+- id: 9c1d21f8-498f-609c-3801-a1b8f5892238
+  type: text
+  text:
+    html: <div>Your workspace for designing, testing, and packaging governed capabilities.
+      Naftiko turns complex integration logic into reusable, compliant modules your
+      teams can trust.</div>
+    text: Your workspace for designing, testing, and packaging governed capabilities.
+      Naftiko turns complex integration logic into reusable, compliant modules your
+      teams can trust.
+  attributes: {}
+- id: 459d9968-89cb-99f8-cdaf-7b5fe3fea895
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6916056808b1a17490544c31
+  attributes: {}
+- id: 459d9968-89cb-99f8-cdaf-7b5fe3fea897
+  type: text
+  text:
+    html: <div class="paragraph-24 white medium height-110">Capabilities</div>
+    text: Capabilities
+  attributes: {}
+- id: 459d9968-89cb-99f8-cdaf-7b5fe3fea899
+  type: text
+  text:
+    html: <div class="paragraph-18">Declarative JSON or YAML&nbsp;capabilities that
+      define your integrations across any data source or API, while aligning with
+      business outcomes.</div>
+    text: Declarative JSON or YAML capabilities that define your integrations across
+      any data source or API, while aligning with business outcomes.
+  attributes: {}
+- id: d0915a25-b284-35df-5fac-cdc24ef9b7ba
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69160568d2752c84ab16f3a6
+  attributes: {}
+- id: d0915a25-b284-35df-5fac-cdc24ef9b7bc
+  type: text
+  text:
+    html: <div class="paragraph-24 white medium height-110">Framework</div>
+    text: Framework
+  attributes: {}
+- id: d0915a25-b284-35df-5fac-cdc24ef9b7be
+  type: text
+  text:
+    html: <div class="paragraph-18">Create, test, and package capabilities into Docker
+      images. Model-driven, IDE-native, and built for AI-assisted development.</div>
+    text: Create, test, and package capabilities into Docker images. Model-driven,
+      IDE-native, and built for AI-assisted development.
+  attributes: {}
+- id: c4666523-0d57-9399-8226-8b8130f3f3fa
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691605689cbcba8c40585af7
+  attributes: {}
+- id: c4666523-0d57-9399-8226-8b8130f3f3fc
+  type: text
+  text:
+    html: <div class="paragraph-24 white medium height-110">Fabric</div>
+    text: Fabric
+  attributes: {}
+- id: c4666523-0d57-9399-8226-8b8130f3f3fe
+  type: text
+  text:
+    html: <div class="paragraph-18">The control plane for dashboards, observability,
+      routing, and developer experience. All powered by open standards.</div>
+    text: The control plane for dashboards, observability, routing, and developer
+      experience. All powered by open standards.
+  attributes: {}
+- id: 396ad978-e009-6d49-42a0-5f33c14621d3
+  type: text
+  text:
+    html: <h2 class="align-text-left">Built to scale through capabilities</h2>
+    text: Built to scale through capabilities
+  attributes: {}
+- id: 162e04d8-17df-ed55-8a5b-7878df82436d
+  type: text
+  text:
+    html: <div>Each integration or workflow built with Naftiko becomes a <span class="medium
+      white-100" data-w-id="cda788da-4e56-27d9-23aa-34ea6090901b">capability</span>,
+      a repeatable, governed pattern you can reuse across domains.</div>
+    text: Each integration or workflow built with Naftiko becomes a capability, a
+      repeatable, governed pattern you can reuse across domains.
+  attributes: {}
+- id: 5c813e60-ff10-def8-6f1c-0d82c792ec3b
+  type: text
+  text:
+    html: '<div>From simple API calls to multi-cloud governance, each capability builds
+      on the same foundation: <span class="medium white-100" data-w-id="50c74bc0-0327-3324-4ea3-5f20b238eaa0">Framework
+      &amp;&nbsp;Fabric</span></div>'
+    text: 'From simple API calls to multi-cloud governance, each capability builds
+      on the same foundation: Framework & Fabric'
+  attributes: {}
+- id: 818a1973-0ae4-cb69-05fc-320027d254e7
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691604f28273f1d371d7f280
+  attributes: {}
+- id: b9c38cba-accf-92e3-76ca-6c32975fcdb0
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69160a22035226db3249ccda
+  attributes: {}
+- id: 82cd8058-1165-3db3-4aae-52c2da3cad60
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691604f2e4133b8fe905cc3e
+  attributes: {}
+- id: 82cd8058-1165-3db3-4aae-52c2da3cad55
+  type: text
+  text:
+    html: <h2 class="align-text-left">From framework to fabric</h2>
+    text: From framework to fabric
+  attributes: {}
+- id: 82cd8058-1165-3db3-4aae-52c2da3cad57
+  type: text
+  text:
+    html: <div>Naftiko packages the open-source capability framework (Apache Limani)
+      into a developer environment teams can actually ship with.</div>
+    text: Naftiko packages the open-source capability framework (Apache Limani) into
+      a developer environment teams can actually ship with.
+  attributes: {}
+- id: 82cd8058-1165-3db3-4aae-52c2da3cad59
+  type: text
+  text:
+    html: '<div>Every module follows the same architecture: composable, policy-driven,
+      and future-proof.</div>'
+    text: 'Every module follows the same architecture: composable, policy-driven,
+      and future-proof.'
+  attributes: {}
+- id: a6652fc8-8bd7-2057-aa58-0d8b4611f5c5
+  type: text
+  text:
+    html: <div class="its-open-sourceready-community-driven-and-buil-2">Key design
+      principles:</div>
+    text: 'Key design principles:'
+  attributes: {}
+- id: 2c6de6f7-7fa5-22fc-117c-474a936a7082
+  type: text
+  text:
+    html: <li><span class="semi-bold white" data-w-id="72158e0c-942a-efe0-a96f-c9c4c0d9b7a3">Governed
+      by default —</span> Policies and compliance built into runtime.</li>
+    text: Governed by default — Policies and compliance built into runtime.
+  attributes: {}
+- id: 2c6de6f7-7fa5-22fc-117c-474a936a7083
+  type: text
+  text:
+    html: <li><span class="semi-bold white" data-w-id="dc31c70b-22de-14d1-a3d3-4e105c4c4e29">Observable</span>
+      Costs — performance, and lineage surfaced automatically.</li>
+    text: Observable Costs — performance, and lineage surfaced automatically.
+  attributes: {}
+- id: 2c6de6f7-7fa5-22fc-117c-474a936a7084
+  type: text
+  text:
+    html: <li><span class="semi-bold white" data-w-id="7d3c3e0d-1fa0-aef4-1d7a-d540d93a620f">Composable</span>
+      Each — capability can plug into another.</li>
+    text: Composable Each — capability can plug into another.
+  attributes: {}
+- id: 59bdd931-0259-cd88-80f3-973b3c4fe4ac
+  type: text
+  text:
+    html: "<h2>See it in action: \L<br data-w-id=\"5f8c05df-d235-d763-bd07-7b3a2109a82f\"\
+      >Use cases powered by Naftiko</h2>"
+    text: "See it in action: \L\nUse cases powered by Naftiko"
+  attributes: {}
+- id: 59bdd931-0259-cd88-80f3-973b3c4fe4ae
+  type: text
+  text:
+    html: <div>Naftiko is open source. The first place to learn, ask,and,contribute
+      is the community itself.</div>
+    text: Naftiko is open source. The first place to learn, ask,and,contribute is
+      the community itself.
+  attributes: {}
+- id: 2a743fe3-0a58-f4f0-7ca1-84c791c62bea
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: null
+  attributes: {}
+- id: e4838976-87c3-972b-50e8-98ffb5599d73
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691615f933d32284e76493fb
+  attributes: {}
+- id: 21e20b83-21fd-4a50-d796-7efd8cc75ebd
+  type: text
+  text:
+    html: <div>Explore</div>
+    text: Explore
+  attributes: {}
+- id: 97c04201-9e3b-6855-6571-9e913ef0c184
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: 8d8b4114-4b65-f868-1571-2834c09fe8d6
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: null
+  attributes: {}
+- id: 8d8b4114-4b65-f868-1571-2834c09fe8d7
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691615f933d32284e76493fb
+  attributes: {}
+- id: 8d8b4114-4b65-f868-1571-2834c09fe8dd
+  type: text
+  text:
+    html: <div>Explore</div>
+    text: Explore
+  attributes: {}
+- id: 8d8b4114-4b65-f868-1571-2834c09fe8e8
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: c555a1cf-8cfd-92b9-22c1-8be6adb6616a
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: null
+  attributes: {}
+- id: c555a1cf-8cfd-92b9-22c1-8be6adb6616b
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691615f933d32284e76493fb
+  attributes: {}
+- id: c555a1cf-8cfd-92b9-22c1-8be6adb66171
+  type: text
+  text:
+    html: <div>Explore</div>
+    text: Explore
+  attributes: {}
+- id: c555a1cf-8cfd-92b9-22c1-8be6adb6617c
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: d5b1f9ca-dff3-32ec-a15b-19ceefc8a61d
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: null
+  attributes: {}
+- id: d5b1f9ca-dff3-32ec-a15b-19ceefc8a61e
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691615f933d32284e76493fb
+  attributes: {}
+- id: d5b1f9ca-dff3-32ec-a15b-19ceefc8a624
+  type: text
+  text:
+    html: <div>Explore</div>
+    text: Explore
+  attributes: {}
+- id: d5b1f9ca-dff3-32ec-a15b-19ceefc8a62f
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: 04c826f3-33ac-cc49-9bc8-d3be7af60cde
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: null
+  attributes: {}
+- id: 04c826f3-33ac-cc49-9bc8-d3be7af60cdf
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691615f933d32284e76493fb
+  attributes: {}
+- id: 04c826f3-33ac-cc49-9bc8-d3be7af60ce5
+  type: text
+  text:
+    html: <div>Explore</div>
+    text: Explore
+  attributes: {}
+- id: 04c826f3-33ac-cc49-9bc8-d3be7af60cf0
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: ffc8f9d2-1f53-27de-7387-bfdd319c0524
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692747bbd6c5281a83168025
+  attributes: {}
+- id: f9a659fd-4724-41c5-3309-03d91532ded9
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6916156b72379f36e4a6ffc2
+  attributes: {}
+- id: 3b0c44d3-22c8-8838-078f-3af0cb18a8d8
+  type: text
+  text:
+    html: <h2 class="max-width-650">Community at the core</h2>
+    text: Community at the core
+  attributes: {}
+- id: 3b0c44d3-22c8-8838-078f-3af0cb18a8da
+  type: text
+  text:
+    html: <div class="max-width-500">Naftiko is open source. The first place to learn,
+      ask, and contribute is the community itself.</div>
+    text: Naftiko is open source. The first place to learn, ask, and contribute is
+      the community itself.
+  attributes: {}
+- id: c8611ed9-6bec-7374-3c23-cd308edc6983
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6934915e9e9fd7a30ae5d8b1
+  attributes: {}
+- id: 65608ff9-c6c0-5aa1-16b2-869cee0a3cf1
+  type: text
+  text:
+    html: <div>Explore the docs</div>
+    text: Explore the docs
+  attributes: {}
+- id: c8611ed9-6bec-7374-3c23-cd308edc698a
+  type: text
+  text:
+    html: <div class="paragraph-16">Guides. pattren, references.</div>
+    text: Guides. pattren, references.
+  attributes: {}
+- id: a31d8979-8779-7ced-6c85-6dc44762de61
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6934915eb3e2c9175fdbbb4c
+  attributes: {}
+- id: a31d8979-8779-7ced-6c85-6dc44762de65
+  type: text
+  text:
+    html: <div>Contribute on Github</div>
+    text: Contribute on Github
+  attributes: {}
+- id: a31d8979-8779-7ced-6c85-6dc44762de6f
+  type: text
+  text:
+    html: <div class="paragraph-16">Issues, PRs, discussions with the crew.</div>
+    text: Issues, PRs, discussions with the crew.
+  attributes: {}
+- id: cb8a7d66-a95c-a243-96f8-6bc684674896
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6934915f31e12d1aeae5ca9b
+  attributes: {}
+- id: cb8a7d66-a95c-a243-96f8-6bc68467489a
+  type: text
+  text:
+    html: <div>View our community</div>
+    text: View our community
+  attributes: {}
+- id: cb8a7d66-a95c-a243-96f8-6bc6846748a4
+  type: text
+  text:
+    html: <div class="paragraph-16">Connect with peers, share builds.</div>
+    text: Connect with peers, share builds.
+  attributes: {}
+- id: 5e49ea46-07a8-bdc5-207b-b96480487f0a
+  type: text
+  text:
+    html: <h2 class="height-110 align-top-left">Be first to set course on the fabric</h2>
+    text: Be first to set course on the fabric
+  attributes: {}
+- id: 6db24658-a675-b4b3-e8e6-6a635f1aa0e3
+  type: text
+  text:
+    html: <div class="white-90 max-width-800">Our first components launch soon. Join
+      the waitlist to test them in production and help shape the roadmap.</div>
+    text: Our first components launch soon. Join the waitlist to test them in production
+      and help shape the roadmap.
+  attributes: {}
+- id: d0ed17cb-d391-34da-3eb7-9b84d1ff16eb
+  type: text-input
+  placeholder: Enter your email
+  attributes: {}
+- id: d0ed17cb-d391-34da-3eb7-9b84d1ff16ed
+  type: submit-button
+  waitingText: Please wait...
+  value: Join the waitlist
+  attributes: {}
+- id: d0ed17cb-d391-34da-3eb7-9b84d1ff16f1
+  type: text
+  text:
+    html: <div>Thanks for signing up!</div>
+    text: Thanks for signing up!
+  attributes: {}
+- id: d0ed17cb-d391-34da-3eb7-9b84d1ff16f5
+  type: text
+  text:
+    html: <div>Subscribed</div>
+    text: Subscribed
+  attributes: {}
+- id: d0ed17cb-d391-34da-3eb7-9b84d1ff16f8
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: 290de599-0eb9-b99e-f8c9-f9ae0efd9b29
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915b78801b16cb7875d3e10
+  attributes: {}
+- id: bfad7eed-713b-b8cf-e6f8-b5f7514ca308
+  type: component-instance
+  componentId: f08038d6-8bda-fa72-06f4-e95fb4071f06
+  propertyOverrides: []
+pagination:
+  limit: 100
+  offset: 0
+  total: 82
+lastUpdated: '2026-02-05T23:34:24.515Z'

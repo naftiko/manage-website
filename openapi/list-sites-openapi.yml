@@ -1,0 +1,349 @@
+openapi: 3.1.0
+info:
+  title: Webflow List Sites
+  description: Returns a list of all Webflow sites the provided access token is able to access.
+  version: 2.0.0
+  contact:
+    name: Webflow Developer Relations
+    email: developers@webflow.com
+    url: https://developers.webflow.com
+  termsOfService: https://webflow.com/legal/terms
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+servers:
+- url: https://api.webflow.com/v2
+  description: Webflow API v2
+security:
+- OAuth2: []
+- ApiKey: []
+tags:
+- name: Sites
+  description: Sites are the sites in your Webflow workspace.
+paths:
+  /sites:
+    get:
+      operationId: list-sites
+      summary: List Sites
+      description: 'List of all sites the provided access token is able to access.
+
+
+        Required scope | `sites:read`
+
+        '
+      tags:
+      - Sites
+      security:
+      - OAuth2:
+        - sites:read
+      responses:
+        '200':
+          description: Request was successful
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  sites:
+                    type: array
+                    items:
+                      required:
+                      - id
+                      properties:
+                        id:
+                          type: string
+                          format: objectid
+                          description: Unique identifier for the Site
+                          example: 690a6acf18713a7e3b856b21
+                        workspaceId:
+                          type: string
+                          format: objectid
+                          description: Unique identifier for the Workspace
+                          example: 690a6aae4dec3a2a53936792
+                        createdOn:
+                          type: string
+                          format: date-time
+                          description: Date the Site was created
+                          example: '2025-11-04T21:06:23.568Z'
+                        displayName:
+                          type: string
+                          description: Name given to Site
+                          example: Naftiko Website
+                        shortName:
+                          type: string
+                          description: Slugified version of name
+                          example: naftiko-website
+                        lastPublished:
+                          type: string
+                          format: date-time
+                          description: Date the Site was last published
+                          example: '2026-02-05T23:34:49.506Z'
+                        lastUpdated:
+                          type: string
+                          format: date-time
+                          description: Date the Site was last updated
+                          example: '2026-03-17T23:44:55.315Z'
+                        previewUrl:
+                          type: string
+                          format: uri
+                          description: URL of a generated image for the given Site
+                          example: https://screenshots.webflow.com/sites/690a6acf18713a7e3b856b21/20260205233327_b2edebc55003edb77b0ebe3cb75e7bc1.png
+                        timeZone:
+                          type: string
+                          description: Site timezone set under Site Settings
+                          example: America/New_York
+                        parentFolderId:
+                          type: string
+                          format: objectid
+                          nullable: true
+                          description: The ID of the parent folder the Site exists in
+                          example: null
+                        customDomains:
+                          type: array
+                          items:
+                            type: object
+                            required:
+                            - id
+                            properties:
+                              id:
+                                type: string
+                                format: objectid
+                                example: 69278ed8fad4023ddab44fc1
+                                description: Unique identifier for the Domain
+                              url:
+                                type: string
+                                example: naftiko.io
+                                description: The registered Domain name
+                              lastPublished:
+                                type: string
+                                format: date-time
+                                example: '2026-02-05T23:34:49.506Z'
+                                readOnly: true
+                                nullable: true
+                                description: The date the custom domain was last published to
+                        locales:
+                          type: object
+                          properties:
+                            primary:
+                              description: The primary locale for the site or application.
+                              type: object
+                              properties:
+                                id:
+                                  type: string
+                                  description: The unique identifier for the locale.
+                                  example: 653fd9af6a07fc9cfd7a5e57
+                                cmsLocaleId:
+                                  type: string
+                                  description: A CMS-specific identifier for the locale.
+                                  example: 653ad57de882f528b32e810e
+                                enabled:
+                                  type: boolean
+                                  description: Indicates if the locale is enabled.
+                                  example: false
+                                displayName:
+                                  type: string
+                                  description: The display name of the locale, typically in English.
+                                  example: English (United States)
+                                displayImageId:
+                                  type: string
+                                  description: An optional ID for an image associated with the locale, nullable.
+                                  nullable: true
+                                  example: null
+                                redirect:
+                                  type: boolean
+                                  description: Determines if requests should redirect to the locale's subdirectory.
+                                  example: true
+                                subdirectory:
+                                  type: string
+                                  description: The subdirectory path for the locale, used in URLs.
+                                  example: ''
+                                tag:
+                                  type: string
+                                  description: A tag or code representing the locale, often following a standard format like 'en-US'.
+                                  example: en-US
+                            secondary:
+                              type: array
+                              description: A list of secondary locales available for the site or application.
+                              items:
+                                type: object
+                                properties:
+                                  id:
+                                    type: string
+                                    description: The unique identifier for the locale.
+                                    example: 653fd9af6a07fc9cfd7a5e57
+                                  cmsLocaleId:
+                                    type: string
+                                    description: A CMS-specific identifier for the locale.
+                                    example: 653ad57de882f528b32e810e
+                                  enabled:
+                                    type: boolean
+                                    description: Indicates if the locale is enabled.
+                                    example: false
+                                  displayName:
+                                    type: string
+                                    description: The display name of the locale, typically in English.
+                                    example: English (United States)
+                                  displayImageId:
+                                    type: string
+                                    description: An optional ID for an image associated with the locale, nullable.
+                                    nullable: true
+                                    example: null
+                                  redirect:
+                                    type: boolean
+                                    description: Determines if requests should redirect to the locale's subdirectory.
+                                    example: true
+                                  subdirectory:
+                                    type: string
+                                    description: The subdirectory path for the locale, used in URLs.
+                                    example: ''
+                                  tag:
+                                    type: string
+                                    description: A tag or code representing the locale, often following a standard format like 'en-US'.
+                                    example: en-US
+                        dataCollectionEnabled:
+                          type: boolean
+                          description: Indicates if data collection is enabled for the site.
+                          example: false
+                        dataCollectionType:
+                          type: string
+                          enum:
+                          - always
+                          - optOut
+                          - disabled
+                          description: The type of data collection enabled for the site.
+                          example: always
+              example:
+                sites:
+                - id: 690a6acf18713a7e3b856b21
+                  workspaceId: 690a6aae4dec3a2a53936792
+                  displayName: Naftiko Website
+                  shortName: naftiko-website
+                  previewUrl: https://screenshots.webflow.com/sites/690a6acf18713a7e3b856b21/20260205233327_b2edebc55003edb77b0ebe3cb75e7bc1.png
+                  timeZone: America/New_York
+                  createdOn: '2025-11-04T21:06:23.568Z'
+                  lastUpdated: '2026-03-17T23:44:55.315Z'
+                  lastPublished: '2026-02-05T23:34:49.506Z'
+                  parentFolderId: null
+                  customDomains:
+                  - id: 69278ed8fad4023ddab44fc1
+                    url: www.naftiko.io
+                    lastPublished: '2026-02-05T23:34:49.506Z'
+                  - id: 69278ed7fad4023ddab44fa1
+                    url: naftiko.io
+                    lastPublished: '2026-02-05T23:34:49.506Z'
+                  locales:
+                    primary:
+                      id: 691ced877a6ed28f42bd2fce
+                      cmsLocaleId: 691ced877a6ed28f42bd2fb9
+                      enabled: false
+                      displayName: English
+                      displayImageId: null
+                      redirect: true
+                      subdirectory: en
+                      tag: en
+                    secondary: []
+                  dataCollectionEnabled: false
+                  dataCollectionType: always
+        '401':
+          description: Provided access token is invalid or does not have access to requested resource
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: string
+                    description: Error code
+                    example: not_authorized
+                  message:
+                    type: string
+                    description: Error message
+                    example: Request not authorized
+                  externalReference:
+                    type: string
+                    description: Link to more information
+                    example: ''
+                  details:
+                    type: array
+                    description: Array of errors
+                    items:
+                      type: string
+                    example: []
+              example:
+                code: not_authorized
+                message: Request not authorized
+                externalReference: null
+                details: []
+        '429':
+          description: Rate limit reached for the provided access token.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: string
+                    description: Error code
+                    example: too_many_requests
+                  message:
+                    type: string
+                    description: Error message
+                    example: Too many requests
+                  externalReference:
+                    type: string
+                    description: Link to more information
+                    example: ''
+                  details:
+                    type: array
+                    description: Array of errors
+                    items:
+                      type: string
+                    example: []
+              example:
+                code: too_many_requests
+                message: Too many requests
+                externalReference: null
+                details: []
+        5XX:
+          description: We had a problem with our server. Try again later.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: string
+                    description: Error code
+                    example: internal_error
+                  message:
+                    type: string
+                    description: Error message
+                    example: An Internal Error occurred
+                  externalReference:
+                    type: string
+                    description: Link to more information
+                    example: ''
+                  details:
+                    type: array
+                    description: Array of errors
+                    items:
+                      type: string
+                    example: []
+              example:
+                code: internal_error
+                message: An Internal Error occurred
+                externalReference: null
+                details: []
+components:
+  securitySchemes:
+    OAuth2:
+      type: oauth2
+      flows:
+        authorizationCode:
+          scopes:
+            sites:read: read sites on the site
+          authorizationUrl: https://webflow.com/oauth/authorize
+          tokenUrl: https://api.webflow.com/oauth/token
+    ApiKey:
+      type: http
+      scheme: bearer

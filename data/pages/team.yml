@@ -1,0 +1,350 @@
+pageId: 6919de2d3a47cdf8dd26c2f7
+branchId: null
+nodes:
+- id: 1c54e280-37a0-32ca-d44d-81d5ee53122e
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f148
+  type: component-instance
+  componentId: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f146
+  propertyOverrides: []
+- id: 48eb0862-0648-838c-90e7-508d66816e7c
+  type: component-instance
+  componentId: 48eb0862-0648-838c-90e7-508d66816e78
+  propertyOverrides: []
+- id: b3be839b-c9ab-489d-bef1-fb2b54e70e0f
+  type: component-instance
+  componentId: 334235b2-f258-d4bf-c6d0-9052ffcbc41c
+  propertyOverrides: []
+- id: 2b9b60b0-ac82-1e79-6293-c74003cebeb6
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691d19460aa916d1e528156f
+  attributes: {}
+- id: b8e254c6-9f0f-7d2e-31d3-2df0aef61239
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+  attributes: {}
+- id: b8e254c6-9f0f-7d2e-31d3-2df0aef6123d
+  type: text
+  text:
+    html: <div class="modal-board-name">Name</div>
+    text: Name
+  attributes: {}
+- id: b8e254c6-9f0f-7d2e-31d3-2df0aef6123f
+  type: text
+  text:
+    html: <div class="modal-bio"><p data-w-id="24ea5fec-85fd-9d1b-4d8e-06398f0ee6f0">Bio</p></div>
+    text: null
+  attributes: {}
+- id: a58d47e0-367f-4320-f49d-47527c308dec
+  type: component-instance
+  componentId: a58d47e0-367f-4320-f49d-47527c308dbe
+  propertyOverrides: []
+- id: 7e4f58f9-d003-665f-1dda-64ff54cfc982
+  type: text
+  text:
+    html: <h1>Meet the crew</h1>
+    text: Meet the crew
+  attributes: {}
+- id: 3bffd447-cfab-fade-d106-21d006137fa1
+  type: text
+  text:
+    html: <div class="paragraph-22 max-width-970">Naftiko was founded by Jérôme Louvel
+      and Kin Lane, longtime builders and thinkers in the API world, united by a vision
+      to modernize API consumption and integration for the cloud-native era.</div>
+    text: Naftiko was founded by Jérôme Louvel and Kin Lane, longtime builders and
+      thinkers in the API world, united by a vision to modernize API consumption and
+      integration for the cloud-native era.
+  attributes: {}
+- id: 8154d9ba-0140-1679-e743-0c528f14acf2
+  type: text
+  text:
+    html: <div>Core team</div>
+    text: Core team
+  attributes: {}
+- id: 6d4d6039-7a93-cc86-e7c9-ed53e4a15c5e
+  type: text
+  text:
+    html: <div>Board members</div>
+    text: Board members
+  attributes: {}
+- id: dcdbb984-1270-30b6-767b-279c5454cadb
+  type: text
+  text:
+    html: <div>Advisory board<br data-w-id="75a0569e-6b6b-0073-b0b6-21758c3aafbb"></div>
+    text: 'Advisory board
+
+      '
+  attributes: {}
+- id: cc5e5b83-3e7f-1b3d-bc32-2955e6abbcdd
+  type: text
+  text:
+    html: <h2>Core team</h2>
+    text: Core team
+  attributes: {}
+- id: 97c39fa0-354a-731a-6a26-e751f652d7f6
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: null
+  attributes: {}
+- id: 97c39fa0-354a-731a-6a26-e751f652d7ff
+  type: text
+  text:
+    html: <div>LinkedIn</div>
+    text: LinkedIn
+  attributes: {}
+- id: 97c39fa0-354a-731a-6a26-e751f652d80a
+  type: text
+  text:
+    html: <div>View bio</div>
+    text: View bio
+  attributes: {}
+- id: 97c39fa0-354a-731a-6a26-e751f652d815
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: abb1cd4c-735a-217d-9526-13510becdc90
+  type: text
+  text:
+    html: <h2>Board members</h2>
+    text: Board members
+  attributes: {}
+- id: abb1cd4c-735a-217d-9526-13510becdc92
+  type: text
+  text:
+    html: <div>Our board combines deep experience in technology, open source, and
+      scaling global platforms — guiding Naftiko as it sets course for the next horizon.</div>
+    text: Our board combines deep experience in technology, open source, and scaling
+      global platforms — guiding Naftiko as it sets course for the next horizon.
+  attributes: {}
+- id: 02ab54e6-27bd-58b7-3b16-822d3334bc8e
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: null
+  attributes: {}
+- id: 02ab54e6-27bd-58b7-3b16-822d3334bc97
+  type: text
+  text:
+    html: <div>LinkedIn</div>
+    text: LinkedIn
+  attributes: {}
+- id: 02ab54e6-27bd-58b7-3b16-822d3334bca2
+  type: text
+  text:
+    html: <div>View bio</div>
+    text: View bio
+  attributes: {}
+- id: 02ab54e6-27bd-58b7-3b16-822d3334bcad
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: c0567b3d-d0ea-ecb0-db54-6ec25129ad83
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a17105e7b5f656cfd1bfe
+  attributes: {}
+- id: 6fce88fe-93e3-c0f8-c4bc-fb3cd843abf2
+  type: text
+  text:
+    html: <h2>Advisory board</h2>
+    text: Advisory board
+  attributes: {}
+- id: 6fce88fe-93e3-c0f8-c4bc-fb3cd843abf4
+  type: text
+  text:
+    html: <div>Our advisory board brings together industry veterans, technologists,
+      and ecosystem leaders helping Naftiko align open-source innovation with real-world
+      adoption.</div>
+    text: Our advisory board brings together industry veterans, technologists, and
+      ecosystem leaders helping Naftiko align open-source innovation with real-world
+      adoption.
+  attributes: {}
+- id: ad1d83ec-c0a1-dc71-0ce1-4f2b59363ee7
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: null
+  attributes: {}
+- id: ad1d83ec-c0a1-dc71-0ce1-4f2b59363eef
+  type: text
+  text:
+    html: <div>LinkedIn</div>
+    text: LinkedIn
+  attributes: {}
+- id: 9cd46c93-f1aa-e2dd-5664-29e38b45d0e6
+  type: text
+  text:
+    html: <div>View bio</div>
+    text: View bio
+  attributes: {}
+- id: ad1d83ec-c0a1-dc71-0ce1-4f2b59363efa
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: 28957033-44ce-6192-a618-b3038cc79dd7
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a1710ddd880ccc5f2fbe9
+  attributes: {}
+- id: 4cebe9c7-caf5-bbf8-3c8e-878315dc7900
+  type: text
+  text:
+    html: <h2>The journey so far</h2>
+    text: The journey so far
+  attributes: {}
+- id: 49fab986-2f52-9b6a-7e97-20ff41629d23
+  type: text
+  text:
+    html: <div class="paragraph-24 normal white height-130 max-width-345">Kin’s research
+      and storytelling with API Evangelist, now funneled into Naftiko</div>
+    text: Kin’s research and storytelling with API Evangelist, now funneled into Naftiko
+  attributes: {}
+- id: 49fab986-2f52-9b6a-7e97-20ff41629d27
+  type: text
+  text:
+    html: <div class="paragraph-24 normal white height-130 max-width-345">Jérôme’s
+      frameworks and platforms that shaped modern API ecosystems</div>
+    text: Jérôme’s frameworks and platforms that shaped modern API ecosystems
+  attributes: {}
+- id: 49fab986-2f52-9b6a-7e97-20ff41629d2b
+  type: text
+  text:
+    html: <div class="paragraph-24 normal white height-130 max-width-312">A shared
+      belief in community-driven, open-source innovation</div>
+    text: A shared belief in community-driven, open-source innovation
+  attributes: {}
+- id: c819f856-1d65-9528-672a-0f3331310463
+  type: text
+  text:
+    html: <div class="paragraph-32 max-width-600">Developers have lived too long with
+      patchwork integrations and brittle glue code. Naftiko exists to change that.</div>
+    text: Developers have lived too long with patchwork integrations and brittle glue
+      code. Naftiko exists to change that.
+  attributes: {}
+- id: 6e7cd949-1e35-0c51-993b-37db3d1782a7
+  type: text
+  text:
+    html: <div>Explore more of what we’re building</div>
+    text: Explore more of what we’re building
+  attributes: {}
+- id: f5dac60a-96e5-9a6c-24c6-ff44a5e4941a
+  type: text
+  text:
+    html: <h2>The journey so far</h2>
+    text: The journey so far
+  attributes: {}
+- id: f5dac60a-96e5-9a6c-24c6-ff44a5e4941e
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a06c513a76fb895cd09df
+  attributes: {}
+- id: f5dac60a-96e5-9a6c-24c6-ff44a5e49428
+  type: text
+  text:
+    html: <div class="paragraph-24 normal height-130">Kin’s research and storytelling
+      with API Evangelist, now funneled into Naftiko</div>
+    text: Kin’s research and storytelling with API Evangelist, now funneled into Naftiko
+  attributes: {}
+- id: f5dac60a-96e5-9a6c-24c6-ff44a5e4942f
+  type: text
+  text:
+    html: <div class="paragraph-24 normal height-130">Jérôme’s frameworks and platforms
+      that shaped modern API ecosystems</div>
+    text: Jérôme’s frameworks and platforms that shaped modern API ecosystems
+  attributes: {}
+- id: f5dac60a-96e5-9a6c-24c6-ff44a5e49436
+  type: text
+  text:
+    html: <div class="paragraph-24 normal height-130">A shared belief in community-driven,
+      open-source innovation</div>
+    text: A shared belief in community-driven, open-source innovation
+  attributes: {}
+- id: f5dac60a-96e5-9a6c-24c6-ff44a5e49439
+  type: text
+  text:
+    html: <div class="paragraph-24 normal white height-130 max-width-550">Developers
+      have lived too long with patchwork integrations and brittle glue code. Naftiko
+      exists to change that.</div>
+    text: Developers have lived too long with patchwork integrations and brittle glue
+      code. Naftiko exists to change that.
+  attributes: {}
+- id: f5dac60a-96e5-9a6c-24c6-ff44a5e4943c
+  type: text
+  text:
+    html: <div class="green medium">Explore more of what we’re building</div>
+    text: Explore more of what we’re building
+  attributes: {}
+- id: 59f1e0de-fbf4-7c23-b3a2-f10ad8b3fa5f
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6920f9b4d1bcefcd4f5fb948
+  attributes: {}
+- id: 023b0045-2cd4-2f82-f06f-da4f4c4f7256
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6920e9370dafcc6667eecd10
+  attributes: {}
+- id: b1c5dfa1-ab42-6d0a-e1e7-85d50f6d773f
+  type: image
+  image:
+    alt: __wf_reserved_decorative
+    assetId: 69278457602cb44abd6189f5
+  attributes: {}
+- id: 7be2aa1a-acce-afbd-c7e1-c39d61052773
+  type: image
+  image:
+    alt: __wf_reserved_decorative
+    assetId: 692775678c5f8878171428d9
+  attributes: {}
+- id: a4eb242b-9173-0ee6-215c-eca4fe9fb07a
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69277567bb6c77ebe329878f
+  attributes: {}
+- id: cfb28b9a-fa2d-1398-9aa1-a5b217f5c3f6
+  type: text
+  text:
+    html: <h2>Every crew grows</h2>
+    text: Every crew grows
+  attributes: {}
+- id: cfb28b9a-fa2d-1398-9aa1-a5b217f5c3f8
+  type: text
+  text:
+    html: <div>As Naftiko expands, we’ll be looking for people who share our values
+      and want to help build the future of integration.</div>
+    text: As Naftiko expands, we’ll be looking for people who share our values and
+      want to help build the future of integration.
+  attributes: {}
+- id: 3d4cc1ca-aee3-deb9-7d4e-e4c6604d08ad
+  type: text
+  text:
+    html: <div>See if you’re a fit</div>
+    text: See if you’re a fit
+  attributes: {}
+- id: 408f3854-f127-32a4-10d1-5a1af2350fc3
+  type: component-instance
+  componentId: f08038d6-8bda-fa72-06f4-e95fb4071f06
+  propertyOverrides: []
+pagination:
+  limit: 100
+  offset: 0
+  total: 55
+lastUpdated: '2025-12-07T10:29:08.708Z'

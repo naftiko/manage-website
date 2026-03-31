@@ -1,0 +1,54 @@
+id: 69211cb593aafc734593092d
+cmsLocaleId: 691ced877a6ed28f42bd2fb9
+lastPublished: '2025-12-06T10:17:39.239Z'
+lastUpdated: '2025-12-06T10:17:09.589Z'
+createdOn: '2025-11-22T02:15:17.747Z'
+isArchived: false
+isDraft: false
+fieldData:
+  use-case-name: Query APIs like they’re tables
+  subtitle: Data lives in silos. Teams want insights now, but every new API means
+    another custom connector.
+  hero-card-content: <p id="">This use case seeks to consistently unlock the data
+    companies depend on across multiple third-party SaaS providers and existing database
+    connections via JDBC and ODBC. It ensures AI integrations have the data they require,
+    even when that data is spread across internal systems, SaaS tools, and legacy
+    databases.</p><p id="">Teams benefit from consistent SQL access to data sources,
+    and extending this access to third-party SaaS enables them to provide the context,
+    resources, and data needed for AI integrations across the enterprise. This use
+    case delivers a unified, simplified approach to powering AI workflows with the
+    data required within specific business domains.</p>
+  steadies-content: 'Naftiko organizes how capabilities work: the Framework sets the
+    rules, the Engine enforces them at runtime, and the Fabric delivers monitoring,
+    auditing, and reporting.'
+  card-content--1: Define data sources, schemas, and SQL access policies
+  card-content--2: Provide JDBC/ODBC connections and federate SQL queries across systems
+  card-content--3: Monitor data usage, freshness, and downstream consumption
+  gain-content--1: Unlock SaaS data through SQL
+  gain-content--2: Access internal and legacy systems using a unified SQL layer
+  gain-content--3: Connect easily to dashboards, BI tools, and analytics workflows
+  gain-content--4: Provide plug-and-play data access for data science and ML engineering
+  gain-content--5: Enable AI integrations with consistent, governed SQL access
+  cta-content: Discovery • Insights • Dashboards • Control
+  cta-button--link-another-use-case: 69211e381e54213d33a42ecd
+  what-it-connects-2:
+  - 692d8121f5bc89c54b3f7939
+  - 692d813a782ad65ef76545f3
+  - 692d814b5ee476efb18bad64
+  - 692d815c0e09dba5c241595f
+  - 692d9b8ed7c379b6f2998bc9
+  adapters-2:
+  - 692112f0021cdb241ca1848f
+  - 692112e8cbf416178c51fc57
+  - 69211c9a1e4b7e227089eaa9
+  - 69211caa6cd18daedff30e2d
+  - 6921189afdff575df17c7d48
+  mega-menu-summary: Query APIs like they’re tables
+  product-page-summary: Query APIs like they’re tables
+  product-page-icon-2:
+    fileId: 69213d71ddf25b6fa622f6c6
+    url: https://cdn.prod.website-files.com/691ced877a6ed28f42bd2fba/69213d71ddf25b6fa622f6c6_SQL%20icon.avif
+    alt: null
+  sort-priority: 4
+  name: SQL data access
+  slug: sql-data-access

@@ -1,0 +1,447 @@
+openapi: 3.1.0
+info:
+  title: Webflow List Pages
+  description: Returns a list of all pages for a Webflow site.
+  version: 2.0.0
+  contact:
+    name: Webflow Developer Relations
+    email: developers@webflow.com
+    url: https://developers.webflow.com
+  termsOfService: https://webflow.com/legal/terms
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+servers:
+- url: https://api.webflow.com/v2
+  description: Webflow API v2
+security:
+- OAuth2: []
+- ApiKey: []
+tags:
+- name: Pages
+  description: Pages are the pages in your Webflow site.
+paths:
+  /sites/{site_id}/pages:
+    get:
+      operationId: list-pages
+      summary: List Pages
+      description: 'List of all pages for a site.
+
+
+        Required scope | `pages:read`
+
+        '
+      tags:
+      - Pages
+      security:
+      - OAuth2:
+        - pages:read
+      parameters:
+      - name: site_id
+        in: path
+        description: Unique identifier for a Site
+        example: 690a6acf18713a7e3b856b21
+        x-naftiko-example: Naftiko Website
+        required: true
+        schema:
+          type: string
+          format: objectid
+      - name: localeId
+        in: query
+        required: false
+        description: Unique identifier for a specific Locale.
+        schema:
+          type: string
+      - name: limit
+        in: query
+        required: false
+        description: Maximum number of records to be returned (max 100)
+        schema:
+          type: integer
+          default: 100
+      - name: offset
+        in: query
+        required: false
+        description: Offset used for pagination if the results have more than limit records
+        schema:
+          type: integer
+          default: 0
+      responses:
+        '200':
+          description: Request was successful
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  pages:
+                    type: array
+                    items:
+                      type: object
+                      required:
+                      - id
+                      properties:
+                        id:
+                          type: string
+                          format: objectid
+                          description: Unique identifier for the Page
+                          example: 6596da6045e56dee495bcbba
+                        siteId:
+                          type: string
+                          format: objectid
+                          description: Unique identifier for the Site
+                          example: 690a6acf18713a7e3b856b21
+                        title:
+                          type: string
+                          description: Title of the Page
+                          example: Home
+                        slug:
+                          type: string
+                          nullable: true
+                          description: Slug of the Page (derived from title), null for the Home page
+                          example: home
+                        parentId:
+                          type: string
+                          format: objectid
+                          nullable: true
+                          description: Identifier of the parent folder
+                          example: null
+                        collectionId:
+                          type: string
+                          format: objectid
+                          nullable: true
+                          description: Unique identifier for a linked Collection, null if not part of a Collection
+                          example: null
+                        createdOn:
+                          type: string
+                          format: date-time
+                          description: The date the Page was created
+                          example: '2025-11-04T21:06:23.568Z'
+                        lastUpdated:
+                          type: string
+                          format: date-time
+                          description: The date the Page was most recently updated
+                          example: '2026-03-17T23:44:55.315Z'
+                        archived:
+                          type: boolean
+                          description: Whether the Page has been archived
+                          default: false
+                          example: false
+                        draft:
+                          type: boolean
+                          description: Whether the Page is a draft
+                          default: false
+                          example: false
+                        canBranch:
+                          type: boolean
+                          description: Indicates whether the Page supports Page Branching
+                          default: false
+                          example: false
+                        isBranch:
+                          type: boolean
+                          description: Indicates whether the Page is a Branch of another Page
+                          default: false
+                          example: false
+                        branchId:
+                          type: string
+                          format: objectid
+                          nullable: true
+                          description: If the Page is a Branch, this is the ID of the Branch
+                          example: null
+                        seo:
+                          type: object
+                          description: SEO-related fields for the Page
+                          properties:
+                            title:
+                              type: string
+                              description: The Page title shown in search engine results
+                              example: Naftiko - API Intelligence Platform
+                            description:
+                              type: string
+                              description: The Page description shown in search engine results
+                              example: Naftiko helps teams manage and understand their APIs.
+                        openGraph:
+                          type: object
+                          description: Open Graph fields for the Page
+                          properties:
+                            title:
+                              type: string
+                              nullable: true
+                              description: The title supplied to Open Graph annotations
+                              example: null
+                            titleCopied:
+                              type: boolean
+                              description: Indicates the Open Graph title was copied from the SEO title
+                              default: true
+                            description:
+                              type: string
+                              nullable: true
+                              description: The description supplied to Open Graph annotations
+                              example: null
+                            descriptionCopied:
+                              type: boolean
+                              description: Indicates the Open Graph description was copied from the SEO description
+                              default: true
+                        localeId:
+                          type: string
+                          format: objectid
+                          nullable: true
+                          description: Unique ID of the page locale
+                          example: 691ced877a6ed28f42bd2fce
+                        publishedPath:
+                          type: string
+                          description: Relative path of the published page URL
+                          example: /
+                  pagination:
+                    type: object
+                    description: Pagination object
+                    required:
+                    - limit
+                    - offset
+                    - total
+                    properties:
+                      limit:
+                        type: integer
+                        description: The limit used for pagination
+                        example: 100
+                      offset:
+                        type: integer
+                        description: The offset used for pagination
+                        example: 0
+                      total:
+                        type: integer
+                        description: The total number of records
+                        example: 10
+              example:
+                pages:
+                - id: 690a6ad118713a7e3b856b86
+                  siteId: 690a6acf18713a7e3b856b21
+                  title: Home
+                  slug: null
+                  parentId: null
+                  collectionId: null
+                  createdOn: '2025-11-04T21:06:25.279Z'
+                  lastUpdated: '2026-02-23T15:53:18.252Z'
+                  archived: false
+                  draft: false
+                  canBranch: true
+                  isBranch: false
+                  branchId: null
+                  seo:
+                    title: Naftiko
+                    description: Embrace your API legacy, integrate your AI future. Naftiko turns API sprawl into a governed capability fabric that teams can depend on.
+                  openGraph:
+                    title: null
+                    titleCopied: true
+                    description: null
+                    descriptionCopied: true
+                  publishedPath: /
+                  localeId: null
+                - id: 6915e51cdd59b276297cbe4f
+                  siteId: 690a6acf18713a7e3b856b21
+                  title: Product
+                  slug: product
+                  parentId: null
+                  collectionId: null
+                  createdOn: '2025-11-13T14:03:08.581Z'
+                  lastUpdated: '2026-02-05T23:34:24.484Z'
+                  archived: false
+                  draft: false
+                  canBranch: true
+                  isBranch: false
+                  branchId: null
+                  seo:
+                    title: Product | Naftiko
+                    description: Discover Naftiko Studio. Build, run, and govern integrations with Studio, Engine, and Hub, powered by an open source framework for scalable, repeatable integration.
+                  openGraph:
+                    title: null
+                    titleCopied: true
+                    description: null
+                    descriptionCopied: true
+                  publishedPath: /product
+                  localeId: null
+                - id: 6918fd26dc09e9e742e59c0d
+                  siteId: 690a6acf18713a7e3b856b21
+                  title: Resources
+                  slug: resources
+                  parentId: null
+                  collectionId: null
+                  createdOn: '2025-11-15T22:22:30.990Z'
+                  lastUpdated: '2026-01-05T21:19:18.646Z'
+                  archived: false
+                  draft: false
+                  canBranch: true
+                  isBranch: false
+                  branchId: null
+                  seo:
+                    title: Resources | Naftiko
+                    description: Explore Naftiko resources white papers, deep-dive blog posts, and signals from the crew shaping modern API integration.
+                  openGraph:
+                    title: null
+                    titleCopied: true
+                    description: null
+                    descriptionCopied: true
+                  publishedPath: /resources
+                  localeId: null
+                pagination:
+                  limit: 100
+                  offset: 0
+                  total: 28
+        '400':
+          description: Request body was incorrectly formatted.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: string
+                    description: Error code
+                    example: bad_request
+                  message:
+                    type: string
+                    description: Error message
+                    example: 'Bad Request: Request is malformed'
+                  externalReference:
+                    type: string
+                    nullable: true
+                    example: null
+                  details:
+                    type: array
+                    items:
+                      type: string
+                    example: []
+              example:
+                code: bad_request
+                message: 'Bad Request: Request is malformed'
+                externalReference: null
+                details: []
+        '401':
+          description: Provided access token is invalid or does not have access to requested resource
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: string
+                    description: Error code
+                    example: not_authorized
+                  message:
+                    type: string
+                    description: Error message
+                    example: Request not authorized
+                  externalReference:
+                    type: string
+                    nullable: true
+                    example: null
+                  details:
+                    type: array
+                    items:
+                      type: string
+                    example: []
+              example:
+                code: not_authorized
+                message: Request not authorized
+                externalReference: null
+                details: []
+        '404':
+          description: Requested resource not found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: string
+                    description: Error code
+                    example: resource_not_found
+                  message:
+                    type: string
+                    description: Error message
+                    example: 'Requested resource not found: The site cannot be found'
+                  externalReference:
+                    type: string
+                    nullable: true
+                    example: null
+                  details:
+                    type: array
+                    items:
+                      type: string
+                    example: []
+              example:
+                code: resource_not_found
+                message: 'Requested resource not found: The site cannot be found'
+                externalReference: null
+                details: []
+        '429':
+          description: Rate limit reached for the provided access token.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: string
+                    description: Error code
+                    example: too_many_requests
+                  message:
+                    type: string
+                    description: Error message
+                    example: Too many requests
+                  externalReference:
+                    type: string
+                    nullable: true
+                    example: null
+                  details:
+                    type: array
+                    items:
+                      type: string
+                    example: []
+              example:
+                code: too_many_requests
+                message: Too many requests
+                externalReference: null
+                details: []
+        '500':
+          description: We had a problem with our server. Try again later.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: string
+                    description: Error code
+                    example: internal_error
+                  message:
+                    type: string
+                    description: Error message
+                    example: An Internal Error occurred
+                  externalReference:
+                    type: string
+                    nullable: true
+                    example: null
+                  details:
+                    type: array
+                    items:
+                      type: string
+                    example: []
+              example:
+                code: internal_error
+                message: An Internal Error occurred
+                externalReference: null
+                details: []
+components:
+  securitySchemes:
+    OAuth2:
+      type: oauth2
+      flows:
+        authorizationCode:
+          scopes:
+            pages:read: read pages on the site
+          authorizationUrl: https://webflow.com/oauth/authorize
+          tokenUrl: https://api.webflow.com/oauth/token
+    ApiKey:
+      type: http
+      scheme: bearer

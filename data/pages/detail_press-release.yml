@@ -1,0 +1,103 @@
+pageId: 692dca540998586991c40d83
+branchId: null
+nodes:
+- id: ce04b7d2-0b78-56c2-f207-ed06b9d042dc
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: ce04b7d2-0b78-56c2-f207-ed06b9d042dd
+  type: component-instance
+  componentId: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f146
+  propertyOverrides: []
+- id: ce04b7d2-0b78-56c2-f207-ed06b9d042e0
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: null
+  attributes: {}
+- id: ce04b7d2-0b78-56c2-f207-ed06b9d042e2
+  type: component-instance
+  componentId: 334235b2-f258-d4bf-c6d0-9052ffcbc41c
+  propertyOverrides: []
+- id: ce04b7d2-0b78-56c2-f207-ed06b9d042e3
+  type: component-instance
+  componentId: a58d47e0-367f-4320-f49d-47527c308dbe
+  propertyOverrides: []
+- id: 35d03ea6-19d0-ae06-62c9-318d58957bb5
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6935f11d29b38daba65fdcb4
+  attributes: {}
+- id: 05cf976e-9f37-50dc-249e-3492e2f1d869
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6935f11d29b38daba65fdcb4
+  attributes: {}
+- id: 22ac52ae-2be2-7408-89c3-31c3747fe9e2
+  type: text
+  text:
+    html: <div class="paragraph-26 medium">Contact information</div>
+    text: Contact information
+  attributes: {}
+- id: caa77206-9525-6890-0d76-d82ab78ce437
+  type: text
+  text:
+    html: <div class="paragraph-24 medium white">Naftiko</div>
+    text: Naftiko
+  attributes: {}
+- id: f6ca4cf7-22c6-0746-2bad-a59ee016bf67
+  type: image
+  image:
+    alt: ''
+    assetId: 6935f3407bc6166d9ff3d763
+  attributes: {}
+- id: f6ca4cf7-22c6-0746-2bad-a59ee016bf68
+  type: text
+  text:
+    html: <div class="paragraph-20 white medium">contact@naftiko.io</div>
+    text: contact@naftiko.io
+  attributes: {}
+- id: dd39946d-fdad-ee77-9a65-620bcaf2de6b
+  type: text-input
+  placeholder: Enter your email
+  attributes: {}
+- id: dd39946d-fdad-ee77-9a65-620bcaf2de6d
+  type: submit-button
+  waitingText: Please wait...
+  value: Subscribe
+  attributes: {}
+- id: dd39946d-fdad-ee77-9a65-620bcaf2de71
+  type: text
+  text:
+    html: <div>Thanks for signing up!</div>
+    text: Thanks for signing up!
+  attributes: {}
+- id: dd39946d-fdad-ee77-9a65-620bcaf2de75
+  type: text
+  text:
+    html: <div>Subscribed</div>
+    text: Subscribed
+  attributes: {}
+- id: dd39946d-fdad-ee77-9a65-620bcaf2de78
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: dd39946d-fdad-ee77-9a65-620bcaf2de7f
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915b78801b16cb7875d3e10
+  attributes: {}
+- id: ce04b7d2-0b78-56c2-f207-ed06b9d0432a
+  type: component-instance
+  componentId: f08038d6-8bda-fa72-06f4-e95fb4071f06
+  propertyOverrides: []
+pagination:
+  limit: 100
+  offset: 0
+  total: 18
+lastUpdated: '2025-12-18T11:42:32.542Z'

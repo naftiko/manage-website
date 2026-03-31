@@ -1,0 +1,69 @@
+pageId: 692398c054680195594e67a9
+branchId: null
+nodes:
+- id: f6b2d080-b3a4-9515-361d-9d39eaf29407
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: f6b2d080-b3a4-9515-361d-9d39eaf29408
+  type: component-instance
+  componentId: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f146
+  propertyOverrides: []
+- id: f6b2d080-b3a4-9515-361d-9d39eaf29409
+  type: component-instance
+  componentId: 48eb0862-0648-838c-90e7-508d66816e78
+  propertyOverrides: []
+- id: f6b2d080-b3a4-9515-361d-9d39eaf2940a
+  type: component-instance
+  componentId: 334235b2-f258-d4bf-c6d0-9052ffcbc41c
+  propertyOverrides: []
+- id: f6b2d080-b3a4-9515-361d-9d39eaf2940b
+  type: component-instance
+  componentId: a58d47e0-367f-4320-f49d-47527c308dbe
+  propertyOverrides: []
+- id: f6b2d080-b3a4-9515-361d-9d39eaf29412
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6923ae1a3b0631dc37761d93
+  attributes: {}
+- id: f6b2d080-b3a4-9515-361d-9d39eaf29413
+  type: text
+  text:
+    html: <a class="paragraph-46" data-wf-link-page-id="6923957b4af5fb731b964efe">The
+      Naftiko Glossary</a>
+    text: The Naftiko Glossary
+  attributes: {}
+- id: 0535f802-01b4-998c-459b-36b075d1055f
+  type: text
+  text:
+    html: <div class="red">Other terms</div>
+    text: Other terms
+  attributes: {}
+- id: 97cf2c36-ea74-2df0-7e89-6d2b2dd4e8a4
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: d4e73b8d-7b33-765f-9fd8-aed607118b8e
+  type: text
+  text:
+    html: <div class="red">Related articles</div>
+    text: Related articles
+  attributes: {}
+- id: 05b525ea-05a8-8f4f-b899-b8ab3329209d
+  type: text
+  text:
+    html: <div class="white-60">No related articles currently</div>
+    text: No related articles currently
+  attributes: {}
+- id: f6b2d080-b3a4-9515-361d-9d39eaf29492
+  type: component-instance
+  componentId: f08038d6-8bda-fa72-06f4-e95fb4071f06
+  propertyOverrides: []
+pagination:
+  limit: 100
+  offset: 0
+  total: 12
+lastUpdated: '2025-11-30T17:10:07.042Z'

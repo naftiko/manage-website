@@ -1,0 +1,426 @@
+pageId: 690a6ad118713a7e3b856b86
+branchId: null
+nodes:
+- id: 1c54e280-37a0-32ca-d44d-81d5ee53122e
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f148
+  type: component-instance
+  componentId: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f146
+  propertyOverrides: []
+- id: c52ddab1-b091-f026-8879-27aad4501d03
+  type: component-instance
+  componentId: 48eb0862-0648-838c-90e7-508d66816e78
+  propertyOverrides: []
+- id: 1585db23-8312-6385-f48d-9724ef85d1b3
+  type: component-instance
+  componentId: 334235b2-f258-d4bf-c6d0-9052ffcbc41c
+  propertyOverrides: []
+- id: a58d47e0-367f-4320-f49d-47527c308dec
+  type: component-instance
+  componentId: a58d47e0-367f-4320-f49d-47527c308dbe
+  propertyOverrides: []
+- id: 7e4f58f9-d003-665f-1dda-64ff54cfc982
+  type: text
+  text:
+    html: <h1>Embrace your API legacy, integrate your AI future.</h1>
+    text: Embrace your API legacy, integrate your AI future.
+  attributes: {}
+- id: 3bffd447-cfab-fade-d106-21d006137fa1
+  type: text
+  text:
+    html: <div class="paragraph-22">Naftiko turns API sprawl into a governed capability
+      fabric that teams can depend on.</div>
+    text: Naftiko turns API sprawl into a governed capability fabric that teams can
+      depend on.
+  attributes: {}
+- id: 2d57b9ee-53ab-b413-cb15-bd8953c6e956
+  type: text-input
+  placeholder: Enter your email
+  attributes: {}
+- id: 2d57b9ee-53ab-b413-cb15-bd8953c6e958
+  type: submit-button
+  waitingText: Please wait...
+  value: Join the waitlist
+  attributes: {}
+- id: 2d57b9ee-53ab-b413-cb15-bd8953c6e95c
+  type: text
+  text:
+    html: <div>Thanks for signing up!</div>
+    text: Thanks for signing up!
+  attributes: {}
+- id: 2d57b9ee-53ab-b413-cb15-bd8953c6e960
+  type: text
+  text:
+    html: <div>Subscribed</div>
+    text: Subscribed
+  attributes: {}
+- id: 2d57b9ee-53ab-b413-cb15-bd8953c6e963
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: 06c8d785-dc94-00a8-b6ea-d19a80f82e26
+  type: text
+  text:
+    html: <div>See us at apidays Paris</div>
+    text: See us at apidays Paris
+  attributes: {}
+- id: 6c0106cb-c432-e13f-5e41-c36fed634357
+  type: text
+  text:
+    html: <h2>Why Naftiko</h2>
+    text: Why Naftiko
+  attributes: {}
+- id: ace17c5f-67d1-cbd0-4ab2-749bb15d4af7
+  type: text
+  text:
+    html: <div class="paragraph-19">It's open source, community-driven, and built
+      for engineers who want to move fast while staying aligned with their business.</div>
+    text: It's open source, community-driven, and built for engineers who want to
+      move fast while staying aligned with their business.
+  attributes: {}
+- id: 58cf8c22-c8c3-50a4-d49a-003b78e2c8e8
+  type: text
+  text:
+    html: <div class="paragraph-24">Declarative</div>
+    text: Declarative
+  attributes: {}
+- id: 627be951-2fc5-f216-be75-5245c2f8b2ab
+  type: text
+  text:
+    html: <div class="paragraph-16 white">Define once, run everywhere. Predictable,
+      portable, and built to unify consumption across your stack.</div>
+    text: Define once, run everywhere. Predictable, portable, and built to unify consumption
+      across your stack.
+  attributes: {}
+- id: 1013c8b7-2549-cd67-9814-107110576b48
+  type: text
+  text:
+    html: <div class="paragraph-24">Governed</div>
+    text: Governed
+  attributes: {}
+- id: 1013c8b7-2549-cd67-9814-107110576b50
+  type: text
+  text:
+    html: <div class="paragraph-16 white">Guardrails built into the flow. Secure,
+      compliant, and always audit-ready.<br data-w-id="3645facb-dc34-77c4-4cb1-00b158386e63"></div>
+    text: 'Guardrails built into the flow. Secure, compliant, and always audit-ready.
+
+      '
+  attributes: {}
+- id: 8b16f645-e2eb-63ae-edcf-28beb1017e8f
+  type: text
+  text:
+    html: <div class="paragraph-24">Operational</div>
+    text: Operational
+  attributes: {}
+- id: 8b16f645-e2eb-63ae-edcf-28beb1017e97
+  type: text
+  text:
+    html: <div class="paragraph-16 white">Built for real-world uptime. Monitor, troubleshoot,
+      and keep integrations healthy without firefights.<br data-w-id="000c3dc3-f754-13d0-b01b-70785097f56e"></div>
+    text: 'Built for real-world uptime. Monitor, troubleshoot, and keep integrations
+      healthy without firefights.
+
+      '
+  attributes: {}
+- id: 16284a86-d1b6-be41-a1b0-806ccf8ae811
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69331f73c8dee7df0ee52b17
+  attributes: {}
+- id: 3ac77383-e3ce-6708-8f6c-91ade15db53f
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69331f734ea1500bc7a33817
+  attributes: {}
+- id: b4b2d83c-6136-01e6-e9eb-28d692e85aad
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69331f72204a15a7b1f1962f
+  attributes: {}
+- id: 818a1973-0ae4-cb69-05fc-320027d254c6
+  type: text
+  text:
+    html: <h2 class="max-width-500">For API and integration teams</h2>
+    text: For API and integration teams
+  attributes: {}
+- id: 818a1973-0ae4-cb69-05fc-320027d254c8
+  type: text
+  text:
+    html: <div>The crew keeping systems steady and charting the way forward.</div>
+    text: The crew keeping systems steady and charting the way forward.
+  attributes: {}
+- id: a2e168f9-920c-00df-b174-5cd7d24207b2
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691598fdbb77ff2fe865e524
+  attributes: {}
+- id: 818a1973-0ae4-cb69-05fc-320027d254cf
+  type: text
+  text:
+    html: <div class="paragraph-24">Today</div>
+    text: Today
+  attributes: {}
+- id: 818a1973-0ae4-cb69-05fc-320027d254d1
+  type: text
+  text:
+    html: <div class="paragraph-16">SaaS growth and AI urgency are driving API sprawl
+      faster than teams can keep up.</div>
+    text: SaaS growth and AI urgency are driving API sprawl faster than teams can
+      keep up.
+  attributes: {}
+- id: 650b260c-6f6c-7c6b-5bf5-86af6345c309
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691598fd75143b50d3e37e9f
+  attributes: {}
+- id: 650b260c-6f6c-7c6b-5bf5-86af6345c30b
+  type: text
+  text:
+    html: <div class="paragraph-24">The problem</div>
+    text: The problem
+  attributes: {}
+- id: 650b260c-6f6c-7c6b-5bf5-86af6345c30d
+  type: text
+  text:
+    html: <div class="paragraph-16">Data is scattered across countless SaaS apps,
+      APIs are multiplying, and you’re left stitching together brittle solutions that
+      won’t scale.</div>
+    text: Data is scattered across countless SaaS apps, APIs are multiplying, and
+      you’re left stitching together brittle solutions that won’t scale.
+  attributes: {}
+- id: 07ceaa07-aad9-89e0-8e84-67ac60665092
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691598fd8e1703a99f3f9413
+  attributes: {}
+- id: 07ceaa07-aad9-89e0-8e84-67ac60665094
+  type: text
+  text:
+    html: <div class="paragraph-24">The answer</div>
+    text: The answer
+  attributes: {}
+- id: 07ceaa07-aad9-89e0-8e84-67ac60665096
+  type: text
+  text:
+    html: <div class="paragraph-16">A declarative, policy-driven capability fabric
+      that unifies today’s sprawl and adapts seamlessly to whatever comes next.<br
+      data-w-id="7f1289f2-795e-8e2f-8797-7c95f4c9db04"></div>
+    text: 'A declarative, policy-driven capability fabric that unifies today’s sprawl
+      and adapts seamlessly to whatever comes next.
+
+      '
+  attributes: {}
+- id: 818a1973-0ae4-cb69-05fc-320027d254e7
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69231401fbdb48560ef808d5
+  attributes:
+    data-platform-logo: naftiko
+- id: a2f2c9fd-aa4e-2a71-58fa-f688771f9ecc
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6923140169aacfbcf97073d6
+  attributes:
+    data-platform-logo: framer
+- id: b37c51c3-0f30-1e41-4324-3dcc31913fe3
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692314010b328ca61af93cb4
+  attributes:
+    data-platform-logo: blender
+- id: 891f6200-2aeb-3e92-2d2c-3b4c2a77abc1
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69231401296dbe75c49504c2
+  attributes:
+    data-platform-logo: webflow
+- id: 9be7862d-3cbc-cbfb-e6da-b9725c450ded
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69231401a7fb2f57c895ea47
+  attributes:
+    data-platform-logo: ae
+- id: bca2f1f3-90d5-1750-7207-ad57291685ca
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69231401dd5644a79fd93344
+  attributes:
+    data-platform-logo: ps
+- id: 172d781f-19fa-a707-a201-8c147356e4dc
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69231401629de6899e8fe3f7
+  attributes:
+    data-platform-logo: figma
+- id: ca08b8b8-8c0c-b045-1247-a1b2f27ab408
+  type: text
+  text:
+    html: <div>See how it works</div>
+    text: See how it works
+  attributes: {}
+- id: b9c38cba-accf-92e3-76ca-6c32975fcdb0
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915e2960d769dfec5d19526
+  attributes: {}
+- id: e2e44676-ad60-9532-75a7-1c27143a422b
+  type: text
+  text:
+    html: "<h2 class=\"max-width-900\">A community, a resource, and a \Lcompany you\
+      \ can build with</h2>"
+    text: "A community, a resource, and a \Lcompany you can build with"
+  attributes: {}
+- id: 2a743fe3-0a58-f4f0-7ca1-84c791c62bea
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915a4c50b4692d3ab75d7a0
+  attributes: {}
+- id: 2a743fe3-0a58-f4f0-7ca1-84c791c62bec
+  type: text
+  text:
+    html: <div class="paragraph-24 white medium height-110">Resources</div>
+    text: Resources
+  attributes: {}
+- id: 2a743fe3-0a58-f4f0-7ca1-84c791c62bee
+  type: text
+  text:
+    html: <div class="paragraph-18">White papers, blog, docs hub</div>
+    text: White papers, blog, docs hub
+  attributes: {}
+- id: 2a743fe3-0a58-f4f0-7ca1-84c791c62bf3
+  type: text
+  text:
+    html: <div>Explore</div>
+    text: Explore
+  attributes: {}
+- id: 9156e572-6f5d-efa6-ed19-b16b2613cec7
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915a4c55d7f65446aa9a24f
+  attributes: {}
+- id: 9156e572-6f5d-efa6-ed19-b16b2613cec9
+  type: text
+  text:
+    html: <div class="paragraph-24 white medium height-110">Community</div>
+    text: Community
+  attributes: {}
+- id: 9156e572-6f5d-efa6-ed19-b16b2613cecb
+  type: text
+  text:
+    html: <div class="paragraph-18">Open source, guides, discussions</div>
+    text: Open source, guides, discussions
+  attributes: {}
+- id: 9156e572-6f5d-efa6-ed19-b16b2613cecf
+  type: text
+  text:
+    html: <div>Dive in</div>
+    text: Dive in
+  attributes: {}
+- id: 8e90fac4-ff9b-50da-9296-870908b0f853
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915a4c531f6d9813bf1517e
+  attributes: {}
+- id: 8e90fac4-ff9b-50da-9296-870908b0f855
+  type: text
+  text:
+    html: <div class="paragraph-24 white medium height-110">Careers</div>
+    text: Careers
+  attributes: {}
+- id: 8e90fac4-ff9b-50da-9296-870908b0f857
+  type: text
+  text:
+    html: <div class="paragraph-18">Join the crew from the start</div>
+    text: Join the crew from the start
+  attributes: {}
+- id: 8e90fac4-ff9b-50da-9296-870908b0f85b
+  type: text
+  text:
+    html: <div>Come aboard</div>
+    text: Come aboard
+  attributes: {}
+- id: 5e49ea46-07a8-bdc5-207b-b96480487f0a
+  type: text
+  text:
+    html: <h2 class="max-width-900 height-110 align-text-left">Be part of the first
+      wave</h2>
+    text: Be part of the first wave
+  attributes: {}
+- id: 6db24658-a675-b4b3-e8e6-6a635f1aa0e3
+  type: text
+  text:
+    html: <div class="white-90 max-width-800">Get early access to Naftiko technologgy
+      and be part of the pionneers in capability-driven integration.</div>
+    text: Get early access to Naftiko technologgy and be part of the pionneers in
+      capability-driven integration.
+  attributes: {}
+- id: 3471d5ef-43a6-78d7-64d8-8a8a961a88ab
+  type: text-input
+  placeholder: Enter your email
+  attributes: {}
+- id: 3471d5ef-43a6-78d7-64d8-8a8a961a88ad
+  type: submit-button
+  waitingText: Please wait...
+  value: Join the waitlist
+  attributes: {}
+- id: 3471d5ef-43a6-78d7-64d8-8a8a961a88b1
+  type: text
+  text:
+    html: <div>Thanks for signing up!</div>
+    text: Thanks for signing up!
+  attributes: {}
+- id: 3471d5ef-43a6-78d7-64d8-8a8a961a88b5
+  type: text
+  text:
+    html: <div>Subscribed</div>
+    text: Subscribed
+  attributes: {}
+- id: 3471d5ef-43a6-78d7-64d8-8a8a961a88b8
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: 8d3af6d6-6186-09b5-8e3d-441e5381b9db
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915b4285b5d9c310bd8dcc1
+  attributes: {}
+- id: 290de599-0eb9-b99e-f8c9-f9ae0efd9b29
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915b78801b16cb7875d3e10
+  attributes: {}
+- id: f08038d6-8bda-fa72-06f4-e95fb4071f49
+  type: component-instance
+  componentId: f08038d6-8bda-fa72-06f4-e95fb4071f06
+  propertyOverrides: []
+pagination:
+  limit: 100
+  offset: 0
+  total: 67
+lastUpdated: '2026-02-23T15:53:18.294Z'

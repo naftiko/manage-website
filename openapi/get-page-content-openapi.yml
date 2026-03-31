@@ -1,0 +1,461 @@
+openapi: 3.1.0
+info:
+  title: Webflow Get Page Content
+  description: Returns the DOM nodes and content for a static Webflow page.
+  version: 2.0.0
+  contact:
+    name: Webflow Developer Relations
+    email: developers@webflow.com
+    url: https://developers.webflow.com
+  termsOfService: https://webflow.com/legal/terms
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+servers:
+- url: https://api.webflow.com/v2
+  description: Webflow API v2
+security:
+- OAuth2: []
+- ApiKey: []
+tags:
+- name: Pages
+  description: Pages are the pages in your Webflow site.
+paths:
+  /pages/{page_id}/dom:
+    get:
+      operationId: get-static-content
+      summary: Get Page Content
+      description: 'Get text and component instance content from a static page.
+
+
+        Required scope | `pages:read`
+
+
+        Note: only works for static pages. Collection template pages use CMS items for content.
+
+        '
+      tags:
+      - Pages
+      security:
+      - OAuth2:
+        - pages:read
+      parameters:
+      - name: page_id
+        in: path
+        description: Unique identifier for a Page
+        example: 690a6ad118713a7e3b856b86
+        required: true
+        schema:
+          type: string
+          format: objectid
+      - name: localeId
+        in: query
+        required: false
+        description: Unique identifier for a specific Locale.
+        schema:
+          type: string
+      - name: limit
+        in: query
+        required: false
+        description: Maximum number of records to be returned (max 100)
+        schema:
+          type: integer
+          default: 100
+      - name: offset
+        in: query
+        required: false
+        description: Offset used for pagination if results exceed limit
+        schema:
+          type: integer
+          default: 0
+      responses:
+        '200':
+          description: Request was successful
+          content:
+            application/json:
+              schema:
+                type: object
+                description: The DOM structure of a static page, containing content nodes and pagination.
+                properties:
+                  pageId:
+                    type: string
+                    description: The ID of the page
+                    example: 690a6ad118713a7e3b856b86
+                  branchId:
+                    type: string
+                    format: objectid
+                    nullable: true
+                    description: The unique identifier of a specific page branch
+                    example: null
+                  nodes:
+                    type: array
+                    description: Array of DOM content nodes
+                    items:
+                      type: object
+                      description: A content node within the page DOM. Type determines the structure.
+                      required:
+                      - id
+                      - type
+                      properties:
+                        id:
+                          type: string
+                          description: Node UUID
+                          example: 7e4f58f9-d003-665f-1dda-64ff54cfc982
+                        type:
+                          type: string
+                          description: The type of the node
+                          enum:
+                          - text
+                          - image
+                          - component-instance
+                          - text-input
+                          - submit-button
+                          - select
+                          - search-button
+                          example: text
+                      oneOf:
+                      - title: Text Node
+                        type: object
+                        required:
+                        - id
+                        - type
+                        - text
+                        properties:
+                          id:
+                            type: string
+                            description: Node UUID
+                          type:
+                            type: string
+                            enum:
+                            - text
+                          text:
+                            type: object
+                            properties:
+                              html:
+                                type: string
+                                nullable: true
+                                description: The HTML content of the text node
+                                example: <h1>Embrace your API legacy, integrate your AI future.</h1>
+                              text:
+                                type: string
+                                nullable: true
+                                description: The raw text content of the text node
+                                example: Embrace your API legacy, integrate your AI future.
+                          attributes:
+                            type: object
+                            description: Custom attributes of the node
+                            additionalProperties:
+                              type: string
+                      - title: Image Node
+                        type: object
+                        required:
+                        - id
+                        - type
+                        - image
+                        properties:
+                          id:
+                            type: string
+                            description: Node UUID
+                          type:
+                            type: string
+                            enum:
+                            - image
+                          image:
+                            type: object
+                            properties:
+                              alt:
+                                type: string
+                                nullable: true
+                                description: Alt text for the image
+                                example: __wf_reserved_inherit
+                              assetId:
+                                type: string
+                                description: Asset ID for fetching the image
+                                example: 69331f73c8dee7df0ee52b17
+                          attributes:
+                            type: object
+                            description: Custom attributes of the node
+                            additionalProperties:
+                              type: string
+                      - title: Component Instance Node
+                        type: object
+                        required:
+                        - id
+                        - type
+                        - componentId
+                        - propertyOverrides
+                        properties:
+                          id:
+                            type: string
+                            description: Node UUID
+                          type:
+                            type: string
+                            enum:
+                            - component-instance
+                          componentId:
+                            type: string
+                            description: Unique identifier of the component
+                            example: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+                          propertyOverrides:
+                            type: array
+                            description: List of component property overrides
+                            items:
+                              type: object
+                              properties:
+                                propertyId:
+                                  type: string
+                                  description: The ID of the property
+                                type:
+                                  type: string
+                                  enum:
+                                  - Plain Text
+                                  - Rich Text
+                                  - Alt Text
+                                  description: The type of the property
+                                label:
+                                  type: string
+                                  description: The label of the property in the UI
+                                text:
+                                  type: object
+                                  properties:
+                                    html:
+                                      type: string
+                                      nullable: true
+                                    text:
+                                      type: string
+                                      nullable: true
+                      - title: Text Input Node
+                        type: object
+                        required:
+                        - id
+                        - type
+                        - placeholder
+                        properties:
+                          id:
+                            type: string
+                            description: Node UUID
+                          type:
+                            type: string
+                            enum:
+                            - text-input
+                          placeholder:
+                            type: string
+                            description: Placeholder text for the input
+                            example: Enter your email
+                          attributes:
+                            type: object
+                            additionalProperties:
+                              type: string
+                      - title: Submit Button Node
+                        type: object
+                        required:
+                        - id
+                        - type
+                        - value
+                        - waitingText
+                        properties:
+                          id:
+                            type: string
+                            description: Node UUID
+                          type:
+                            type: string
+                            enum:
+                            - submit-button
+                          value:
+                            type: string
+                            description: Button label text
+                            example: Join the waitlist
+                          waitingText:
+                            type: string
+                            description: Text shown while the form is submitting
+                            example: Please wait...
+                          attributes:
+                            type: object
+                            additionalProperties:
+                              type: string
+                  pagination:
+                    type: object
+                    description: Pagination object
+                    required:
+                    - limit
+                    - offset
+                    - total
+                    properties:
+                      limit:
+                        type: integer
+                        description: The limit used for pagination
+                        example: 100
+                      offset:
+                        type: integer
+                        description: The offset used for pagination
+                        example: 0
+                      total:
+                        type: integer
+                        description: Total number of nodes
+                        example: 67
+                  lastUpdated:
+                    type: string
+                    format: date-time
+                    description: When the page content was last updated
+                    example: '2026-02-23T15:53:18.294Z'
+              example:
+                pageId: 690a6ad118713a7e3b856b86
+                branchId: null
+                nodes:
+                - id: 7e4f58f9-d003-665f-1dda-64ff54cfc982
+                  type: text
+                  text:
+                    html: <h1>Embrace your API legacy, integrate your AI future.</h1>
+                    text: Embrace your API legacy, integrate your AI future.
+                  attributes: {}
+                - id: 3bffd447-cfab-fade-d106-21d006137fa1
+                  type: text
+                  text:
+                    html: <div class="paragraph-22">Naftiko turns API sprawl into a governed capability fabric that teams can depend on.</div>
+                    text: Naftiko turns API sprawl into a governed capability fabric that teams can depend on.
+                  attributes: {}
+                - id: 2d57b9ee-53ab-b413-cb15-bd8953c6e956
+                  type: text-input
+                  placeholder: Enter your email
+                  attributes: {}
+                - id: 2d57b9ee-53ab-b413-cb15-bd8953c6e958
+                  type: submit-button
+                  value: Join the waitlist
+                  waitingText: Please wait...
+                  attributes: {}
+                - id: 1c54e280-37a0-32ca-d44d-81d5ee53122e
+                  type: component-instance
+                  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+                  propertyOverrides: []
+                - id: 16284a86-d1b6-be41-a1b0-806ccf8ae811
+                  type: image
+                  image:
+                    alt: __wf_reserved_inherit
+                    assetId: 69331f73c8dee7df0ee52b17
+                  attributes: {}
+                pagination:
+                  limit: 100
+                  offset: 0
+                  total: 67
+                lastUpdated: '2026-02-23T15:53:18.294Z'
+        '401':
+          description: Provided access token is invalid or does not have access to requested resource
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: string
+                    example: not_authorized
+                  message:
+                    type: string
+                    example: Request not authorized
+                  externalReference:
+                    type: string
+                    nullable: true
+                    example: null
+                  details:
+                    type: array
+                    items:
+                      type: string
+                    example: []
+              example:
+                code: not_authorized
+                message: Request not authorized
+                externalReference: null
+                details: []
+        '404':
+          description: Requested resource not found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: string
+                    example: resource_not_found
+                  message:
+                    type: string
+                    example: 'Requested resource not found: The page cannot be found'
+                  externalReference:
+                    type: string
+                    nullable: true
+                    example: null
+                  details:
+                    type: array
+                    items:
+                      type: string
+                    example: []
+              example:
+                code: resource_not_found
+                message: 'Requested resource not found: The page cannot be found'
+                externalReference: null
+                details: []
+        '429':
+          description: Rate limit reached for the provided access token.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: string
+                    example: too_many_requests
+                  message:
+                    type: string
+                    example: Too many requests
+                  externalReference:
+                    type: string
+                    nullable: true
+                    example: null
+                  details:
+                    type: array
+                    items:
+                      type: string
+                    example: []
+              example:
+                code: too_many_requests
+                message: Too many requests
+                externalReference: null
+                details: []
+        '500':
+          description: We had a problem with our server. Try again later.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: string
+                    example: internal_error
+                  message:
+                    type: string
+                    example: An Internal Error occurred
+                  externalReference:
+                    type: string
+                    nullable: true
+                    example: null
+                  details:
+                    type: array
+                    items:
+                      type: string
+                    example: []
+              example:
+                code: internal_error
+                message: An Internal Error occurred
+                externalReference: null
+                details: []
+components:
+  securitySchemes:
+    OAuth2:
+      type: oauth2
+      flows:
+        authorizationCode:
+          scopes:
+            pages:read: read pages on the site
+          authorizationUrl: https://webflow.com/oauth/authorize
+          tokenUrl: https://api.webflow.com/oauth/token
+    ApiKey:
+      type: http
+      scheme: bearer

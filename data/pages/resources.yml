@@ -1,0 +1,472 @@
+pageId: 6918fd26dc09e9e742e59c0d
+branchId: null
+nodes:
+- id: 1c54e280-37a0-32ca-d44d-81d5ee53122e
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f148
+  type: component-instance
+  componentId: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f146
+  propertyOverrides: []
+- id: 246aa872-cda9-c3d1-d64c-448501019a42
+  type: component-instance
+  componentId: 48eb0862-0648-838c-90e7-508d66816e78
+  propertyOverrides: []
+- id: a721ce45-5106-8115-ece4-25aba30ca482
+  type: component-instance
+  componentId: 334235b2-f258-d4bf-c6d0-9052ffcbc41c
+  propertyOverrides: []
+- id: a58d47e0-367f-4320-f49d-47527c308dec
+  type: component-instance
+  componentId: a58d47e0-367f-4320-f49d-47527c308dbe
+  propertyOverrides: []
+- id: 3601fa1b-e477-9031-8bbc-916720f1252a
+  type: text
+  text:
+    html: <h1 class="align-text-left max-width-300">Resources to build with</h1>
+    text: Resources to build with
+  attributes: {}
+- id: 8aba1910-ab52-23df-8083-43dc6e508563
+  type: text
+  text:
+    html: <div class="paragraph-22 align-text-left">From white papers to deep dives
+      to community discussions, everything here is open and designed for engineers
+      who keep systems alive in production.</div>
+    text: From white papers to deep dives to community discussions, everything here
+      is open and designed for engineers who keep systems alive in production.
+  attributes: {}
+- id: 446d425b-18d0-0bdf-af31-386d931aeb48
+  type: text
+  text:
+    html: <div>Dive into the latest</div>
+    text: Dive into the latest
+  attributes: {}
+- id: c0d486ad-e04b-eeae-f10b-8b9b58fed6cd
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6921e2647727d2fbca810e34
+  attributes:
+    data-element: rope
+- id: 0d0ddd4a-3299-bcb6-9220-2a03928736f7
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6921e2646969a3067d7e8d76
+  attributes:
+    data-element: pulley
+- id: 5bec7e74-ab29-7de1-788c-aea18796f6e9
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6921e263227be2cec8064165
+  attributes:
+    data-element: hook
+- id: e5b6eb37-8d02-d5af-dc49-a76bc1470739
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6921e2636a7415aee28b4851
+  attributes:
+    data-element: shackle
+- id: 2d91e823-377c-43ca-8dfb-eeb346349c2d
+  type: text
+  text:
+    html: <h2>Launching at apidays Paris 2025</h2>
+    text: Launching at apidays Paris 2025
+  attributes: {}
+- id: 0a9fdb3d-aafe-3b98-a8cf-3e31789ab559
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6917d0673f5d93656f64a84a
+  attributes: {}
+- id: 0a9fdb3d-aafe-3b98-a8cf-3e31789ab55c
+  type: text
+  text:
+    html: <div class="paragraph-16 green medium">Capabilities Fabric</div>
+    text: Capabilities Fabric
+  attributes: {}
+- id: 6f5f76c9-4f87-3687-8b1b-6cf01a46029b
+  type: text
+  text:
+    html: <div class="paragraph-13 white">White paper</div>
+    text: White paper
+  attributes: {}
+- id: 0a9fdb3d-aafe-3b98-a8cf-3e31789ab55e
+  type: text
+  text:
+    html: <div class="paragraph-14 white-80">Why integrations can’t be patchwork anymore,
+      and how capability-driven design changes the model.</div>
+    text: Why integrations can’t be patchwork anymore, and how capability-driven design
+      changes the model.
+  attributes: {}
+- id: 9625da60-e2b3-4a0e-a680-7d371eedfa7c
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6917d1017bd7de370ae8d878
+  attributes: {}
+- id: 97c75668-963f-418a-5221-a0ed2e46f771
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6917d0673f5d93656f64a84a
+  attributes: {}
+- id: 7a83420c-f440-3c0c-c9a2-4a04935ebbaa
+  type: text
+  text:
+    html: <div class="paragraph-16 green medium">Economics of Cloud to AI</div>
+    text: Economics of Cloud to AI
+  attributes: {}
+- id: 7a83420c-f440-3c0c-c9a2-4a04935ebbad
+  type: text
+  text:
+    html: <div class="paragraph-13 white">White paper</div>
+    text: White paper
+  attributes: {}
+- id: 7a83420c-f440-3c0c-c9a2-4a04935ebbaf
+  type: text
+  text:
+    html: <div class="paragraph-14 white-80">How enterprises, SaaS vendors, and platform
+      teams can cut hidden costs and reclaim velocity.</div>
+    text: How enterprises, SaaS vendors, and platform teams can cut hidden costs and
+      reclaim velocity.
+  attributes: {}
+- id: 97c75668-963f-418a-5221-a0ed2e46f784
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6917d1017bd7de370ae8d878
+  attributes: {}
+- id: a7e4de16-b5ef-f3cb-1458-426b823123be
+  type: text
+  text:
+    html: <div>See us at apidays Paris</div>
+    text: See us at apidays Paris
+  attributes: {}
+- id: 94f0718a-14d4-cf97-0c5a-647b643a0149
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69167a89be3412201b07c872
+  attributes: {}
+- id: 408d0929-cb15-bed4-aebd-92d92770b4b6
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69199bce8256954751b3ad0d
+  attributes: {}
+- id: 3a6fb920-f436-e65a-e2e7-0c9379fa402b
+  type: text
+  text:
+    html: <div class="white">Filter by type</div>
+    text: Filter by type
+  attributes: {}
+- id: 3a6fb920-f436-e65a-e2e7-0c9379fa402d
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69199bce0e2c8d3d0bd846a1
+  attributes: {}
+- id: 7c1648bf-3830-1a3f-61e7-aa934ff089ec
+  type: text
+  text:
+    html: <label class="paragraph-18 white">Documentation</label>
+    text: Documentation
+  attributes: {}
+- id: 5a2e77b0-9f01-6c06-90ca-fe320bbc9108
+  type: text
+  text:
+    html: <label class="paragraph-18 white">Whitepaper</label>
+    text: Whitepaper
+  attributes: {}
+- id: 2ae2ce29-2c1a-8fd1-502a-97ee89c03209
+  type: text
+  text:
+    html: <label class="paragraph-18 white">Report</label>
+    text: Report
+  attributes: {}
+- id: 8b2d1795-a537-c59b-a538-85b8356bd997
+  type: text
+  text:
+    html: <label class="paragraph-18 white">Blog</label>
+    text: Blog
+  attributes: {}
+- id: 25c20d7a-bc60-4856-4c34-5d53d805963f
+  type: text
+  text:
+    html: <label class="paragraph-18 white">Podcast</label>
+    text: Podcast
+  attributes: {}
+- id: a9290215-f9f2-7ed4-4d47-ad6bc5cdbb54
+  type: text
+  text:
+    html: <label class="paragraph-18 white">Press release</label>
+    text: Press release
+  attributes: {}
+- id: a59b8256-bcfd-e929-aeb3-58904295e1be
+  type: text
+  text:
+    html: <div>Thank you! Your submission has been received!</div>
+    text: Thank you! Your submission has been received!
+  attributes: {}
+- id: a59b8256-bcfd-e929-aeb3-58904295e1c1
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: 12219db2-b2b4-6a80-f96a-804da9085f7a
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69199bced8fd5f34a2d66f65
+  attributes: {}
+- id: f0100deb-a39b-0ef4-4a3c-9a2a12e59c93
+  type: text
+  text:
+    html: <div class="white">Filter by author</div>
+    text: Filter by author
+  attributes: {}
+- id: e42e8088-028d-1f4f-663b-76134b16ab49
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69199bce0e2c8d3d0bd846a1
+  attributes: {}
+- id: 119646d6-a90e-9870-c6c7-9c7aef192f17
+  type: text
+  text:
+    html: <label class="paragraph-18 white">Kin Lane</label>
+    text: Kin Lane
+  attributes: {}
+- id: 9a6b5c5b-e2dc-3539-4778-0eaa73035b1e
+  type: text
+  text:
+    html: <label class="paragraph-18 white">Jerome Louvel</label>
+    text: Jerome Louvel
+  attributes: {}
+- id: 9a35f311-e3e1-c868-8c7c-401c512a9f4c
+  type: text
+  text:
+    html: <div>Thank you! Your submission has been received!</div>
+    text: Thank you! Your submission has been received!
+  attributes: {}
+- id: 9a35f311-e3e1-c868-8c7c-401c512a9f4f
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: 0ab7a348-634b-21dc-7e0b-48aa33a273f0
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69199bce3aeb4dbe24a8a02e
+  attributes: {}
+- id: 6fcac804-3819-79f3-4fc2-ba19ed5ebb32
+  type: text
+  text:
+    html: <div class="white">Filter by tags</div>
+    text: Filter by tags
+  attributes: {}
+- id: 6fcac804-3819-79f3-4fc2-ba19ed5ebb34
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69199bce0e2c8d3d0bd846a1
+  attributes: {}
+- id: 2fd5f780-9218-5b84-e8fb-8404e87333d0
+  type: text
+  text:
+    html: <label class="paragraph-18 white">Capabilities</label>
+    text: Capabilities
+  attributes: {}
+- id: 8de64b77-1ece-15bf-71d8-f11d19a11c50
+  type: text
+  text:
+    html: <label class="paragraph-18 white">Fabric</label>
+    text: Fabric
+  attributes: {}
+- id: 7f42f276-1ddc-00f4-4a44-808f02fbe2ae
+  type: text
+  text:
+    html: <label class="paragraph-18 white">Engine</label>
+    text: Engine
+  attributes: {}
+- id: a3d6cca6-19f6-c875-c3a4-f2298be19560
+  type: text
+  text:
+    html: <label class="paragraph-18 white">API</label>
+    text: API
+  attributes: {}
+- id: 7a745fcc-4ecf-49db-1b48-4abf869df5a7
+  type: text
+  text:
+    html: <label class="paragraph-18 white">AI</label>
+    text: AI
+  attributes: {}
+- id: 024bbe17-fd3a-caeb-9982-440014c14787
+  type: text
+  text:
+    html: <div>Thank you! Your submission has been received!</div>
+    text: Thank you! Your submission has been received!
+  attributes: {}
+- id: 024bbe17-fd3a-caeb-9982-440014c1478a
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: 7768cf06-5bff-b04d-fe59-04e8ef52b5ad
+  type: text
+  text:
+    html: <div class="paragraph-24 white medium">Feeling lost? Meet Navi</div>
+    text: Feeling lost? Meet Navi
+  attributes: {}
+- id: 7768cf06-5bff-b04d-fe59-04e8ef52b5af
+  type: text
+  text:
+    html: <div class="paragraph-16">Navi is the Naftiko crew's curious guide, who
+      points you toward the right posts, papers, and signals to explore.</div>
+    text: Navi is the Naftiko crew's curious guide, who points you toward the right
+      posts, papers, and signals to explore.
+  attributes: {}
+- id: a715a75e-88e1-3aae-331f-da1cf6d5f8c9
+  type: text
+  text:
+    html: <div>Ask Navi</div>
+    text: Ask Navi
+  attributes: {}
+- id: 4a78df5e-2686-457a-617b-62c67b5dd06a
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: null
+  attributes: {}
+- id: 6823a9c2-505e-af4f-3c86-9a175228da72
+  type: text
+  text:
+    html: <div class="paragraph-15">•</div>
+    text: •
+  attributes: {}
+- id: 87fc5698-2b30-66a6-7052-45fceb9bb4af
+  type: text
+  text:
+    html: <div class="hide">This is some text inside of a div block.</div>
+    text: This is some text inside of a div block.
+  attributes: {}
+- id: d5a7976f-8c5a-4354-2776-316ea559f7d2
+  type: text
+  text:
+    html: <div class="hide">This is some text inside of a div block.</div>
+    text: This is some text inside of a div block.
+  attributes: {}
+- id: ef8b5658-8a94-c8d3-a132-b411fd24d936
+  type: text
+  text:
+    html: <div class="hide">This is some text inside of a div block.</div>
+    text: This is some text inside of a div block.
+  attributes:
+    filter-type: blog
+- id: 3d013f4b-edf2-3447-ce3c-8a899cb6d7c2
+  type: text
+  text:
+    html: <p class="paragraph-32">Still at sea—content loading.</p>
+    text: Still at sea—content loading.
+  attributes: {}
+- id: 3d013f4b-edf2-3447-ce3c-8a899cb6d7c4
+  type: text
+  text:
+    html: <p class="paragraph-20 white-70">Our crew is crafting valuable resources.
+      They’ll be docking here shortly. </p>
+    text: 'Our crew is crafting valuable resources. They’ll be docking here shortly. '
+  attributes: {}
+- id: a1d2ae50-ebdb-518b-cc94-6eae2c329d0f
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: null
+  attributes: {}
+- id: a1d2ae50-ebdb-518b-cc94-6eae2c329d12
+  type: text
+  text:
+    html: <div class="paragraph-15">Whitepaper</div>
+    text: Whitepaper
+  attributes: {}
+- id: a1d2ae50-ebdb-518b-cc94-6eae2c329d13
+  type: text
+  text:
+    html: <div class="paragraph-15">•</div>
+    text: •
+  attributes: {}
+- id: a1d2ae50-ebdb-518b-cc94-6eae2c329d17
+  type: text
+  text:
+    html: <div class="hide">This is some text inside of a div block.</div>
+    text: This is some text inside of a div block.
+  attributes: {}
+- id: a1d2ae50-ebdb-518b-cc94-6eae2c329d19
+  type: text
+  text:
+    html: <div class="hide">This is some text inside of a div block.</div>
+    text: This is some text inside of a div block.
+  attributes: {}
+- id: a1d2ae50-ebdb-518b-cc94-6eae2c329d1b
+  type: text
+  text:
+    html: <div class="hide">This is some text inside of a div block.</div>
+    text: This is some text inside of a div block.
+  attributes:
+    filter-type: whitepaper
+- id: a1d2ae50-ebdb-518b-cc94-6eae2c329d1f
+  type: text
+  text:
+    html: <p class="paragraph-32">Still at sea—content loading.</p>
+    text: Still at sea—content loading.
+  attributes: {}
+- id: a1d2ae50-ebdb-518b-cc94-6eae2c329d21
+  type: text
+  text:
+    html: <p class="paragraph-20 white-70">Our crew is crafting valuable resources.
+      They’ll be docking here shortly. </p>
+    text: 'Our crew is crafting valuable resources. They’ll be docking here shortly. '
+  attributes: {}
+- id: 5e49ea46-07a8-bdc5-207b-b96480487f0a
+  type: text
+  text:
+    html: <h2 class="max-width-900 height-110 align-text-left">Your story belongs
+      in the log</h2>
+    text: Your story belongs in the log
+  attributes: {}
+- id: 6db24658-a675-b4b3-e8e6-6a635f1aa0e3
+  type: text
+  text:
+    html: <div class="white-90 max-width-800">It's open source–ready, community-driven,
+      and built for teams who want to move fast without breaking things.</div>
+    text: It's open source–ready, community-driven, and built for teams who want to
+      move fast without breaking things.
+  attributes: {}
+- id: c8a67a05-969e-f769-bb68-44368425892d
+  type: text
+  text:
+    html: <div>Share your article idea</div>
+    text: Share your article idea
+  attributes: {}
+- id: 290de599-0eb9-b99e-f8c9-f9ae0efd9b29
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915b78801b16cb7875d3e10
+  attributes: {}
+- id: f08038d6-8bda-fa72-06f4-e95fb4071f49
+  type: component-instance
+  componentId: f08038d6-8bda-fa72-06f4-e95fb4071f06
+  propertyOverrides: []
+pagination:
+  limit: 100
+  offset: 0
+  total: 76
+lastUpdated: '2026-01-05T21:19:18.673Z'

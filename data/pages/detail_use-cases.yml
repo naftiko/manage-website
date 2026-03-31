@@ -1,0 +1,245 @@
+pageId: 691cf4b513562dc52a955e0e
+branchId: null
+nodes:
+- id: 3fbac046-4a65-055e-b123-594052d0ddae
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: 3fbac046-4a65-055e-b123-594052d0ddaf
+  type: component-instance
+  componentId: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f146
+  propertyOverrides: []
+- id: 3fbac046-4a65-055e-b123-594052d0ddb0
+  type: component-instance
+  componentId: 48eb0862-0648-838c-90e7-508d66816e78
+  propertyOverrides: []
+- id: 3fbac046-4a65-055e-b123-594052d0ddb1
+  type: component-instance
+  componentId: 334235b2-f258-d4bf-c6d0-9052ffcbc41c
+  propertyOverrides: []
+- id: 3fbac046-4a65-055e-b123-594052d0ddb2
+  type: component-instance
+  componentId: a58d47e0-367f-4320-f49d-47527c308dbe
+  propertyOverrides: []
+- id: 3fbac046-4a65-055e-b123-594052d0ddbf
+  type: text-input
+  placeholder: Enter your email
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0ddc1
+  type: submit-button
+  waitingText: Please wait...
+  value: Join the waitlist
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0ddc5
+  type: text
+  text:
+    html: <div>Thanks for signing up!</div>
+    text: Thanks for signing up!
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0ddc9
+  type: text
+  text:
+    html: <div>Subscribed</div>
+    text: Subscribed
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0ddcc
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0ddcf
+  type: text
+  text:
+    html: <div>Read the docs</div>
+    text: Read the docs
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0dde4
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6916a5f36b1d228e74df77b2
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0dde9
+  type: text
+  text:
+    html: <h2>How Naftiko steadies the course</h2>
+    text: How Naftiko steadies the course
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0ddf3
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6916056808b1a17490544c31
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0ddf5
+  type: text
+  text:
+    html: <div class="paragraph-24 white medium height-110">Framework</div>
+    text: Framework
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0ddfe
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69160568d2752c84ab16f3a6
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0de00
+  type: text
+  text:
+    html: <div class="paragraph-24 white medium height-110">Engine</div>
+    text: Engine
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0de09
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691605689cbcba8c40585af7
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0de0b
+  type: text
+  text:
+    html: <div class="paragraph-24 white medium height-110">Fabric</div>
+    text: Fabric
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0de11
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69167a89be3412201b07c872
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0de1a
+  type: text
+  text:
+    html: <div class="paragraph-24 white medium height-110">What it connects</div>
+    text: What it connects
+  attributes: {}
+- id: 0ac31aaa-d5fb-360e-b524-600ba7e6b90c
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0de3b
+  type: text
+  text:
+    html: <div class="paragraph-16 white-70">Adapters:</div>
+    text: 'Adapters:'
+  attributes: {}
+- id: 066aac35-4c57-8cd9-0a10-9fc99bf0b65e
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0de44
+  type: text
+  text:
+    html: <div class="paragraph-16 white-70">Policies:</div>
+    text: 'Policies:'
+  attributes: {}
+- id: 4ae16278-602a-514f-3c4e-9e206295d3cf
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0de4c
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6916e43797fb71397a714387
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0de4d
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6916e43797fb71397a714387
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0de50
+  type: text
+  text:
+    html: <div class="paragraph-24 white medium height-110">What you gain</div>
+    text: What you gain
+  attributes: {}
+- id: 5bb5ce23-9894-0faf-4a28-b8d4b0b198ae
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692daaf336da29a4d395edaf
+  attributes: {}
+- id: c4a7fee2-9544-c881-96af-ec6bc7d5e8c7
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692daaf336da29a4d395edaf
+  attributes: {}
+- id: 0b95bad3-254b-a85e-1af2-2daab214ef11
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692daaf336da29a4d395edaf
+  attributes: {}
+- id: 605a3a2f-4b0b-91c6-c754-da5f6dfec177
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692daaf336da29a4d395edaf
+  attributes: {}
+- id: cb49cbc1-74ae-42ec-c46e-f0e65eca5142
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692daaf336da29a4d395edaf
+  attributes: {}
+- id: 096d2624-803b-4c97-1d2f-49d4d2eb1b5e
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692daaf336da29a4d395edaf
+  attributes: {}
+- id: c435d34b-5278-8246-d27a-900f7e61416f
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692daaf336da29a4d395edaf
+  attributes: {}
+- id: 66beb43c-6fcd-d13d-8e4d-eb6027cedab5
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692daaf336da29a4d395edaf
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0de5f
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6916e43797fb71397a714387
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0de60
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6916e43797fb71397a714387
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0de66
+  type: text
+  text:
+    html: <h2 class="align-text-left max-width-600">Start small, scale smart</h2>
+    text: Start small, scale smart
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0de6c
+  type: text
+  text:
+    html: <div class="paragraph-32">Chart your next course</div>
+    text: Chart your next course
+  attributes: {}
+- id: 3fbac046-4a65-055e-b123-594052d0de7e
+  type: component-instance
+  componentId: f08038d6-8bda-fa72-06f4-e95fb4071f06
+  propertyOverrides: []
+pagination:
+  limit: 100
+  offset: 0
+  total: 42
+lastUpdated: '2025-12-06T20:49:10.120Z'

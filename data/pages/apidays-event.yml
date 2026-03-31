@@ -1,0 +1,348 @@
+pageId: 69170cd29982fefadfdf6297
+branchId: null
+nodes:
+- id: 1c54e280-37a0-32ca-d44d-81d5ee53122e
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f148
+  type: component-instance
+  componentId: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f146
+  propertyOverrides: []
+- id: 66e27ecf-a49f-2d66-8cc9-304af15199f2
+  type: component-instance
+  componentId: 48eb0862-0648-838c-90e7-508d66816e78
+  propertyOverrides: []
+- id: a58d47e0-367f-4320-f49d-47527c308dec
+  type: component-instance
+  componentId: a58d47e0-367f-4320-f49d-47527c308dbe
+  propertyOverrides: []
+- id: 3601fa1b-e477-9031-8bbc-916720f1252a
+  type: text
+  text:
+    html: <h1 class="align-text-left max-width-300">Naftiko at apidays Paris 2025</h1>
+    text: Naftiko at apidays Paris 2025
+  attributes: {}
+- id: c0d486ad-e04b-eeae-f10b-8b9b58fed6c9
+  type: text
+  text:
+    html: <div class="paragraph-26">9–11 December | CNIT Forest, Paris</div>
+    text: 9–11 December | CNIT Forest, Paris
+  attributes: {}
+- id: 8aba1910-ab52-23df-8083-43dc6e508563
+  type: text
+  text:
+    html: <div class="paragraph-22 align-text-left">We’re stepping on stage at apidays
+      Paris to share the ideas, patterns, and standards we’ve been shaping with the
+      community.</div>
+    text: We’re stepping on stage at apidays Paris to share the ideas, patterns, and
+      standards we’ve been shaping with the community.
+  attributes: {}
+- id: c0d486ad-e04b-eeae-f10b-8b9b58fed6cd
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691730c89b5e9d75e8f4fd6a
+  attributes: {}
+- id: 9ffec3dc-4f1a-4d6c-4620-cd9e331a784c
+  type: text
+  text:
+    html: <h2>Visit our booth</h2>
+    text: Visit our booth
+  attributes: {}
+- id: b7bdead6-d25f-dc24-9bd7-d3ac5acee2d1
+  type: text
+  text:
+    html: <div>We’ll be on the floor all three days</div>
+    text: We’ll be on the floor all three days
+  attributes: {}
+- id: 6ba7704c-9797-691f-f318-09fe8d81fbcc
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6917c6455fbaafa10c0f07db
+  attributes: {}
+- id: 488e2b9d-1ba6-2997-5b14-10a8c9bcd11b
+  type: text
+  text:
+    html: '<div class="paragraph-26 white-70 index-2"><span class="white" data-w-id="eaacfcfe-4a21-7fb3-7be8-5fa7378523bf">Explore</span>
+      the fabric in       practice</div>'
+    text: 'Explore the fabric in       practice'
+  attributes: {}
+- id: a7ba2016-e0c3-13b6-ed92-dcffd9e0e444
+  type: text
+  text:
+    html: <div class="paragraph-32 normal align-text-center">Special discount for
+      our community</div>
+    text: Special discount for our community
+  attributes: {}
+- id: dfad03c8-f25d-4b39-6db5-34dfae9d4eac
+  type: text
+  text:
+    html: "<div class=\"paragraph-16 align-text-center\">Use this exclusive code to\
+      \ get 25% off your \Lapidays Paris ticket</div>"
+    text: "Use this exclusive code to get 25% off your \Lapidays Paris ticket"
+  attributes: {}
+- id: dfad03c8-f25d-4b39-6db5-34dfae9d4eb0
+  type: text
+  text:
+    html: <div id="code" class="paragraph-16 white medium">NAFTIKO20</div>
+    text: NAFTIKO20
+  attributes: {}
+- id: dfad03c8-f25d-4b39-6db5-34dfae9d4eb2
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6917d668e25d19e99b89684b
+  attributes: {}
+- id: 72ad1380-df2d-a197-11f1-3066f70d4664
+  type: text
+  text:
+    html: <div class="paragraph-14 white-70">Valid until November 30, 2025</div>
+    text: Valid until November 30, 2025
+  attributes: {}
+- id: 2d91e823-377c-43ca-8dfb-eeb346349c2d
+  type: text
+  text:
+    html: <h2>First look at new research</h2>
+    text: First look at new research
+  attributes: {}
+- id: 2d91e823-377c-43ca-8dfb-eeb346349c2f
+  type: text
+  text:
+    html: <div>We’re unveiling two cornerstone resources at apidays Paris</div>
+    text: We’re unveiling two cornerstone resources at apidays Paris
+  attributes: {}
+- id: 0a9fdb3d-aafe-3b98-a8cf-3e31789ab559
+  type: image
+  image:
+    alt: ''
+    assetId: 6917d0673f5d93656f64a84a
+  attributes: {}
+- id: 0a9fdb3d-aafe-3b98-a8cf-3e31789ab55c
+  type: text
+  text:
+    html: <div class="paragraph-16 white medium">Capabilities Fabric</div>
+    text: Capabilities Fabric
+  attributes: {}
+- id: 0a9fdb3d-aafe-3b98-a8cf-3e31789ab55e
+  type: text
+  text:
+    html: <div class="paragraph-14 white-80">How enterprises, SaaS vendors, and platform
+      teams can cut hidden costs and reclaim velocity.</div>
+    text: How enterprises, SaaS vendors, and platform teams can cut hidden costs and
+      reclaim velocity.
+  attributes: {}
+- id: 5d655f79-eb9a-0fd1-02a6-944042d15fc0
+  type: text
+  text:
+    html: <div>Download</div>
+    text: Download
+  attributes: {}
+- id: 9625da60-e2b3-4a0e-a680-7d371eedfa7c
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6917d1017bd7de370ae8d878
+  attributes: {}
+- id: 97c75668-963f-418a-5221-a0ed2e46f771
+  type: image
+  image:
+    alt: ''
+    assetId: 6917d0673f5d93656f64a84a
+  attributes: {}
+- id: 97c75668-963f-418a-5221-a0ed2e46f774
+  type: text
+  text:
+    html: <div class="paragraph-16 white medium">Economics of Cloud to AI</div>
+    text: Economics of Cloud to AI
+  attributes: {}
+- id: 97c75668-963f-418a-5221-a0ed2e46f776
+  type: text
+  text:
+    html: <div class="paragraph-14 white-80">How enterprises, SaaS vendors, and platform
+      teams can cut hidden costs and reclaim velocity.</div>
+    text: How enterprises, SaaS vendors, and platform teams can cut hidden costs and
+      reclaim velocity.
+  attributes: {}
+- id: 97c75668-963f-418a-5221-a0ed2e46f77a
+  type: text
+  text:
+    html: <div>Download</div>
+    text: Download
+  attributes: {}
+- id: 97c75668-963f-418a-5221-a0ed2e46f784
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6917d1017bd7de370ae8d878
+  attributes: {}
+- id: 94f0718a-14d4-cf97-0c5a-647b643a0149
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69167a89be3412201b07c872
+  attributes: {}
+- id: bfbd5041-1681-c057-98f6-98f1717daec2
+  type: text
+  text:
+    html: <h2 class="max-width-650">Catch us on stage</h2>
+    text: Catch us on stage
+  attributes: {}
+- id: bfbd5041-1681-c057-98f6-98f1717daec4
+  type: text
+  text:
+    html: <div>This won’t be a sales pitch, we promise! It’s a look at where integration
+      is heading, and how we’re building for it.</div>
+    text: This won’t be a sales pitch, we promise! It’s a look at where integration
+      is heading, and how we’re building for it.
+  attributes: {}
+- id: 4a327fda-1a65-96c9-3af9-f95b42ccab90
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6917d9f7cb604588eb60a4b4
+  attributes: {}
+- id: 4a327fda-1a65-96c9-3af9-f95b42ccab91
+  type: text
+  text:
+    html: <div class="green">Jérôme Louvel</div>
+    text: Jérôme Louvel
+  attributes: {}
+- id: 4a327fda-1a65-96c9-3af9-f95b42ccab94
+  type: text
+  text:
+    html: <div class="medium">From Web APIs to a Web of Capabilities. The journey
+      to AI Integration.</div>
+    text: From Web APIs to a Web of Capabilities. The journey to AI Integration.
+  attributes: {}
+- id: d2e7ed4c-84c1-9a7c-86bc-997972b5d681
+  type: text
+  text:
+    html: <div>Catch Jérôme on stage</div>
+    text: Catch Jérôme on stage
+  attributes: {}
+- id: 8cf9be1b-95be-32f7-4147-75128d24b31e
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6917d9f7e9626437c7e834db
+  attributes: {}
+- id: 8cf9be1b-95be-32f7-4147-75128d24b31f
+  type: text
+  text:
+    html: <div class="green">Kin Lane</div>
+    text: Kin Lane
+  attributes: {}
+- id: 8cf9be1b-95be-32f7-4147-75128d24b322
+  type: text
+  text:
+    html: '<div class="medium">Signals Workshop by Naftiko: Mapping the business systems
+      of tomorrow</div>'
+    text: 'Signals Workshop by Naftiko: Mapping the business systems of tomorrow'
+  attributes: {}
+- id: 8cf9be1b-95be-32f7-4147-75128d24b325
+  type: text
+  text:
+    html: <div>Reserve your seat</div>
+    text: Reserve your seat
+  attributes: {}
+- id: f56670f9-15c5-afb6-add4-df79dc73a82f
+  type: text
+  text:
+    html: <div class="text-21">Naftiko-studio</div>
+    text: Naftiko-studio
+  attributes: {}
+- id: f56670f9-15c5-afb6-add4-df79dc73a832
+  type: text
+  text:
+    html: <div class="_1-fimport-naftikoclient-fromnaftikosdk">1  fimport { NaftikoClient
+      } from'@naftiko/sdk'</div>
+    text: 1  fimport { NaftikoClient } from'@naftiko/sdk'
+  attributes: {}
+- id: f56670f9-15c5-afb6-add4-df79dc73a834
+  type: text
+  text:
+    html: <div class="_1-fimport-naftikoclient-fromnaftikosdk">2  // Unified - Single
+      source of truth for all your API integrations</div>
+    text: 2  // Unified - Single source of truth for all your API integrations
+  attributes: {}
+- id: f56670f9-15c5-afb6-add4-df79dc73a836
+  type: text
+  text:
+    html: <div class="_1-fimport-naftikoclient-fromnaftikosdk">3  constclient = newNaftikoClient
+      0</div>
+    text: 3  constclient = newNaftikoClient 0
+  attributes: {}
+- id: f56670f9-15c5-afb6-add4-df79dc73a839
+  type: text
+  text:
+    html: <div class="a-unified-dashboard-showing-all-connected-apis-in">A unified
+      dashboard showing all connected APIs in one place, with real-time status monitoring
+      and health checks across your entire integration landscape.</div>
+    text: A unified dashboard showing all connected APIs in one place, with real-time
+      status monitoring and health checks across your entire integration landscape.
+  attributes: {}
+- id: 5e49ea46-07a8-bdc5-207b-b96480487f0a
+  type: text
+  text:
+    html: <h2 class="max-width-900 height-110 align-text-left">Be part of the first
+      wave</h2>
+    text: Be part of the first wave
+  attributes: {}
+- id: 6db24658-a675-b4b3-e8e6-6a635f1aa0e3
+  type: text
+  text:
+    html: <div class="white-90 max-width-800">It's open source–ready, community-driven,
+      and built for teams who want to move fast without breaking things.</div>
+    text: It's open source–ready, community-driven, and built for teams who want to
+      move fast without breaking things.
+  attributes: {}
+- id: d0ed17cb-d391-34da-3eb7-9b84d1ff16eb
+  type: text-input
+  placeholder: Enter your email
+  attributes: {}
+- id: d0ed17cb-d391-34da-3eb7-9b84d1ff16ed
+  type: submit-button
+  waitingText: Please wait...
+  value: Join the waitlist
+  attributes: {}
+- id: d0ed17cb-d391-34da-3eb7-9b84d1ff16f1
+  type: text
+  text:
+    html: <div>Thanks for signing up!</div>
+    text: Thanks for signing up!
+  attributes: {}
+- id: d0ed17cb-d391-34da-3eb7-9b84d1ff16f5
+  type: text
+  text:
+    html: <div>Subscribed</div>
+    text: Subscribed
+  attributes: {}
+- id: d0ed17cb-d391-34da-3eb7-9b84d1ff16f8
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: 8d3af6d6-6186-09b5-8e3d-441e5381b9db
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915b4285b5d9c310bd8dcc1
+  attributes: {}
+- id: 290de599-0eb9-b99e-f8c9-f9ae0efd9b29
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915b78801b16cb7875d3e10
+  attributes: {}
+- id: f08038d6-8bda-fa72-06f4-e95fb4071f49
+  type: component-instance
+  componentId: f08038d6-8bda-fa72-06f4-e95fb4071f06
+  propertyOverrides: []
+pagination:
+  limit: 100
+  offset: 0
+  total: 55
+lastUpdated: '2025-11-25T12:08:41.412Z'

@@ -1,0 +1,621 @@
+pageId: 691a393822ebe87b20e03e82
+branchId: null
+nodes:
+- id: 1c54e280-37a0-32ca-d44d-81d5ee53122e
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f148
+  type: component-instance
+  componentId: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f146
+  propertyOverrides: []
+- id: b7ab987a-a6bc-d38e-5c4f-9e061b8eb1bb
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6920bce68de6320d743b7192
+  attributes: {}
+- id: 334235b2-f258-d4bf-c6d0-9052ffcbc43b
+  type: component-instance
+  componentId: 334235b2-f258-d4bf-c6d0-9052ffcbc41c
+  propertyOverrides: []
+- id: a58d47e0-367f-4320-f49d-47527c308dec
+  type: component-instance
+  componentId: a58d47e0-367f-4320-f49d-47527c308dbe
+  propertyOverrides: []
+- id: c0d486ad-e04b-eeae-f10b-8b9b58fed6c9
+  type: text
+  text:
+    html: <div class="paragraph-38 semi-bold">The capability fabric</div>
+    text: The capability fabric
+  attributes: {}
+- id: 3601fa1b-e477-9031-8bbc-916720f1252a
+  type: text
+  text:
+    html: <h1 class="align-text-left">Community at the core</h1>
+    text: Community at the core
+  attributes: {}
+- id: 8aba1910-ab52-23df-8083-43dc6e508563
+  type: text
+  text:
+    html: <p class="paragraph-22 align-text-left max-width-max-width-610">Naftiko
+      grows within a broader open-source ecosystem — CNCF, OpenAPI, AsyncAPI, and
+      beyond. Whether you’re extending our framework, shaping standards, or joining
+      discussions, you’re already part of the crew.</p>
+    text: Naftiko grows within a broader open-source ecosystem — CNCF, OpenAPI, AsyncAPI,
+      and beyond. Whether you’re extending our framework, shaping standards, or joining
+      discussions, you’re already part of the crew.
+  attributes: {}
+- id: 5e9dfc0c-44f8-baf3-6862-272c77d93f66
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69305440f4681a64285c2028
+  attributes: {}
+- id: 345c6f1f-0ccb-26ae-2267-811feb54eb25
+  type: text
+  text:
+    html: <div id="net-label1" class="network-label cncf">CNCF</div>
+    text: CNCF
+  attributes: {}
+- id: 7ec999bd-a6cb-1780-db22-56280b043997
+  type: text
+  text:
+    html: <div id="net-label3" class="network-label async">AsyncAPI</div>
+    text: AsyncAPI
+  attributes: {}
+- id: e0fe0ce6-793c-4b93-61ae-30fa11093f72
+  type: text
+  text:
+    html: <div id="net-label4" class="network-label openapi">Open API</div>
+    text: Open API
+  attributes: {}
+- id: 8095b35b-1665-fca8-113b-f3f3c8a30e35
+  type: text
+  text:
+    html: <div id="net-label5" class="network-label"></div>
+    text: ''
+  attributes: {}
+- id: e53951fe-93d3-9d64-c57c-214c06f94558
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6930da9cc929d203ce4078c7
+  attributes: {}
+- id: 06c22e38-16a9-38f4-d459-5c34573b935c
+  type: text
+  text:
+    html: <h2 class="align-text-left">The Naftiko community</h2>
+    text: The Naftiko community
+  attributes: {}
+- id: 57b858bc-f7c5-e9c8-cde5-ebba68fbf17f
+  type: text
+  text:
+    html: <p>The people building, discussing, and maintaining the capability fabric.</p>
+    text: The people building, discussing, and maintaining the capability fabric.
+  attributes: {}
+- id: 0c14a4a8-313f-356d-3c68-d1a888d8d907
+  type: text
+  text:
+    html: <div class="paragraph-24 medium white">Guides, reference architectures,
+      and tutorials.</div>
+    text: Guides, reference architectures, and tutorials.
+  attributes: {}
+- id: 96209ed7-1a1f-496f-c7d0-857523413023
+  type: text
+  text:
+    html: <div>Docs &amp; patterns</div>
+    text: Docs & patterns
+  attributes: {}
+- id: 20ce46f7-da38-716d-873c-ac8991a9a9e2
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a67afc21a327871aa893a
+  attributes: {}
+- id: 1bdddf6c-7c5a-f09b-1ec7-d8c64fcbb9a2
+  type: text
+  text:
+    html: <div class="paragraph-24 medium white">Contribute code, open issues, review
+      pull requests.</div>
+    text: Contribute code, open issues, review pull requests.
+  attributes: {}
+- id: 1bdddf6c-7c5a-f09b-1ec7-d8c64fcbb9a6
+  type: text
+  text:
+    html: <div>GitHub</div>
+    text: GitHub
+  attributes: {}
+- id: 1bdddf6c-7c5a-f09b-1ec7-d8c64fcbb9a0
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a67afc21a327871aa893a
+  attributes: {}
+- id: b32ebc96-9786-a9bf-7866-0f159e34909c
+  type: text
+  text:
+    html: <div class="paragraph-24 medium white">Join discussions and share what you’re
+      building.</div>
+    text: Join discussions and share what you’re building.
+  attributes: {}
+- id: b32ebc96-9786-a9bf-7866-0f159e3490a0
+  type: text
+  text:
+    html: <div>Forum</div>
+    text: Forum
+  attributes: {}
+- id: b32ebc96-9786-a9bf-7866-0f159e34909a
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a67afc21a327871aa893a
+  attributes: {}
+- id: 838e1c38-c7ac-a75f-904a-ecb49d071cfa
+  type: text
+  text:
+    html: <h2>Open source projects</h2>
+    text: Open source projects
+  attributes: {}
+- id: 838e1c38-c7ac-a75f-904a-ecb49d071cfc
+  type: text
+  text:
+    html: "<div class=\"max-width-500\">The people building, discussing, and maintaining\
+      \ the \Lcapability fabric.</div>"
+    text: "The people building, discussing, and maintaining the \Lcapability fabric."
+  attributes: {}
+- id: ce7eca63-f3aa-4cc6-d803-fad340fa72e6
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a708de5b4721fe9c1792e
+  attributes: {}
+- id: dc973ee5-fe43-b514-5906-5370f84d3135
+  type: text
+  text:
+    html: <div>Active</div>
+    text: Active
+  attributes: {}
+- id: 5c5fec39-0d77-cd33-d327-1a9209eb7e3b
+  type: text
+  text:
+    html: <div class="paragraph-24 white normal height-110">Naftiko Framework (Apache
+      Limani)</div>
+    text: Naftiko Framework (Apache Limani)
+  attributes: {}
+- id: 5c5fec39-0d77-cd33-d327-1a9209eb7e3d
+  type: text
+  text:
+    html: <div class="paragraph-16">Enforce authentication, rate limits, encryption</div>
+    text: Enforce authentication, rate limits, encryption
+  attributes: {}
+- id: 3cfd9628-f21e-5d26-3e88-3c3e04862696
+  type: text
+  text:
+    html: <div>Varify</div>
+    text: Varify
+  attributes: {}
+- id: cbf16fb0-06b7-95eb-1584-159f48fd20d3
+  type: text
+  text:
+    html: <div>GitHub</div>
+    text: GitHub
+  attributes: {}
+- id: 1671c5c1-a9ed-667d-adb3-4e7a92a8d5c2
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a708d84a730c38fefbcc5
+  attributes: {}
+- id: 1671c5c1-a9ed-667d-adb3-4e7a92a8d5c4
+  type: text
+  text:
+    html: <div>Active</div>
+    text: Active
+  attributes: {}
+- id: 1671c5c1-a9ed-667d-adb3-4e7a92a8d5c7
+  type: text
+  text:
+    html: <div class="paragraph-24 white normal height-110">Engine + Hub OSS modules</div>
+    text: Engine + Hub OSS modules
+  attributes: {}
+- id: 1671c5c1-a9ed-667d-adb3-4e7a92a8d5c9
+  type: text
+  text:
+    html: <div class="paragraph-16">Planned CNCF-hosted components that extend observability,
+      policy management, and runtime.</div>
+    text: Planned CNCF-hosted components that extend observability, policy management,
+      and runtime.
+  attributes: {}
+- id: 1671c5c1-a9ed-667d-adb3-4e7a92a8d5cd
+  type: text
+  text:
+    html: <div>Varify</div>
+    text: Varify
+  attributes: {}
+- id: 1671c5c1-a9ed-667d-adb3-4e7a92a8d5d0
+  type: text
+  text:
+    html: <div>GitHub</div>
+    text: GitHub
+  attributes: {}
+- id: 9062a3dc-5f8f-e909-fb4b-8c60d19ec56c
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a708d977f3793e0487326
+  attributes: {}
+- id: 9062a3dc-5f8f-e909-fb4b-8c60d19ec56e
+  type: text
+  text:
+    html: <div>Active</div>
+    text: Active
+  attributes: {}
+- id: 9062a3dc-5f8f-e909-fb4b-8c60d19ec571
+  type: text
+  text:
+    html: <div class="paragraph-24 white normal height-110">SDKs and Adapters</div>
+    text: SDKs and Adapters
+  attributes: {}
+- id: 9062a3dc-5f8f-e909-fb4b-8c60d19ec573
+  type: text
+  text:
+    html: <div class="paragraph-16">Developer libraries for extending Naftiko’s capability
+      model into new environments.</div>
+    text: Developer libraries for extending Naftiko’s capability model into new environments.
+  attributes: {}
+- id: 9062a3dc-5f8f-e909-fb4b-8c60d19ec577
+  type: text
+  text:
+    html: <div>Varify</div>
+    text: Varify
+  attributes: {}
+- id: 9062a3dc-5f8f-e909-fb4b-8c60d19ec57a
+  type: text
+  text:
+    html: <div>GitHub</div>
+    text: GitHub
+  attributes: {}
+- id: 838e1c38-c7ac-a75f-904a-ecb49d071d17
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a1710ddd880ccc5f2fbe9
+  attributes: {}
+- id: ecbd2ba1-33f7-9de4-a47c-38abcb596fd9
+  type: text
+  text:
+    html: <h2 class="align-text-left">The wider ecosystem</h2>
+    text: The wider ecosystem
+  attributes: {}
+- id: ecbd2ba1-33f7-9de4-a47c-38abcb596fdb
+  type: text
+  text:
+    html: <div class="max-width-600">Naftiko is part of a broader movement shaping
+      how integration, data, and AI work together.</div>
+    text: Naftiko is part of a broader movement shaping how integration, data, and
+      AI work together.
+  attributes: {}
+- id: 4a73ba5b-05c1-5e59-6563-04a8ed470f8f
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a708d77973571e83d4ffa
+  attributes: {}
+- id: 95761339-342e-3534-1de0-e1cbf5505643
+  type: text
+  text:
+    html: <div class="paragraph-26 semi-bold">CNCF (Cloud Native Computing Foundation)</div>
+    text: CNCF (Cloud Native Computing Foundation)
+  attributes: {}
+- id: 813e5241-437b-7058-3e98-77abc497caba
+  type: text
+  text:
+    html: <div class="paragraph-16 white">Shared principles of scalability, reliability,
+      and open governance.</div>
+    text: Shared principles of scalability, reliability, and open governance.
+  attributes: {}
+- id: 3c3f0016-de70-753c-3ded-0e1e443c7b2e
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a708d77973571e83d4ffa
+  attributes: {}
+- id: 3c3f0016-de70-753c-3ded-0e1e443c7b30
+  type: text
+  text:
+    html: <div class="paragraph-26 semi-bold">OpenAPI + AsyncAPI</div>
+    text: OpenAPI + AsyncAPI
+  attributes: {}
+- id: 3c3f0016-de70-753c-3ded-0e1e443c7b32
+  type: text
+  text:
+    html: <div class="paragraph-16 white">The open standards at the heart of our capability
+      definitions and policy engine.</div>
+    text: The open standards at the heart of our capability definitions and policy
+      engine.
+  attributes: {}
+- id: becffa67-920d-c184-5259-8592974279a4
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a708d77973571e83d4ffa
+  attributes: {}
+- id: becffa67-920d-c184-5259-8592974279a6
+  type: text
+  text:
+    html: <div class="paragraph-26 semi-bold">JSON Schema, MCP, Model Context Protocol</div>
+    text: JSON Schema, MCP, Model Context Protocol
+  attributes: {}
+- id: becffa67-920d-c184-5259-8592974279a8
+  type: text
+  text:
+    html: <div class="paragraph-16 white">Building blocks for the agentic and API-driven
+      future.</div>
+    text: Building blocks for the agentic and API-driven future.
+  attributes: {}
+- id: b3abf7b9-742a-b8ac-a1ed-78d35722e824
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d3a6eed6fe6cba7e8
+  attributes: {}
+- id: 874ca8ac-2b9e-8f4c-a0ea-f554579aff6d
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d25e38151bf5dbf3c
+  attributes: {}
+- id: 284a4372-0109-c3a1-83bc-60b1a78cca7e
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0dddfcdcf15af56ac7
+  attributes: {}
+- id: 05209527-193d-5083-5c6f-da330a1c430a
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d3a6eed6fe6cba7e8
+  attributes: {}
+- id: 8b8dca5e-1daf-bc9c-2c6f-39b42c2a1eef
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d25e38151bf5dbf3c
+  attributes: {}
+- id: 7a4708e1-76bf-5bfe-3e13-b18272991a39
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0dddfcdcf15af56ac7
+  attributes: {}
+- id: 1a5d2237-bbc7-e6ff-656d-dcb635073527
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d3a6eed6fe6cba7e8
+  attributes: {}
+- id: 1a5d2237-bbc7-e6ff-656d-dcb635073528
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d25e38151bf5dbf3c
+  attributes: {}
+- id: 1a5d2237-bbc7-e6ff-656d-dcb635073529
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0dddfcdcf15af56ac7
+  attributes: {}
+- id: 1a5d2237-bbc7-e6ff-656d-dcb63507352a
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d3a6eed6fe6cba7e8
+  attributes: {}
+- id: 1a5d2237-bbc7-e6ff-656d-dcb63507352b
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d25e38151bf5dbf3c
+  attributes: {}
+- id: 1a5d2237-bbc7-e6ff-656d-dcb63507352c
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0dddfcdcf15af56ac7
+  attributes: {}
+- id: 686cbb92-c90c-228f-70fa-760b590a38b2
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d3a6eed6fe6cba7e8
+  attributes: {}
+- id: 686cbb92-c90c-228f-70fa-760b590a38b3
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d25e38151bf5dbf3c
+  attributes: {}
+- id: 686cbb92-c90c-228f-70fa-760b590a38b4
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0dddfcdcf15af56ac7
+  attributes: {}
+- id: 686cbb92-c90c-228f-70fa-760b590a38b5
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d3a6eed6fe6cba7e8
+  attributes: {}
+- id: 686cbb92-c90c-228f-70fa-760b590a38b6
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d25e38151bf5dbf3c
+  attributes: {}
+- id: 686cbb92-c90c-228f-70fa-760b590a38b7
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0dddfcdcf15af56ac7
+  attributes: {}
+- id: 686cbb92-c90c-228f-70fa-760b590a38b8
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d3a6eed6fe6cba7e8
+  attributes: {}
+- id: 686cbb92-c90c-228f-70fa-760b590a38b9
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d25e38151bf5dbf3c
+  attributes: {}
+- id: 686cbb92-c90c-228f-70fa-760b590a38ba
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0dddfcdcf15af56ac7
+  attributes: {}
+- id: 686cbb92-c90c-228f-70fa-760b590a38bb
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d3a6eed6fe6cba7e8
+  attributes: {}
+- id: 686cbb92-c90c-228f-70fa-760b590a38bc
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d25e38151bf5dbf3c
+  attributes: {}
+- id: 686cbb92-c90c-228f-70fa-760b590a38bd
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0dddfcdcf15af56ac7
+  attributes: {}
+- id: f1774932-87bf-6f36-f5b6-d6333f9e42a6
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d3a6eed6fe6cba7e8
+  attributes: {}
+- id: f1774932-87bf-6f36-f5b6-d6333f9e42a7
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d25e38151bf5dbf3c
+  attributes: {}
+- id: f1774932-87bf-6f36-f5b6-d6333f9e42a8
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0dddfcdcf15af56ac7
+  attributes: {}
+- id: f1774932-87bf-6f36-f5b6-d6333f9e42a9
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d3a6eed6fe6cba7e8
+  attributes: {}
+- id: f1774932-87bf-6f36-f5b6-d6333f9e42aa
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d25e38151bf5dbf3c
+  attributes: {}
+- id: f1774932-87bf-6f36-f5b6-d6333f9e42ab
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0dddfcdcf15af56ac7
+  attributes: {}
+- id: f1774932-87bf-6f36-f5b6-d6333f9e42ac
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d3a6eed6fe6cba7e8
+  attributes: {}
+- id: f1774932-87bf-6f36-f5b6-d6333f9e42ad
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d25e38151bf5dbf3c
+  attributes: {}
+- id: f1774932-87bf-6f36-f5b6-d6333f9e42ae
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0dddfcdcf15af56ac7
+  attributes: {}
+- id: f1774932-87bf-6f36-f5b6-d6333f9e42af
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d3a6eed6fe6cba7e8
+  attributes: {}
+- id: f1774932-87bf-6f36-f5b6-d6333f9e42b0
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0d25e38151bf5dbf3c
+  attributes: {}
+- id: f1774932-87bf-6f36-f5b6-d6333f9e42b1
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e2a0dddfcdcf15af56ac7
+  attributes: {}
+- id: bc22b1b2-306f-8ec7-190c-c288eebec403
+  type: text
+  text:
+    html: <h2>Community events</h2>
+    text: Community events
+  attributes: {}
+- id: bc22b1b2-306f-8ec7-190c-c288eebec405
+  type: text
+  text:
+    html: <div>Naftiko is part of a broader movement shaping how integration, data,
+      and AI work together.</div>
+    text: Naftiko is part of a broader movement shaping how integration, data, and
+      AI work together.
+  attributes: {}
+- id: 7da14624-6f42-49e8-d090-f16de5157528
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a7b1ecf1e847bfc517c44
+  attributes: {}
+- id: 60ddf885-4bd3-face-ecd1-39dbf2a14e53
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: 84ac7557-0ec5-b1ff-4f16-8c094b207a17
+  type: text
+  text:
+    html: <div class="paragraph-32">Get involved</div>
+    text: Get involved
+  attributes: {}
+- id: debd574a-0484-ac17-7bac-a7ede098885c
+  type: text
+  text:
+    html: <div class="white height-110">Ways to contribute</div>
+    text: Ways to contribute
+  attributes: {}
+- id: debd574a-0484-ac17-7bac-a7ede0988860
+  type: text
+  text:
+    html: <div class="white">1</div>
+    text: '1'
+  attributes: {}
+pagination:
+  limit: 100
+  offset: 0
+  total: 119
+lastUpdated: '2025-12-13T09:02:20.513Z'

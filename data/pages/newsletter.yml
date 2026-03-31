@@ -1,0 +1,298 @@
+pageId: 6918660f328e4a2318289ddd
+branchId: null
+nodes:
+- id: 1c54e280-37a0-32ca-d44d-81d5ee53122e
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f148
+  type: component-instance
+  componentId: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f146
+  propertyOverrides: []
+- id: 0fe70330-bc6c-f09f-f47a-57ff90104104
+  type: component-instance
+  componentId: 48eb0862-0648-838c-90e7-508d66816e78
+  propertyOverrides: []
+- id: 5cb4e349-4117-7704-a320-49367c8ede63
+  type: component-instance
+  componentId: 334235b2-f258-d4bf-c6d0-9052ffcbc41c
+  propertyOverrides: []
+- id: a58d47e0-367f-4320-f49d-47527c308dec
+  type: component-instance
+  componentId: a58d47e0-367f-4320-f49d-47527c308dbe
+  propertyOverrides: []
+- id: c0d486ad-e04b-eeae-f10b-8b9b58fed6c9
+  type: text
+  text:
+    html: <div class="paragraph-38 semi-bold">The Manifest</div>
+    text: The Manifest
+  attributes: {}
+- id: 3601fa1b-e477-9031-8bbc-916720f1252a
+  type: text
+  text:
+    html: <h1 class="align-text-left max-width-300">Signals from the capability fabric</h1>
+    text: Signals from the capability fabric
+  attributes: {}
+- id: 8aba1910-ab52-23df-8083-43dc6e508563
+  type: text
+  text:
+    html: <div class="paragraph-22 align-text-left">Cut through the noise around APIs,
+      SaaS, and AI. The Manifest delivers curated insights from CNCF, OpenAPI, AsyncAPI,
+      and beyond — plus the latest from Naftiko, Engine, Hub, and our community.</div>
+    text: Cut through the noise around APIs, SaaS, and AI. The Manifest delivers curated
+      insights from CNCF, OpenAPI, AsyncAPI, and beyond — plus the latest from Naftiko,
+      Engine, Hub, and our community.
+  attributes: {}
+- id: c31f093c-8ab7-a637-7c77-f0a3aa9db681
+  type: text
+  text:
+    html: <h2>Why subscribe?</h2>
+    text: Why subscribe?
+  attributes: {}
+- id: 6cdb987b-fccc-00b9-e0d4-4c1678a24dcf
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6918735e66b1836fcb387f01
+  attributes: {}
+- id: 0a58844e-9c0a-68a6-e753-71520b7e0934
+  type: text
+  text:
+    html: '<div>Clear signals from the wider ecosystem: CNCF, OpenAPI, AsyncAPI, GitHub</div>'
+    text: 'Clear signals from the wider ecosystem: CNCF, OpenAPI, AsyncAPI, GitHub'
+  attributes: {}
+- id: a41c440b-064c-048a-02c3-d383de6c2912
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6918735ecc16396132d16669
+  attributes: {}
+- id: a41c440b-064c-048a-02c3-d383de6c2913
+  type: text
+  text:
+    html: <div>Updates on Naftiko and our capability fabric roadmap</div>
+    text: Updates on Naftiko and our capability fabric roadmap
+  attributes: {}
+- id: f40d5f21-db28-7328-1182-45b150d8b5fe
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6918735e39cf5831cb8da3f5
+  attributes: {}
+- id: f40d5f21-db28-7328-1182-45b150d8b5ff
+  type: text
+  text:
+    html: <div>Highlights from our blog, white papers, and community contributions</div>
+    text: Highlights from our blog, white papers, and community contributions
+  attributes: {}
+- id: 50981f45-3731-7d16-0468-2dc4f03d5332
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6918735eac99831726c1e3b3
+  attributes: {}
+- id: 50981f45-3731-7d16-0468-2dc4f03d5333
+  type: text
+  text:
+    html: <div>A navigator’s take on where the industry currents are heading</div>
+    text: A navigator’s take on where the industry currents are heading
+  attributes: {}
+- id: e30b2da5-02d1-2d23-1d32-d9fcf3d2f28e
+  type: text
+  text:
+    html: <h2>Subscribe to The Manifest</h2>
+    text: Subscribe to The Manifest
+  attributes: {}
+- id: 9536fc12-2c12-ba44-78cb-9a68fb9d083b
+  type: text-input
+  placeholder: Enter your email
+  attributes: {}
+- id: bf374dce-bacd-1fa0-2b29-c403a51f618d
+  type: text
+  text:
+    html: <label class="paragraph-14">Keep me updated on Naftiko product launches</label>
+    text: Keep me updated on Naftiko product launches
+  attributes: {}
+- id: 9536fc12-2c12-ba44-78cb-9a68fb9d083d
+  type: submit-button
+  waitingText: Please wait...
+  value: Subscribe
+  attributes: {}
+- id: 9536fc12-2c12-ba44-78cb-9a68fb9d0841
+  type: text
+  text:
+    html: <div>Thanks for signing up!</div>
+    text: Thanks for signing up!
+  attributes: {}
+- id: 9536fc12-2c12-ba44-78cb-9a68fb9d0845
+  type: text
+  text:
+    html: <div>Subscribed</div>
+    text: Subscribed
+  attributes: {}
+- id: 9536fc12-2c12-ba44-78cb-9a68fb9d0848
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: bfbd5041-1681-c057-98f6-98f1717daec2
+  type: text
+  text:
+    html: <h2 class="max-width-650">What you’ll get</h2>
+    text: What you’ll get
+  attributes: {}
+- id: 82231dd2-face-02e9-b836-57102eb9a51e
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6918d3496437a3b0aca95258
+  attributes: {}
+- id: 0642110b-ec34-8ac5-fb21-f9c139308b2c
+  type: text
+  text:
+    html: <div class="paragraph-34 spacing-005">01</div>
+    text: '01'
+  attributes: {}
+- id: ccce438f-fe07-55ba-3e2d-d5e7c1f1eb0b
+  type: text
+  text:
+    html: <div class="paragraph-20 white semi-bold">Ecosystem watch</div>
+    text: Ecosystem watch
+  attributes: {}
+- id: ccc93b01-5796-75a5-80b4-8a2171f344fa
+  type: text
+  text:
+    html: <div class="paragraph-16">Curated stories from standards and OSS projects</div>
+    text: Curated stories from standards and OSS projects
+  attributes: {}
+- id: 102309f5-53ee-c6ba-6f2f-1d285cdc0a14
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6918d3496437a3b0aca95258
+  attributes: {}
+- id: 102309f5-53ee-c6ba-6f2f-1d285cdc0a16
+  type: text
+  text:
+    html: <div class="paragraph-34 spacing-005">02</div>
+    text: '02'
+  attributes: {}
+- id: 102309f5-53ee-c6ba-6f2f-1d285cdc0a19
+  type: text
+  text:
+    html: <div class="paragraph-20 white semi-bold">From the crew</div>
+    text: From the crew
+  attributes: {}
+- id: 102309f5-53ee-c6ba-6f2f-1d285cdc0a1b
+  type: text
+  text:
+    html: <div class="paragraph-16">Insights, lessons, and open source updates from
+      Naftiko engineers</div>
+    text: Insights, lessons, and open source updates from Naftiko engineers
+  attributes: {}
+- id: ab72dbfb-edec-5e49-976d-95359c5c551a
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6918d3496437a3b0aca95258
+  attributes: {}
+- id: ab72dbfb-edec-5e49-976d-95359c5c551c
+  type: text
+  text:
+    html: <div class="paragraph-34 spacing-005">03</div>
+    text: '03'
+  attributes: {}
+- id: ab72dbfb-edec-5e49-976d-95359c5c551f
+  type: text
+  text:
+    html: <div class="paragraph-20 white semi-bold">Signals worth reading</div>
+    text: Signals worth reading
+  attributes: {}
+- id: ab72dbfb-edec-5e49-976d-95359c5c5521
+  type: text
+  text:
+    html: <div class="paragraph-16">Handpicked reads, docs, or repos we think matter</div>
+    text: Handpicked reads, docs, or repos we think matter
+  attributes: {}
+- id: 1ebc333e-8cc3-a927-5593-accc5b8da5d4
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6918d3496437a3b0aca95258
+  attributes: {}
+- id: 1ebc333e-8cc3-a927-5593-accc5b8da5d6
+  type: text
+  text:
+    html: <div class="paragraph-34 spacing-005">04</div>
+    text: '04'
+  attributes: {}
+- id: 1ebc333e-8cc3-a927-5593-accc5b8da5d9
+  type: text
+  text:
+    html: <div class="paragraph-20 white semi-bold">Progress log</div>
+    text: Progress log
+  attributes: {}
+- id: 1ebc333e-8cc3-a927-5593-accc5b8da5db
+  type: text
+  text:
+    html: <div class="paragraph-16">What’s shipping next in Framework, Engine, and
+      Fabric</div>
+    text: What’s shipping next in Framework, Engine, and Fabric
+  attributes: {}
+- id: 5bffc76e-e4af-02f2-8d28-d575bcc60870
+  type: text
+  text:
+    html: <h2>Stay on course</h2>
+    text: Stay on course
+  attributes: {}
+- id: 5bffc76e-e4af-02f2-8d28-d575bcc60872
+  type: text
+  text:
+    html: <div>Join engineers, builders, and contributors navigating the capability
+      fabric with us.</div>
+    text: Join engineers, builders, and contributors navigating the capability fabric
+      with us.
+  attributes: {}
+- id: 326df3aa-67d9-2f3d-137b-cdb98cfda268
+  type: text-input
+  placeholder: Enter your email
+  attributes: {}
+- id: 326df3aa-67d9-2f3d-137b-cdb98cfda26a
+  type: submit-button
+  waitingText: Please wait...
+  value: Join the waitlist
+  attributes: {}
+- id: 326df3aa-67d9-2f3d-137b-cdb98cfda26e
+  type: text
+  text:
+    html: <div>Thanks for signing up!</div>
+    text: Thanks for signing up!
+  attributes: {}
+- id: 326df3aa-67d9-2f3d-137b-cdb98cfda272
+  type: text
+  text:
+    html: <div>Subscribed</div>
+    text: Subscribed
+  attributes: {}
+- id: 326df3aa-67d9-2f3d-137b-cdb98cfda275
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: 109c32a3-1c72-f1b0-bfd2-b19095e96119
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915b78801b16cb7875d3e10
+  attributes: {}
+- id: f08038d6-8bda-fa72-06f4-e95fb4071f49
+  type: component-instance
+  componentId: f08038d6-8bda-fa72-06f4-e95fb4071f06
+  propertyOverrides: []
+pagination:
+  limit: 100
+  offset: 0
+  total: 50
+lastUpdated: '2025-12-06T17:04:45.756Z'

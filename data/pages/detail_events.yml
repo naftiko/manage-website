@@ -1,0 +1,359 @@
+pageId: 691cf489dd2f1d4529e9c554
+branchId: null
+nodes:
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a3e
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a3f
+  type: component-instance
+  componentId: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f146
+  propertyOverrides: []
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a40
+  type: component-instance
+  componentId: 48eb0862-0648-838c-90e7-508d66816e78
+  propertyOverrides: []
+- id: 17ab6e82-b110-a2e1-2edf-b5280baf0a97
+  type: component-instance
+  componentId: 334235b2-f258-d4bf-c6d0-9052ffcbc41c
+  propertyOverrides: []
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a41
+  type: component-instance
+  componentId: a58d47e0-367f-4320-f49d-47527c308dbe
+  propertyOverrides: []
+- id: 7e4f9d3d-2416-8402-e66f-d1627c89a353
+  type: text
+  text:
+    html: <div>Catch us on stage<br data-w-id="e2505bad-f47f-48b1-8031-5193508d88a3"></div>
+    text: 'Catch us on stage
+
+      '
+  attributes: {}
+- id: f3aa04e5-54e3-2601-52c7-492055ac5219
+  type: text
+  text:
+    html: <div>Grab your ticket</div>
+    text: Grab your ticket
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a4e
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e0a5d97d3d8114dae3c66
+  attributes: {}
+- id: 12fed3d6-5e97-3380-61ff-5153a90917de
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e0a5e480bc813451a0795
+  attributes: {}
+- id: d1e8526b-988b-1143-8e14-7e8de1290d0c
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692e0a5e97d3d8114dae3c7e
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a56
+  type: text
+  text:
+    html: <h2 class="align-text-left">Visit the Naftiko booth</h2>
+    text: Visit the Naftiko booth
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a58
+  type: text
+  text:
+    html: <div>Come by the Naftiko booth to meet the team, see what we’re building,
+      and chat about your integration needs. We’ll also be recording conversations
+      for our podcast and blog—would love to hear your perspective!</div>
+    text: Come by the Naftiko booth to meet the team, see what we’re building, and
+      chat about your integration needs. We’ll also be recording conversations for
+      our podcast and blog—would love to hear your perspective!
+  attributes: {}
+- id: 51496e55-2cf1-16c2-c512-fa29b622e172
+  type: text
+  text:
+    html: <div class="paragraph-32">Explore</div>
+    text: Explore
+  attributes: {}
+- id: a7df285c-ea5b-1ce5-6cba-c9fd47075183
+  type: text
+  text:
+    html: '<p id="text" class="paragraph-26 white-70 height-150">the fabric in       practice</p>'
+    text: 'the fabric in       practice'
+  attributes: {}
+- id: 85325e7f-0a00-946d-a1ec-43c9898c61b5
+  type: text
+  text:
+    html: <p id="text" class="paragraph-26 white-70 height-150">new white papers</p>
+    text: new white papers
+  attributes: {}
+- id: d5f6b896-f122-ff79-725d-37a0e7f229c2
+  type: text
+  text:
+    html: <p id="text" class="paragraph-26 white-70 height-150">what's new with the
+      crew</p>
+    text: what's new with the crew
+  attributes: {}
+- id: 27bc4a96-2435-be3a-abf6-75b2b22dcc2c
+  type: text
+  text:
+    html: '<p id="text" class="paragraph-26 white-70 height-150">the fabric in       practice</p>'
+    text: 'the fabric in       practice'
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a63
+  type: text
+  text:
+    html: '<div class="paragraph-32 normal align-text-center">Special offer for our
+      community: 50% off apidays Paris 🎉</div>'
+    text: 'Special offer for our community: 50% off apidays Paris 🎉'
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a65
+  type: text
+  text:
+    html: <div class="paragraph-16 align-text-center max-width-480">Get half off your
+      apidays Paris 2025 ticket with this exclusive community-only offer. </div>
+    text: 'Get half off your apidays Paris 2025 ticket with this exclusive community-only
+      offer. '
+  attributes: {}
+- id: c4e43319-e4aa-d11f-6c03-90bd84e4f33b
+  type: text
+  text:
+    html: <div>Grab your ticket</div>
+    text: Grab your ticket
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a6c
+  type: text
+  text:
+    html: <div class="paragraph-14 white-70"><em data-w-id="68798089-4a61-3798-c173-ca9785c97313">Limited
+      to the first 10 people!</em></div>
+    text: Limited to the first 10 people!
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a72
+  type: text
+  text:
+    html: <h2>First look at new research</h2>
+    text: First look at new research
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a74
+  type: text
+  text:
+    html: <div>We’re unveiling two cornerstone resources at apidays Paris</div>
+    text: We’re unveiling two cornerstone resources at apidays Paris
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a7a
+  type: image
+  image:
+    alt: ''
+    assetId: 6917d0673f5d93656f64a84a
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a7d
+  type: text
+  text:
+    html: <div class="paragraph-16 white medium">Capabilities Fabric</div>
+    text: Capabilities Fabric
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a7f
+  type: text
+  text:
+    html: <div class="paragraph-14 white-80">How enterprises, SaaS vendors, and platform
+      teams can cut hidden costs and reclaim velocity.</div>
+    text: How enterprises, SaaS vendors, and platform teams can cut hidden costs and
+      reclaim velocity.
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a83
+  type: text
+  text:
+    html: <div>Download</div>
+    text: Download
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a8d
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6917d1017bd7de370ae8d878
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a91
+  type: image
+  image:
+    alt: ''
+    assetId: 6917d0673f5d93656f64a84a
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a94
+  type: text
+  text:
+    html: <div class="paragraph-16 white medium">Economics of Cloud to AI</div>
+    text: Economics of Cloud to AI
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a96
+  type: text
+  text:
+    html: <div class="paragraph-14 white-80">How enterprises, SaaS vendors, and platform
+      teams can cut hidden costs and reclaim velocity.</div>
+    text: How enterprises, SaaS vendors, and platform teams can cut hidden costs and
+      reclaim velocity.
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641a9a
+  type: text
+  text:
+    html: <div>Download</div>
+    text: Download
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641aa4
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6917d1017bd7de370ae8d878
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641aa7
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 69167a89be3412201b07c872
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641aac
+  type: text
+  text:
+    html: <h2 class="max-width-650">Catch us on stage</h2>
+    text: Catch us on stage
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641aae
+  type: text
+  text:
+    html: <div>This won’t be a sales pitch, we promise! It’s a look at where integration
+      is heading, and how we’re building for it.</div>
+    text: This won’t be a sales pitch, we promise! It’s a look at where integration
+      is heading, and how we’re building for it.
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641ab6
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692434b79077147d91e3a869
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641ab7
+  type: text
+  text:
+    html: <div class="green">Jérôme Louvel</div>
+    text: Jérôme Louvel
+  attributes: {}
+- id: 7cc96eaa-1e0e-a7b0-e630-a52b38e59c99
+  type: text
+  text:
+    html: <div class="bold">2:30 PM on Wed, Dec 10th</div>
+    text: 2:30 PM on Wed, Dec 10th
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641aba
+  type: text
+  text:
+    html: '<div class="medium">From Web APIs to a Web of Capabilities: The Journey
+      to AI Integration</div>'
+    text: 'From Web APIs to a Web of Capabilities: The Journey to AI Integration'
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641abd
+  type: text
+  text:
+    html: <div>Catch Jérôme on stage</div>
+    text: Catch Jérôme on stage
+  attributes: {}
+- id: 1af08884-ad7e-7005-3ae0-6d11a29cd427
+  type: text
+  text:
+    html: <div>Talk</div>
+    text: Talk
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641acc
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6926be7908961fe9c13c654e
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641acd
+  type: text
+  text:
+    html: <div class="green">Kin Lane</div>
+    text: Kin Lane
+  attributes: {}
+- id: 17e3bcc5-32b3-198c-3748-a7bcb182e854
+  type: text
+  text:
+    html: <div class="bold">12:00 PM on Tues, Dec 9th<br data-w-id="adbc92e8-782e-09fc-80b1-9c71d33da964"></div>
+    text: '12:00 PM on Tues, Dec 9th
+
+      '
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641ad0
+  type: text
+  text:
+    html: <div class="medium">Finding the Signals That Matter When It Comes to AI
+      Integration</div>
+    text: Finding the Signals That Matter When It Comes to AI Integration
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641ad3
+  type: text
+  text:
+    html: <div>Reserve your seat</div>
+    text: Reserve your seat
+  attributes: {}
+- id: b9433ba6-81e2-3e1d-3bb2-f6ba4e5d15f3
+  type: text
+  text:
+    html: <div>Workshop</div>
+    text: Workshop
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641ae3
+  type: text
+  text:
+    html: <h2 class="max-width-900 height-110 align-text-left">Be part of the first
+      wave</h2>
+    text: Be part of the first wave
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641ae5
+  type: text
+  text:
+    html: <div class="white-90 max-width-800">It's open source–ready, community-driven,
+      and built for teams who want to move fast without breaking things.</div>
+    text: It's open source–ready, community-driven, and built for teams who want to
+      move fast without breaking things.
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641ae9
+  type: text-input
+  placeholder: Enter your email
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641aeb
+  type: submit-button
+  waitingText: Please wait...
+  value: Join the waitlist
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641aef
+  type: text
+  text:
+    html: <div>Thanks for signing up!</div>
+    text: Thanks for signing up!
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641af3
+  type: text
+  text:
+    html: <div>Subscribed</div>
+    text: Subscribed
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641af6
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641afc
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915b78801b16cb7875d3e10
+  attributes: {}
+- id: 094a7d0c-fb43-40fe-8496-3c3791641afd
+  type: component-instance
+  componentId: f08038d6-8bda-fa72-06f4-e95fb4071f06
+  propertyOverrides: []
+pagination:
+  limit: 100
+  offset: 0
+  total: 57
+lastUpdated: '2025-12-06T21:47:57.063Z'

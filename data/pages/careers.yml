@@ -1,0 +1,270 @@
+pageId: 691a3269574eb5f0ef792f0e
+branchId: null
+nodes:
+- id: 1c54e280-37a0-32ca-d44d-81d5ee53122e
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f148
+  type: component-instance
+  componentId: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f146
+  propertyOverrides: []
+- id: 48eb0862-0648-838c-90e7-508d66816e7c
+  type: component-instance
+  componentId: 48eb0862-0648-838c-90e7-508d66816e78
+  propertyOverrides: []
+- id: e45adfc0-8102-10e7-d6a2-a71afe15ff0f
+  type: component-instance
+  componentId: 334235b2-f258-d4bf-c6d0-9052ffcbc41c
+  propertyOverrides: []
+- id: a58d47e0-367f-4320-f49d-47527c308dec
+  type: component-instance
+  componentId: a58d47e0-367f-4320-f49d-47527c308dbe
+  propertyOverrides: []
+- id: 7e4f58f9-d003-665f-1dda-64ff54cfc982
+  type: text
+  text:
+    html: "<h1>Join the crew shaping the \Lfuture of integration</h1>"
+    text: "Join the crew shaping the \Lfuture of integration"
+  attributes: {}
+- id: 3bffd447-cfab-fade-d106-21d006137fa1
+  type: text
+  text:
+    html: <div class="paragraph-22">Naftiko is just setting sail but we want to hear
+      from curious, driven people who see themselves building with us.</div>
+    text: Naftiko is just setting sail but we want to hear from curious, driven people
+      who see themselves building with us.
+  attributes: {}
+- id: 0519400c-d90c-0eb4-1400-6132b08484a6
+  type: text
+  text:
+    html: <h2>What we value</h2>
+    text: What we value
+  attributes: {}
+- id: 0519400c-d90c-0eb4-1400-6132b08484a8
+  type: text
+  text:
+    html: <div>The principles that guide how we work and grow together.</div>
+    text: The principles that guide how we work and grow together.
+  attributes: {}
+- id: 4ee9a57f-ad6f-4977-a2f6-170d6a3cff0c
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6924e31ed4654d61e5ce065b
+  attributes: {}
+- id: 4ee9a57f-ad6f-4977-a2f6-170d6a3cff0e
+  type: text
+  text:
+    html: <div class="paragraph-24 medium white height-130">Stay passionate</div>
+    text: Stay passionate
+  attributes: {}
+- id: 4ee9a57f-ad6f-4977-a2f6-170d6a3cff10
+  type: text
+  text:
+    html: <div class="ash-2 height-120">Work with curiosity, grit, and support from
+      the crew.</div>
+    text: Work with curiosity, grit, and support from the crew.
+  attributes: {}
+- id: ca51ee2a-a991-47c2-457e-62158a8c2b45
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6924e31e1f95c750e63bd9b6
+  attributes: {}
+- id: ca51ee2a-a991-47c2-457e-62158a8c2b47
+  type: text
+  text:
+    html: <div class="paragraph-24 medium white height-130">Be truly open</div>
+    text: Be truly open
+  attributes: {}
+- id: ca51ee2a-a991-47c2-457e-62158a8c2b49
+  type: text
+  text:
+    html: <div class="ash-2 height-120">Open source, open community, open communication.</div>
+    text: Open source, open community, open communication.
+  attributes: {}
+- id: 946224c1-50ee-eeb3-98bd-d5fcae94075e
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6924e31e251308c29155f973
+  attributes: {}
+- id: 946224c1-50ee-eeb3-98bd-d5fcae940760
+  type: text
+  text:
+    html: <div class="paragraph-24 medium white height-130">Deliver meaningful experiences</div>
+    text: Deliver meaningful experiences
+  attributes: {}
+- id: 946224c1-50ee-eeb3-98bd-d5fcae940762
+  type: text
+  text:
+    html: <div class="ash-2 height-120">Build what matters for people and for business.</div>
+    text: Build what matters for people and for business.
+  attributes: {}
+- id: 78d6c8a5-a6bb-8d5b-3dc7-e093637acb30
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6924e31e684a0cdea9604ae9
+  attributes: {}
+- id: 78d6c8a5-a6bb-8d5b-3dc7-e093637acb32
+  type: text
+  text:
+    html: <div class="paragraph-24 medium white height-130">Do the right thing</div>
+    text: Do the right thing
+  attributes: {}
+- id: 78d6c8a5-a6bb-8d5b-3dc7-e093637acb34
+  type: text
+  text:
+    html: <div class="ash-2 height-120">Integrity and fairness, baked into every choice.</div>
+    text: Integrity and fairness, baked into every choice.
+  attributes: {}
+- id: 1f6b0c5c-7f6b-5546-dc3c-7a6a34f629e9
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6924e31e0896f82b01e06e78
+  attributes: {}
+- id: 1f6b0c5c-7f6b-5546-dc3c-7a6a34f629eb
+  type: text
+  text:
+    html: <div class="paragraph-24 medium white height-130">Ensure sustainability</div>
+    text: Ensure sustainability
+  attributes: {}
+- id: 1f6b0c5c-7f6b-5546-dc3c-7a6a34f629ed
+  type: text
+  text:
+    html: <div class="ash-2 height-120">Balance tech, environmental, and social impact.</div>
+    text: Balance tech, environmental, and social impact.
+  attributes: {}
+- id: ef2b2d5e-b5ac-8737-6ad2-2acda4666d25
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6924e31e94903fe122f5272a
+  attributes: {}
+- id: ef2b2d5e-b5ac-8737-6ad2-2acda4666d27
+  type: text
+  text:
+    html: <div class="paragraph-24 medium white height-130">Drive responsible use</div>
+    text: Drive responsible use
+  attributes: {}
+- id: ef2b2d5e-b5ac-8737-6ad2-2acda4666d29
+  type: text
+  text:
+    html: <div class="ash-2 height-120">Building products and standards that are safe
+      by design.</div>
+    text: Building products and standards that are safe by design.
+  attributes: {}
+- id: abb1cd4c-735a-217d-9526-13510becdc90
+  type: text
+  text:
+    html: <h2>Roles on deck</h2>
+    text: Roles on deck
+  attributes: {}
+- id: 4e01fa0a-b2f4-2483-3d4b-48fe15ec6a39
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a4b7ef259b5d5d5f5412b
+  attributes: {}
+- id: 4e01fa0a-b2f4-2483-3d4b-48fe15ec6a3d
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a4b7e1db6720acd6473e6
+  attributes: {}
+- id: 4e01fa0a-b2f4-2483-3d4b-48fe15ec6a42
+  type: text
+  text:
+    html: <div>Apply</div>
+    text: Apply
+  attributes: {}
+- id: 4e01fa0a-b2f4-2483-3d4b-48fe15ec6a4c
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a44dedac7c1876b2348ba
+  attributes: {}
+- id: 5562e253-e02f-db4f-2dc3-093a912981c6
+  type: text
+  text:
+    html: <p class="align-text-center max-width-800 white-60">No open roles at the
+      moment, but new opportunities are on the horizon. Check back soon! In the meantime,
+      feel free to drop us an open application using this form <a href="#" class="paragraph-link"
+      data-w-id="5562e253-e02f-db4f-2dc3-093a912981c8"><strong data-w-id="5562e253-e02f-db4f-2dc3-093a912981c9">[
+      here ]</strong></a></p>
+    text: No open roles at the moment, but new opportunities are on the horizon. Check
+      back soon! In the meantime, feel free to drop us an open application using this
+      form [ here ]
+  attributes: {}
+- id: c0567b3d-d0ea-ecb0-db54-6ec25129ad83
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a17105e7b5f656cfd1bfe
+  attributes: {}
+- id: 6aa08f74-37ca-eda8-8128-11585b57df33
+  type: text
+  text:
+    html: <h2>Where we work</h2>
+    text: Where we work
+  attributes: {}
+- id: 6aa08f74-37ca-eda8-8128-11585b57df35
+  type: text
+  text:
+    html: <div>Our crew’s home base is in Paris, where we meet at a central co-working
+      space a few days each week to collaborate in person. We also regroup in PA when
+      needed, keeping the team connected across the Atlantic.</div>
+    text: Our crew’s home base is in Paris, where we meet at a central co-working
+      space a few days each week to collaborate in person. We also regroup in PA when
+      needed, keeping the team connected across the Atlantic.
+  attributes: {}
+- id: 8139558f-e2db-b623-2c8c-b04abb623c76
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6932acb3087198123c90ba36
+  attributes: {}
+- id: 28957033-44ce-6192-a618-b3038cc79dd7
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691a1710ddd880ccc5f2fbe9
+  attributes: {}
+- id: 0fb0641f-5a14-8189-f7cd-f1807928ba7a
+  type: text
+  text:
+    html: <h2 class="max-width-900 height-110 align-text-left">Every crew grows</h2>
+    text: Every crew grows
+  attributes: {}
+- id: 0fb0641f-5a14-8189-f7cd-f1807928ba7c
+  type: text
+  text:
+    html: <div class="white-90 max-width-800">As Naftiko expands, we’ll be looking
+      for people who share our values and want to help build the future of integration.</div>
+    text: As Naftiko expands, we’ll be looking for people who share our values and
+      want to help build the future of integration.
+  attributes: {}
+- id: 0fb0641f-5a14-8189-f7cd-f1807928ba7f
+  type: text
+  text:
+    html: <div>See if you’re a fit</div>
+    text: See if you’re a fit
+  attributes: {}
+- id: 0fb0641f-5a14-8189-f7cd-f1807928ba8d
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915b78801b16cb7875d3e10
+  attributes: {}
+- id: 408f3854-f127-32a4-10d1-5a1af2350fc3
+  type: component-instance
+  componentId: f08038d6-8bda-fa72-06f4-e95fb4071f06
+  propertyOverrides: []
+pagination:
+  limit: 100
+  offset: 0
+  total: 57
+lastUpdated: '2025-12-08T09:05:39.750Z'

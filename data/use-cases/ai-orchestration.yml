@@ -1,0 +1,57 @@
+id: 69211931da6adec3cced7209
+cmsLocaleId: 691ced877a6ed28f42bd2fb9
+lastPublished: '2025-12-06T10:17:39.239Z'
+lastUpdated: '2025-12-06T10:17:24.295Z'
+createdOn: '2025-11-22T02:00:17.696Z'
+isArchived: false
+isDraft: false
+fieldData:
+  use-case-name: Coordinate AI the way your teams already work
+  subtitle: Planning ahead for teams when it comes to discovery, security, and the
+    other properties of the Agent-2-Agent specification helps steer the fleet in the
+    same direction.
+  hero-card-content: <p id="">This use case provides the data, skills, and capabilities
+    internal artificial intelligence agents need to automate and orchestrate tasks
+    while discovering and negotiating with other agents to accomplish specific goals.
+    It employs the open-source Agent-2-Agent specification to securely and confidently
+    enable agentic activity across operations.</p><p id="">As teams focus on responding
+    to this AI moment and deploying MCP servers on top of existing APIs and other
+    tooling, they need to begin understanding how to implement agentic automation
+    and orchestration on top of MCP servers. Teams need structure and guidance when
+    it comes to authentication and authorization, discovery, governance, and all the
+    standardization required to deploy agents at scale.</p>
+  steadies-content: 'Naftiko organizes how capabilities work: the Framework sets the
+    rules, the Engine enforces them at runtime, and the Fabric delivers monitoring,
+    auditing, and reporting.'
+  card-content--1: Define agent capabilities, skills, and orchestration policies
+  card-content--2: Execute A2A interactions and enforce authentication, authorization,
+    and negotiation rules
+  card-content--3: Monitor agent activity, message flows, decisions, and outcomes
+  gain-content--1: Enable agents to discover and use internal capabilities
+  gain-content--2: Standardize communication using the A2A protocol
+  gain-content--3: Automate cross-system workflows without human bottlenecks
+  gain-content--4: Reduce risk with governed, policy-driven orchestration
+  gain-content--5: Gain visibility into agent decisions and interactions
+  cta-content: Discovery • Security • Automation • Governance • Control
+  cta-button--link-another-use-case: 69211cb593aafc734593092d
+  what-it-connects-2:
+  - 692d8121f5bc89c54b3f7939
+  - 692d813a782ad65ef76545f3
+  - 692d814b5ee476efb18bad64
+  - 692d815c0e09dba5c241595f
+  - 692d99e8da6d13c1e3252290
+  adapters-2:
+  - 692112f0021cdb241ca1848f
+  - 692112e8cbf416178c51fc57
+  - 6921189afdff575df17c7d48
+  - 692d9a27d0fb303cbe0e7d8a
+  policies-2: []
+  mega-menu-summary: Coordinate AI the way your teams already work
+  product-page-summary: Coordinate AI the way your teams already work
+  product-page-icon-2:
+    fileId: 69213d52c0da5b6117d3ea1e
+    url: https://cdn.prod.website-files.com/691ced877a6ed28f42bd2fba/69213d52c0da5b6117d3ea1e_AI%20mediation%20icon.avif
+    alt: null
+  sort-priority: 3
+  name: AI orchestration
+  slug: ai-orchestration

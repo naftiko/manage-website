@@ -1,0 +1,227 @@
+pageId: 6923957b4af5fb731b964efe
+branchId: null
+nodes:
+- id: 1c54e280-37a0-32ca-d44d-81d5ee53122e
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f148
+  type: component-instance
+  componentId: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f146
+  propertyOverrides: []
+- id: 48eb0862-0648-838c-90e7-508d66816e7c
+  type: component-instance
+  componentId: 48eb0862-0648-838c-90e7-508d66816e78
+  propertyOverrides: []
+- id: bf0d2396-ad15-457e-8328-7751ab6fc618
+  type: component-instance
+  componentId: 334235b2-f258-d4bf-c6d0-9052ffcbc41c
+  propertyOverrides: []
+- id: a58d47e0-367f-4320-f49d-47527c308dec
+  type: component-instance
+  componentId: a58d47e0-367f-4320-f49d-47527c308dbe
+  propertyOverrides: []
+- id: cb430733-594e-bbab-6930-d181fa14bba3
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6923ae1a3b0631dc37761d93
+  attributes: {}
+- id: c8f86e04-e252-fb16-3484-62f7f63baed1
+  type: text
+  text:
+    html: <h2 class="paragraph-46">The Naftiko Glossary</h2>
+    text: The Naftiko Glossary
+  attributes: {}
+- id: e5b32e0c-baa7-131b-582a-fe7ff17a8c2e
+  type: text-input
+  placeholder: Search the glossary...
+  attributes:
+    fs-list-field: '*'
+- id: cc457f20-ddec-397b-3570-629f2cedde5f
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: e5b32e0c-baa7-131b-582a-fe7ff17a8c34
+  type: text
+  text:
+    html: <div>Thank you! Your submission has been received!</div>
+    text: Thank you! Your submission has been received!
+  attributes: {}
+- id: e5b32e0c-baa7-131b-582a-fe7ff17a8c37
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: bb31d9ff-8b90-7d17-3853-6efb6b9edb24
+  type: text
+  text:
+    html: <h2 class="paragraph-46 medium">Core Concepts</h2>
+    text: Core Concepts
+  attributes: {}
+- id: 9ab043a8-9242-9b66-5839-10be0455040d
+  type: text
+  text:
+    html: <div class="paragraph-24 white normal height-110">Capability Fabric</div>
+    text: Capability Fabric
+  attributes: {}
+- id: 9ab043a8-9242-9b66-5839-10be0455040f
+  type: text
+  text:
+    html: <div class="paragraph-16">A unified architectural layer that brings together
+      APIs, integrations, governance, observability, and automation into a cohesive
+      system. It replaces patchwork integrations with a structured, scalable approach.</div>
+    text: A unified architectural layer that brings together APIs, integrations, governance,
+      observability, and automation into a cohesive system. It replaces patchwork
+      integrations with a structured, scalable approach.
+  attributes: {}
+- id: cfb32ecb-4aee-b80e-7c92-1881851b1d0d
+  type: text
+  text:
+    html: <div>Architecture</div>
+    text: Architecture
+  attributes: {}
+- id: b9515354-8b68-e54e-44e7-720d2f1afeda
+  type: text
+  text:
+    html: <div>Core Concept</div>
+    text: Core Concept
+  attributes: {}
+- id: df094a87-11c5-2c29-5250-fe4eef35d2cb
+  type: text
+  text:
+    html: <div class="paragraph-24 white normal height-110">API Governance</div>
+    text: API Governance
+  attributes: {}
+- id: df094a87-11c5-2c29-5250-fe4eef35d2cd
+  type: text
+  text:
+    html: <div class="paragraph-16">Policies and rules that ensure APIs are consistent,
+      secure, discoverable, and compliant across teams and environments.</div>
+    text: Policies and rules that ensure APIs are consistent, secure, discoverable,
+      and compliant across teams and environments.
+  attributes: {}
+- id: df094a87-11c5-2c29-5250-fe4eef35d2d3
+  type: text
+  text:
+    html: <div>API</div>
+    text: API
+  attributes: {}
+- id: df094a87-11c5-2c29-5250-fe4eef35d2d6
+  type: text
+  text:
+    html: <div>Core Concept</div>
+    text: Core Concept
+  attributes: {}
+- id: e898164a-fd81-9286-f31d-7fd9ef10ac88
+  type: text
+  text:
+    html: <div class="paragraph-24 white normal height-110">Capability Fabric</div>
+    text: Capability Fabric
+  attributes: {}
+- id: e898164a-fd81-9286-f31d-7fd9ef10ac8a
+  type: text
+  text:
+    html: <div class="paragraph-16">The connective tissue that orchestrates communication
+      between applications, vendors, and services within modern platforms.</div>
+    text: The connective tissue that orchestrates communication between applications,
+      vendors, and services within modern platforms.
+  attributes: {}
+- id: e898164a-fd81-9286-f31d-7fd9ef10ac90
+  type: text
+  text:
+    html: <div>Integration</div>
+    text: Integration
+  attributes: {}
+- id: e898164a-fd81-9286-f31d-7fd9ef10ac93
+  type: text
+  text:
+    html: <div>Core Concept</div>
+    text: Core Concept
+  attributes: {}
+- id: 9943daed-e830-fccd-63b9-30ff0015e152
+  type: text
+  text:
+    html: <a class="glossary-link" href="#"></a>
+    text: ''
+  attributes: {}
+- id: b76a32d3-35e3-fbf2-c85f-834ecf2d529b
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: 2fbbfa3a-797b-5f97-1677-73427babe8b3
+  type: text
+  text:
+    html: <a class="glossary-link" href="#"></a>
+    text: ''
+  attributes: {}
+- id: 2fbbfa3a-797b-5f97-1677-73427babe8b5
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: 38e6406d-a78f-286e-04a7-a1d381f0c782
+  type: text
+  text:
+    html: <a class="glossary-link" href="#"></a>
+    text: ''
+  attributes: {}
+- id: 38e6406d-a78f-286e-04a7-a1d381f0c784
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: 0e303025-8f26-b816-8e5d-b3eb755582d2
+  type: text
+  text:
+    html: <a class="glossary-link" href="#"></a>
+    text: ''
+  attributes: {}
+- id: 0e303025-8f26-b816-8e5d-b3eb755582d4
+  type: text
+  text:
+    html: <div>No items found.</div>
+    text: No items found.
+  attributes: {}
+- id: dae0ed62-5b6d-6cc8-14f9-7541d2296a86
+  type: text
+  text:
+    html: <div class="paragraph-38 max-width-650">This glossary is a living document.
+      New terms are added as the capability fabric evolves.</div>
+    text: This glossary is a living document. New terms are added as the capability
+      fabric evolves.
+  attributes: {}
+- id: 58afa850-26c0-f585-2169-e7111f895b8d
+  type: text
+  text:
+    html: <div class="green medium">Resources</div>
+    text: Resources
+  attributes: {}
+- id: 58afa850-26c0-f585-2169-e7111f895b98
+  type: text
+  text:
+    html: <div class="green medium">Community</div>
+    text: Community
+  attributes: {}
+- id: 58afa850-26c0-f585-2169-e7111f895ba3
+  type: text
+  text:
+    html: <div class="green medium">The Manifest</div>
+    text: The Manifest
+  attributes: {}
+- id: 408f3854-f127-32a4-10d1-5a1af2350fc3
+  type: component-instance
+  componentId: f08038d6-8bda-fa72-06f4-e95fb4071f06
+  propertyOverrides: []
+pagination:
+  limit: 100
+  offset: 0
+  total: 37
+lastUpdated: '2025-12-01T19:15:35.730Z'

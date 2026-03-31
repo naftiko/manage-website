@@ -1,0 +1,317 @@
+pageId: 6919a635728014e8c056e06b
+branchId: null
+nodes:
+- id: 1c54e280-37a0-32ca-d44d-81d5ee53122e
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f148
+  type: component-instance
+  componentId: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f146
+  propertyOverrides: []
+- id: 48eb0862-0648-838c-90e7-508d66816e7c
+  type: component-instance
+  componentId: 48eb0862-0648-838c-90e7-508d66816e78
+  propertyOverrides: []
+- id: bf0d2396-ad15-457e-8328-7751ab6fc618
+  type: component-instance
+  componentId: 334235b2-f258-d4bf-c6d0-9052ffcbc41c
+  propertyOverrides: []
+- id: a58d47e0-367f-4320-f49d-47527c308dec
+  type: component-instance
+  componentId: a58d47e0-367f-4320-f49d-47527c308dbe
+  propertyOverrides: []
+- id: 7e4f58f9-d003-665f-1dda-64ff54cfc982
+  type: text
+  text:
+    html: <h1>Open channels</h1>
+    text: Open channels
+  attributes: {}
+- id: 3bffd447-cfab-fade-d106-21d006137fa1
+  type: text
+  text:
+    html: <div class="paragraph-22 max-width-530">Different ways to connect with the
+      crew, from early access to community contributions.</div>
+    text: Different ways to connect with the crew, from early access to community
+      contributions.
+  attributes: {}
+- id: 86e381c2-e56c-7325-687b-2a0b84ae394d
+  type: text
+  text:
+    html: <div class="paragraph-32">The best way aboard is the waitlist</div>
+    text: The best way aboard is the waitlist
+  attributes: {}
+- id: 5dd9ffc6-c9f4-4381-d28a-1e37a0871c10
+  type: text
+  text:
+    html: "<div class=\"white-70\">If you’ve found your way here, you probably want\
+      \ to go deeper into what \Lwe’re building. We’re almost ready to ship, so make\
+      \ sure you’re on the list.</div>"
+    text: "If you’ve found your way here, you probably want to go deeper into what\
+      \ \Lwe’re building. We’re almost ready to ship, so make sure you’re on the list."
+  attributes: {}
+- id: 90c3b0a1-20d0-8504-d9cd-cfbcb821b2f7
+  type: text-input
+  placeholder: Enter your email
+  attributes: {}
+- id: 90c3b0a1-20d0-8504-d9cd-cfbcb821b2fa
+  type: text
+  text:
+    html: <label class="paragraph-14">Keep me updated on Naftiko product launches</label>
+    text: Keep me updated on Naftiko product launches
+  attributes: {}
+- id: 90c3b0a1-20d0-8504-d9cd-cfbcb821b2fc
+  type: submit-button
+  waitingText: Please wait...
+  value: Join the waitlist
+  attributes: {}
+- id: 90c3b0a1-20d0-8504-d9cd-cfbcb821b304
+  type: text
+  text:
+    html: <div>Thanks for signing up!</div>
+    text: Thanks for signing up!
+  attributes: {}
+- id: 90c3b0a1-20d0-8504-d9cd-cfbcb821b307
+  type: text
+  text:
+    html: <div>Subscribed</div>
+    text: Subscribed
+  attributes: {}
+- id: 90c3b0a1-20d0-8504-d9cd-cfbcb821b30a
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: 4766b9f4-197a-776a-d6b5-a57f0a02791d
+  type: text
+  text:
+    html: <div class="paragraph-32">Reach out to the crew</div>
+    text: Reach out to the crew
+  attributes: {}
+- id: 28df01e3-43bd-ccfc-0254-c272a6a4f1be
+  type: text-input
+  placeholder: Your first name
+  attributes: {}
+- id: 8349de8c-004e-6b7d-b720-f70493dd3f6d
+  type: text-input
+  placeholder: Last name
+  attributes: {}
+- id: 227f8835-76b7-f3b0-f409-c407781790d1
+  type: text-input
+  placeholder: Your.email@example.com
+  attributes: {}
+- id: 1e83e39b-9b17-d65b-18b2-eecbebe82fe5
+  type: text-input
+  placeholder: Tell us what’s on your mind...
+  attributes: {}
+- id: 1d5f3502-2076-ffaa-15a7-db80293b4a61
+  type: submit-button
+  waitingText: Please wait...
+  value: Toss it over
+  attributes:
+    submit-old: '1'
+- id: 9c36a0df-3076-3cf3-3a62-aef2884b0349
+  type: text
+  text:
+    html: <div>Toss it over</div>
+    text: Toss it over
+  attributes: {}
+- id: fe4adecd-96bb-318f-c50e-0c26ce7be1f5
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6922f140a6e56b445ee1ee35
+  attributes: {}
+- id: eb0b02cd-fe99-81b4-1432-d9f25b521edd
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6922f140a6e56b445ee1ee35
+  attributes: {}
+- id: 4768b806-3237-ef81-45bd-a2264b1f7753
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 691f4e966ea1999762cc751e
+  attributes: {}
+- id: 1d5f3502-2076-ffaa-15a7-db80293b4a63
+  type: text
+  text:
+    html: <div class="paragraph-24 white">Thank you! Your submission has been received!</div>
+    text: Thank you! Your submission has been received!
+  attributes: {}
+- id: 1d5f3502-2076-ffaa-15a7-db80293b4a66
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: 8a9e03cc-2aac-2930-4c1f-7dfd0b55786c
+  type: text
+  text:
+    html: <div class="paragraph-24 white medium">Where to find us</div>
+    text: Where to find us
+  attributes: {}
+- id: 52089d89-598a-2efd-299e-09da649490b1
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6931adc93d658a370461afe3
+  attributes: {}
+- id: 8a9e03cc-2aac-2930-4c1f-7dfd0b55786e
+  type: text
+  text:
+    html: <div class="semi-bold">Naftiko France</div>
+    text: Naftiko France
+  attributes: {}
+- id: 68f51ce4-3917-9d4d-df80-a94b965ac87c
+  type: text
+  text:
+    html: <div class="paragraph-16 white-70">54 Rue de Londres, 75009 Paris</div>
+    text: 54 Rue de Londres, 75009 Paris
+  attributes: {}
+- id: d682f1f3-c41d-568a-8f70-36d4a2759987
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6931adc93d658a370461afe3
+  attributes: {}
+- id: 4e4fd761-5751-f015-308a-decc7818a2d9
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: 6b644cce-36ab-b4ea-6d5d-bdb99240c0b6
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: 619b72c6-ce95-1501-bef6-c5f005f2d4c8
+  type: text
+  text:
+    html: <div class="semi-bold">Naftiko USA</div>
+    text: Naftiko USA
+  attributes: {}
+- id: 619b72c6-ce95-1501-bef6-c5f005f2d4ca
+  type: text
+  text:
+    html: <div class="paragraph-16 white-70">851 Duportail Rd, Suite 200, PA 19087,
+      Chesterbrook</div>
+    text: 851 Duportail Rd, Suite 200, PA 19087, Chesterbrook
+  attributes: {}
+- id: 3b6b57d2-e6e6-bb47-1bad-47b1b33911bb
+  type: text
+  text:
+    html: <div class="paragraph-24 white medium">Follow along</div>
+    text: Follow along
+  attributes: {}
+- id: bd796008-9b5f-19e1-68b6-5bda985c1782
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6919c56b70793ea00cbe99c0
+  attributes: {}
+- id: 43dac555-bd11-890d-b7fd-c2048ec19d1e
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6919c56bc73e9915be00dadd
+  attributes: {}
+- id: 02c15c50-322f-2235-4716-09984403894f
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6919c56b4a8e10e204672fa8
+  attributes: {}
+- id: 4f0f546d-730b-422b-7de4-4c0300f62d98
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 692793c033d7a351b4f9f227
+  attributes: {}
+- id: 614b2e21-57fe-6cc8-b159-d7c3d31a31c4
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6919d6708fde4561a84fca62
+  attributes: {}
+- id: 614b2e21-57fe-6cc8-b159-d7c3d31a31c6
+  type: text
+  text:
+    html: <div class="paragraph-24 white normal height-110">Work with us</div>
+    text: Work with us
+  attributes: {}
+- id: 614b2e21-57fe-6cc8-b159-d7c3d31a31c8
+  type: text
+  text:
+    html: <div class="paragraph-16">We’re not hiring yet, but we’re mapping out the
+      crew we’ll need. Register your interest to stay in the loop.</div>
+    text: We’re not hiring yet, but we’re mapping out the crew we’ll need. Register
+      your interest to stay in the loop.
+  attributes: {}
+- id: 614b2e21-57fe-6cc8-b159-d7c3d31a31cc
+  type: text
+  text:
+    html: <div>Discover what we’re about</div>
+    text: Discover what we’re about
+  attributes: {}
+- id: 2f14ff14-552f-c7f7-fd48-bc51f1379837
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6919d670450242d836bc3bbd
+  attributes: {}
+- id: 2f14ff14-552f-c7f7-fd48-bc51f1379839
+  type: text
+  text:
+    html: <div class="paragraph-24 white normal height-110">Contribute to the story</div>
+    text: Contribute to the story
+  attributes: {}
+- id: 2f14ff14-552f-c7f7-fd48-bc51f137983b
+  type: text
+  text:
+    html: <div class="paragraph-16">Got lessons from messy integrations? Share your
+      story, propose docs edits, or write a piece for our blog.</div>
+    text: Got lessons from messy integrations? Share your story, propose docs edits,
+      or write a piece for our blog.
+  attributes: {}
+- id: 2f14ff14-552f-c7f7-fd48-bc51f137983f
+  type: text
+  text:
+    html: <div>Let’s hear your ideas</div>
+    text: Let’s hear your ideas
+  attributes: {}
+- id: 3d7a3407-1840-a54e-d45e-58e7eab6e9da
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6919d670a8ba8dc040b0f6b6
+  attributes: {}
+- id: 3d7a3407-1840-a54e-d45e-58e7eab6e9dc
+  type: text
+  text:
+    html: <div class="paragraph-24 white normal height-110">Discuss the build</div>
+    text: Discuss the build
+  attributes: {}
+- id: 3d7a3407-1840-a54e-d45e-58e7eab6e9de
+  type: text
+  text:
+    html: <div class="paragraph-16">Help steer the fabric. Ask questions, review PRs,
+      or join discussions in our open forum.</div>
+    text: Help steer the fabric. Ask questions, review PRs, or join discussions in
+      our open forum.
+  attributes: {}
+- id: 3d7a3407-1840-a54e-d45e-58e7eab6e9e2
+  type: text
+  text:
+    html: <div>Join the community</div>
+    text: Join the community
+  attributes: {}
+- id: 408f3854-f127-32a4-10d1-5a1af2350fc3
+  type: component-instance
+  componentId: f08038d6-8bda-fa72-06f4-e95fb4071f06
+  propertyOverrides: []
+pagination:
+  limit: 100
+  offset: 0
+  total: 54
+lastUpdated: '2026-01-07T13:50:47.462Z'

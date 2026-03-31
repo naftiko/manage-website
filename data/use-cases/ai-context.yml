@@ -1,0 +1,49 @@
+id: 69211a1f671c1883a636bbf3
+cmsLocaleId: 691ced877a6ed28f42bd2fb9
+lastPublished: '2025-12-06T10:17:39.239Z'
+lastUpdated: '2025-12-06T10:17:16.759Z'
+createdOn: '2025-11-22T02:04:15.263Z'
+isArchived: false
+isDraft: false
+fieldData:
+  use-case-name: Give AI the organizational context it needs
+  subtitle: AI without context is guesswork. Valuable data lives in SaaS tools, files,
+    and systems your models can’t reach safely.
+  hero-card-content: <p id="">This use case helps teams deliver consistent MCP servers
+    across internal, public, and third-party APIs, as well as local SQL databases.
+    Naftiko uses a domain-driven, declarative, and governed approach to right-size
+    context windows and make data safely accessible to AI copilots and agents.</p><p
+    id="">Teams can deliver MCP servers without needing to learn each API’s details.
+    This use case establishes the foundation for securely integrating existing systems
+    and data into AI workflows across the organization.</p>
+  steadies-content: 'Naftiko organizes how capabilities work: the Framework sets the
+    rules, the Engine enforces them at runtime, and the Fabric delivers monitoring,
+    auditing, and reporting.'
+  card-content--1: Define contextual data sources and MCP server models
+  card-content--2: Generate governed MCP servers and enforce access rules
+  card-content--3: Monitor context usage, freshness, and system interactions
+  gain-content--1: Add enterprise data to copilots and agents
+  gain-content--2: Create MCP servers without API expertise
+  gain-content--3: Aggregate and curate context
+  gain-content--4: Increase visibility across all data sources
+  gain-content--5: Ensure governed, consistent AI access patterns
+  cta-content: Discovery • Spending • Security • Change • Control
+  cta-button--link-another-use-case: 69210f2406a274647151f1af
+  what-it-connects-2:
+  - 692d8121f5bc89c54b3f7939
+  - 692d813a782ad65ef76545f3
+  - 692d814b5ee476efb18bad64
+  - 692d815c0e09dba5c241595f
+  adapters-2:
+  - 692112f0021cdb241ca1848f
+  - 6921189afdff575df17c7d48
+  - 692112e8cbf416178c51fc57
+  mega-menu-summary: Give AI the organizational context it needs
+  product-page-summary: Give AI the organizational context it needs
+  product-page-icon-2:
+    fileId: 69213d64629de6899e5d842a
+    url: https://cdn.prod.website-files.com/691ced877a6ed28f42bd2fba/69213d64629de6899e5d842a_AI%20context%20icon.avif
+    alt: null
+  sort-priority: 1
+  name: AI context
+  slug: ai-context

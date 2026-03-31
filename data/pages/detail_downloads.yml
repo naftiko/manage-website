@@ -1,0 +1,121 @@
+pageId: 691cef8b881c8efc553366c7
+branchId: null
+nodes:
+- id: 53d29359-a463-211c-c773-51596f05743a
+  type: component-instance
+  componentId: 1c54e280-37a0-32ca-d44d-81d5ee53122c
+  propertyOverrides: []
+- id: 53d29359-a463-211c-c773-51596f05743b
+  type: component-instance
+  componentId: 3606ab30-edb7-5c2c-2dcb-a2a5d4f8f146
+  propertyOverrides: []
+- id: 53d29359-a463-211c-c773-51596f05743c
+  type: component-instance
+  componentId: 48eb0862-0648-838c-90e7-508d66816e78
+  propertyOverrides: []
+- id: 53d29359-a463-211c-c773-51596f05743d
+  type: component-instance
+  componentId: 334235b2-f258-d4bf-c6d0-9052ffcbc41c
+  propertyOverrides: []
+- id: 53d29359-a463-211c-c773-51596f05743e
+  type: component-instance
+  componentId: a58d47e0-367f-4320-f49d-47527c308dbe
+  propertyOverrides: []
+- id: 28300682-9f11-f71e-d382-7b99f7b2ba9b
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: null
+  attributes: {}
+- id: 8a0a1f6f-6781-4713-d0ff-e1e2c4de9e3c
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: null
+  attributes: {}
+- id: 8a0a1f6f-6781-4713-d0ff-e1e2c4de9e3f
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6928d45df695c588452a185e
+  attributes: {}
+- id: 8a0a1f6f-6781-4713-d0ff-e1e2c4de9e46
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6928cebac7bcef7c4bfabf70
+  attributes: {}
+- id: a800fd77-89ea-f847-916b-c5513a9ea75a
+  type: text-input
+  placeholder: First name*
+  attributes: {}
+- id: a800fd77-89ea-f847-916b-c5513a9ea75d
+  type: text-input
+  placeholder: Last name*
+  attributes: {}
+- id: 94f1c0fc-d4ee-43d5-0ded-455ea1e35399
+  type: text-input
+  placeholder: Email*
+  attributes: {}
+- id: 7be2886c-b71f-ae90-e4e4-d2aa5c5666ed
+  type: text-input
+  placeholder: Job title*
+  attributes: {}
+- id: 998ba18f-24df-99e1-a04d-8df667e5954b
+  type: text-input
+  placeholder: Company name*
+  attributes: {}
+- id: 55c68b66-ad76-a22d-70a5-115bd5f3cc31
+  type: text
+  text:
+    html: <label class="paragraph-14">I agree to receive communications from Naftiko.</label>
+    text: I agree to receive communications from Naftiko.
+  attributes: {}
+- id: a800fd77-89ea-f847-916b-c5513a9ea75e
+  type: submit-button
+  waitingText: Please wait...
+  value: ''
+  attributes: {}
+- id: a800fd77-89ea-f847-916b-c5513a9ea760
+  type: text
+  text:
+    html: <div class="paragraph-24">Thank you. Your content should dock in your inbox
+      any moment now!</div>
+    text: Thank you. Your content should dock in your inbox any moment now!
+  attributes: {}
+- id: a800fd77-89ea-f847-916b-c5513a9ea763
+  type: text
+  text:
+    html: <div>Oops! Something went wrong while submitting the form.</div>
+    text: Oops! Something went wrong while submitting the form.
+  attributes: {}
+- id: 53d29359-a463-211c-c773-51596f0574b2
+  type: text
+  text:
+    html: "<h2>Ready to modernize your API \Llifecycle with AI?</h2>"
+    text: "Ready to modernize your API \Llifecycle with AI?"
+  attributes: {}
+- id: 53d29359-a463-211c-c773-51596f0574b4
+  type: text
+  text:
+    html: "<div class=\"max-width-818\">Discover practical strategies, real-world\
+      \ examples, and future-ready insights to elevate \Lyour API ecosystem with intelligent\
+      \ automation.</div>"
+    text: "Discover practical strategies, real-world examples, and future-ready insights\
+      \ to elevate \Lyour API ecosystem with intelligent automation."
+  attributes: {}
+- id: 53d29359-a463-211c-c773-51596f0574c9
+  type: image
+  image:
+    alt: __wf_reserved_inherit
+    assetId: 6915b78801b16cb7875d3e10
+  attributes: {}
+- id: 53d29359-a463-211c-c773-51596f0574ca
+  type: component-instance
+  componentId: f08038d6-8bda-fa72-06f4-e95fb4071f06
+  propertyOverrides: []
+pagination:
+  limit: 100
+  offset: 0
+  total: 22
+lastUpdated: '2026-01-05T21:24:10.092Z'

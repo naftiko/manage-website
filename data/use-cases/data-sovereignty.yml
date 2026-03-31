@@ -1,0 +1,53 @@
+id: 69211e381e54213d33a42ecd
+cmsLocaleId: 691ced877a6ed28f42bd2fb9
+lastPublished: '2025-12-06T10:17:39.239Z'
+lastUpdated: '2025-12-06T10:17:02.397Z'
+createdOn: '2025-11-22T02:21:44.102Z'
+isArchived: false
+isDraft: false
+fieldData:
+  use-case-name: Control your data across clouds and borders
+  subtitle: Govern, encrypt, and audit how data moves through your entire stack. APIs,
+    SaaS tools, and AI all touch sensitive data but governance rarely keeps up.
+  hero-card-content: <p id="">This use case focuses on empowering companies to take
+    control of their data across the third-party SaaS solutions they rely on. Data
+    sovereignty ensures that data generated across these services is integrated, migrated,
+    and synced into data or object stores where the company has full ownership, access,
+    and governance.</p><p id="">Data sovereignty enables teams to localize data and
+    train local AI models using the information produced across third-party platforms.
+    It may be driven by country-level regulation or by enterprise compliance requirements.
+    As AI adoption increases and organizations require more context from third-party
+    systems, sovereignty has become essential for visibility, compliance, and long-term
+    control of enterprise data.</p>
+  steadies-content: 'Naftiko organizes how capabilities work: the Framework sets the
+    rules, the Engine enforces them at runtime, and the Fabric delivers monitoring,
+    auditing, and reporting.'
+  card-content--1: Define data ownership, residency, and compliance policies
+  card-content--2: Enforce data migration, access, and synchronization rules across
+    systems
+  card-content--3: Monitor data flows, audit sovereignty controls, and track regulatory
+    compliance
+  gain-content--1: Aggregate and centralize third-party SaaS data
+  gain-content--2: Increase visibility into where sensitive data lives and how it
+    is used
+  gain-content--3: Improve discovery and reuse of SaaS-sourced data
+  gain-content--4: Enable ETL/ELT access to SaaS data under full enterprise control
+  gain-content--5: Provide SQL access across sources to support AI and analytics initiatives
+  cta-content: Compliance • Control • Visibility • Governance
+  cta-button--link-another-use-case: 69211a1f671c1883a636bbf3
+  what-it-connects-2:
+  - 692d813a782ad65ef76545f3
+  - 692d814b5ee476efb18bad64
+  - 692d815c0e09dba5c241595f
+  adapters-2:
+  - 692112f0021cdb241ca1848f
+  - 692112e8cbf416178c51fc57
+  mega-menu-summary: Control your data across clouds and borders
+  product-page-summary: Control your data across clouds and borders
+  product-page-icon-2:
+    fileId: 69213df751c15a2c239b5812
+    url: https://cdn.prod.website-files.com/691ced877a6ed28f42bd2fba/69213df751c15a2c239b5812_AI%20data%20icon.avif
+    alt: null
+  sort-priority: 5
+  name: Data sovereignty
+  slug: data-sovereignty

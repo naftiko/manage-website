@@ -1,0 +1,57 @@
+id: 69210f2406a274647151f1af
+cmsLocaleId: 691ced877a6ed28f42bd2fb9
+lastPublished: '2025-12-06T10:17:39.239Z'
+lastUpdated: '2025-12-06T10:17:31.485Z'
+createdOn: '2025-11-22T01:17:24.679Z'
+isArchived: false
+isDraft: false
+fieldData:
+  use-case-name: Make your existing APIs work for AI
+  subtitle: Embracing your legacy and meeting the demands of AI integration using
+    your existing API investments is how you will get the work done.
+  hero-card-content: <p id="">This use case is focused on encouraging the discoverability
+    and reuse of existing APIs. It leverages existing API infrastructure to quantify
+    what API, schema, and tooling reuse looks like, and to incentivize reuse across
+    the software development lifecycle—reducing API sprawl and hardening the APIs
+    that already exist.</p><p id="">Teams need to easily use existing API paths and
+    operations as part of new integrations and automation, ensuring that paths, operations,
+    and schema are available within IDEs and copilot tooling—meeting developers where
+    they already work. API reusability empowers developers while also informing leadership
+    about how APIs are being reused and where opportunities to refine and improve
+    exist.</p>
+  steadies-content: 'Naftiko organizes how capabilities work: the Framework sets the
+    rules, the Engine enforces them at runtime, and the Fabric delivers monitoring,
+    auditing, and reporting.'
+  card-content--1: Define API domains, catalogs, and reuse policies
+  card-content--2: Expose existing APIs to IDEs, copilots, and MCP without changing
+    backends
+  card-content--3: Track reuse, measure usage, and surface insights for teams and
+    leadership
+  gain-content--1: Unlock access to legacy APIs and data
+  gain-content--2: Right-size and unify existing APIs
+  gain-content--3: Leverage internal and third-party API catalogs
+  gain-content--4: Extend OpenAPI definitions for MCP and AI tooling
+  gain-content--5: Communicate API reuse clearly to leadership and teams
+  cta-content: Discovery • Reuse • Consistency • Governance
+  cta-button--link-another-use-case: 69211931da6adec3cced7209
+  what-it-connects-2:
+  - 692d8121f5bc89c54b3f7939
+  - 692d813a782ad65ef76545f3
+  - 692d814b5ee476efb18bad64
+  - 692d815c0e09dba5c241595f
+  - 692d8e8053536b12a9f5f3a1
+  - 692d8f7d36c93fd83ca25ff6
+  adapters-2:
+  - 692112f0021cdb241ca1848f
+  - 6921189afdff575df17c7d48
+  - 692112e8cbf416178c51fc57
+  policies-2: []
+  mega-menu-summary: Make your existing APIs work for AI
+  product-page-summary: Make your existing APIs work for AI
+  product-page-icon-2:
+    fileId: 69213d420b68ddeade8ce14e
+    url: https://cdn.prod.website-files.com/691ced877a6ed28f42bd2fba/69213d420b68ddeade8ce14e_Consumption%20icon.avif
+    alt: null
+  sort-priority: 2
+  name: API reusability
+  slug: api-reusability

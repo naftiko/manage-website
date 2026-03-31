@@ -1,0 +1,649 @@
+pages:
+- id: 692dca540998586991c40d83
+  siteId: 690a6acf18713a7e3b856b21
+  title: Resources | Press releases Template
+  slug: detail_press-release
+  parentId: null
+  collectionId: 692dca540998586991c40d7d
+  createdOn: '2025-12-01T17:03:16.212Z'
+  lastUpdated: '2025-12-18T11:42:32.487Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: "{{wf {\"path\":\"name\",\"type\":\"PlainText\"} }} | Naftiko"
+    description: null
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /press-release
+  localeId: null
+- id: 692d498bfb376da207e84be6
+  siteId: 690a6acf18713a7e3b856b21
+  title: Careers Template
+  slug: detail_careers
+  parentId: null
+  collectionId: 692d498bfb376da207e84bdc
+  createdOn: '2025-12-01T07:53:47.949Z'
+  lastUpdated: '2025-12-01T10:55:14.348Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: null
+    description: null
+  openGraph:
+    title: null
+    titleCopied: false
+    description: null
+    descriptionCopied: false
+  publishedPath: /careers
+  localeId: null
+- id: 6929ba7143287166efe68016
+  siteId: 690a6acf18713a7e3b856b21
+  title: Legals Template
+  slug: detail_legal
+  parentId: null
+  collectionId: 6929ba7143287166efe6800e
+  createdOn: '2025-11-28T15:06:25.438Z'
+  lastUpdated: '2025-12-01T07:31:02.218Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: "{{wf {\"path\":\"name\",\"type\":\"PlainText\"} }} | Naftiko"
+    description: "Read Naftiko's {{wf {\"path\":\"name\",\"type\":\"PlainText\"} }} to understand how we handle your data, protect your privacy, and maintain security across our API integration platform."
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /legal
+  localeId: null
+- id: 69239f50b919f4f86335c64f
+  siteId: 690a6acf18713a7e3b856b21
+  title: Tags | Related terms Template
+  slug: detail_tags-related-terms
+  parentId: null
+  collectionId: 69239f50b919f4f86335c648
+  createdOn: '2025-11-23T23:57:04.778Z'
+  lastUpdated: '2025-11-24T05:17:47.782Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: null
+    description: null
+  openGraph:
+    title: null
+    titleCopied: false
+    description: null
+    descriptionCopied: false
+  publishedPath: /tags-related-terms
+  localeId: null
+- id: 692398c054680195594e67a9
+  siteId: 690a6acf18713a7e3b856b21
+  title: Glossaries Template
+  slug: detail_glossary
+  parentId: null
+  collectionId: 692398c054680195594e67a2
+  createdOn: '2025-11-23T23:29:04.713Z'
+  lastUpdated: '2025-12-03T00:15:57.103Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: "{{wf {\"path\":\"name\",\"type\":\"PlainText\"} }} | Naftiko"
+    description: "Explore the definition and meaning of {{wf {\"path\":\"name\",\"type\":\"PlainText\"} }} in the Naftiko Glossary. Clear explanations of API integration and technical terms."
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /glossary
+  localeId: null
+- id: 6923957b4af5fb731b964efe
+  siteId: 690a6acf18713a7e3b856b21
+  title: Glossary
+  slug: glossary
+  parentId: null
+  collectionId: null
+  createdOn: '2025-11-23T23:15:07.553Z'
+  lastUpdated: '2025-12-03T00:12:58.114Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: Glossary | Naftiko
+    description: Get in touch with Naftiko. Join the waitlist, contribute, follow our community, or register interest in future careers as we build the capability fabric.
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /glossary
+  localeId: null
+- id: 6921114b1e4b7e227089090e
+  siteId: 690a6acf18713a7e3b856b21
+  title: Tags | Policies Template
+  slug: detail_tags-policies
+  parentId: null
+  collectionId: 6921114b1e4b7e2270890908
+  createdOn: '2025-11-22T01:26:35.443Z'
+  lastUpdated: '2025-11-22T01:51:43.295Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: null
+    description: null
+  openGraph:
+    title: null
+    titleCopied: false
+    description: null
+    descriptionCopied: false
+  publishedPath: /tags-policies
+  localeId: null
+- id: 692110d4f88e6d7648b58d74
+  siteId: 690a6acf18713a7e3b856b21
+  title: Tags | Adapters Template
+  slug: detail_tags-adapters
+  parentId: null
+  collectionId: 692110d4f88e6d7648b58d6e
+  createdOn: '2025-11-22T01:24:36.588Z'
+  lastUpdated: '2025-11-22T01:51:37.497Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: null
+    description: null
+  openGraph:
+    title: null
+    titleCopied: false
+    description: null
+    descriptionCopied: false
+  publishedPath: /tags-adapters
+  localeId: null
+- id: 692110975ee3a16387bf44a7
+  siteId: 690a6acf18713a7e3b856b21
+  title: Tags | What connects Template
+  slug: detail_tag-what-connects
+  parentId: null
+  collectionId: 692110975ee3a16387bf44a1
+  createdOn: '2025-11-22T01:23:35.886Z'
+  lastUpdated: '2025-11-22T01:51:33.137Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: null
+    description: null
+  openGraph:
+    title: null
+    titleCopied: false
+    description: null
+    descriptionCopied: false
+  publishedPath: /tag-what-connects
+  localeId: null
+- id: 691d0d74091d24e72b1bdbd4
+  siteId: 690a6acf18713a7e3b856b21
+  title: Events (backup)s Template
+  slug: detail_events-backup
+  parentId: null
+  collectionId: 691d0d74091d24e72b1bdbce
+  createdOn: '2025-11-19T00:21:08.613Z'
+  lastUpdated: '2025-11-19T01:06:42.367Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: "{{wf {\"path\":\"name\",\"type\":\"PlainText\"} }} | Naftiko"
+    description: .
+  openGraph:
+    title: null
+    titleCopied: false
+    description: null
+    descriptionCopied: false
+  publishedPath: /events-backup
+  localeId: null
+- id: 691cfb322175a843a9f3a5c2
+  siteId: 690a6acf18713a7e3b856b21
+  title: Tags | Teams Template
+  slug: detail_tags-team
+  parentId: null
+  collectionId: 691cfb312175a843a9f3a5bc
+  createdOn: '2025-11-18T23:03:14.097Z'
+  lastUpdated: '2025-11-19T00:46:39.727Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: "{{wf {\"path\":\"name\",\"type\":\"PlainText\"} }}"
+    description: null
+  openGraph:
+    title: null
+    titleCopied: false
+    description: null
+    descriptionCopied: false
+  publishedPath: /tags-team
+  localeId: null
+- id: 691cf5b9abfb39766fb2bd57
+  siteId: 690a6acf18713a7e3b856b21
+  title: Teams Template
+  slug: detail_team
+  parentId: null
+  collectionId: 691cf5b8abfb39766fb2bd4f
+  createdOn: '2025-11-18T22:39:53.010Z'
+  lastUpdated: '2025-11-18T22:48:02.288Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: null
+    description: null
+  openGraph:
+    title: null
+    titleCopied: false
+    description: null
+    descriptionCopied: false
+  publishedPath: /team
+  localeId: null
+- id: 691cf4b513562dc52a955e0e
+  siteId: 690a6acf18713a7e3b856b21
+  title: Use cases Template
+  slug: detail_use-cases
+  parentId: null
+  collectionId: 691cf4b513562dc52a955dfa
+  createdOn: '2025-11-18T22:35:33.853Z'
+  lastUpdated: '2025-12-06T20:49:10.068Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: "{{wf {\"path\":\"name\",\"type\":\"PlainText\"} }} | Naftiko"
+    description: "{{wf {\"path\":\"product-page-summary\",\"type\":\"PlainText\"} }}"
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /use-cases
+  localeId: null
+- id: 691cf489dd2f1d4529e9c554
+  siteId: 690a6acf18713a7e3b856b21
+  title: Events Template
+  slug: detail_events
+  parentId: null
+  collectionId: 691cf488dd2f1d4529e9c54e
+  createdOn: '2025-11-18T22:34:49.823Z'
+  lastUpdated: '2025-12-06T21:47:57.017Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: "{{wf {\"path\":\"name\",\"type\":\"PlainText\"} }} | Naftiko"
+    description: "{{wf {\"path\":\"page-meta-description\",\"type\":\"PlainText\"} }}"
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /events
+  localeId: null
+- id: 691cf3fd35862f5322fdbcbd
+  siteId: 690a6acf18713a7e3b856b21
+  title: Blog posts Template
+  slug: detail_blog
+  parentId: null
+  collectionId: 691cf3fd35862f5322fdbcb6
+  createdOn: '2025-11-18T22:32:29.646Z'
+  lastUpdated: '2026-01-06T15:40:15.039Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: "{{wf {\"path\":\"name\",\"type\":\"PlainText\"} }} | Naftiko"
+    description: null
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /blog
+  localeId: null
+- id: 691cf34ad8ce6cc2341c9bba
+  siteId: 690a6acf18713a7e3b856b21
+  title: Resources | Podcasts Template
+  slug: detail_podcast
+  parentId: null
+  collectionId: 691cf34ad8ce6cc2341c9bb4
+  createdOn: '2025-11-18T22:29:30.848Z'
+  lastUpdated: '2025-12-03T00:15:45.162Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: "{{wf {\"path\":\"name\",\"type\":\"PlainText\"} }} | Naftiko"
+    description: "{{wf {\"path\":\"description\",\"type\":\"PlainText\"} }}"
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /podcast
+  localeId: null
+- id: 691cef8b881c8efc553366c7
+  siteId: 690a6acf18713a7e3b856b21
+  title: Resources | Downloads Template
+  slug: detail_downloads
+  parentId: null
+  collectionId: 691cef8b881c8efc553366c1
+  createdOn: '2025-11-18T22:13:31.464Z'
+  lastUpdated: '2026-01-05T21:24:10.048Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: "{{wf {\"path\":\"name\",\"type\":\"PlainText\"} }} | Naftiko"
+    description: "{{wf {\"path\":\"summary\",\"type\":\"PlainText\"} }}"
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /downloads
+  localeId: null
+- id: 691cee4a03d299c3ee45facd
+  siteId: 690a6acf18713a7e3b856b21
+  title: Tags | Main topics Template
+  slug: detail_main-topic-tag
+  parentId: null
+  collectionId: 691cee4903d299c3ee45fac7
+  createdOn: '2025-11-18T22:08:10.192Z'
+  lastUpdated: '2025-11-18T22:48:13.648Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: null
+    description: null
+  openGraph:
+    title: null
+    titleCopied: false
+    description: null
+    descriptionCopied: false
+  publishedPath: /main-topic-tag
+  localeId: null
+- id: 691ced8714975cae70fd0f29
+  siteId: 690a6acf18713a7e3b856b21
+  title: Resources | Documentations Template
+  slug: detail_resources-documentation
+  parentId: null
+  collectionId: 691ced8714975cae70fd0f22
+  createdOn: '2025-11-18T22:04:55.765Z'
+  lastUpdated: '2025-12-03T00:13:15.085Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: "{{wf {\"path\":\"name\",\"type\":\"PlainText\"} }} | Naftiko"
+    description: .
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /resources-documentation
+  localeId: null
+- id: 691a393822ebe87b20e03e82
+  siteId: 690a6acf18713a7e3b856b21
+  title: Community
+  slug: community
+  parentId: null
+  collectionId: null
+  createdOn: '2025-11-16T20:51:04.951Z'
+  lastUpdated: '2025-12-13T09:02:20.465Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: Community | Naftiko
+    description: Join the Naftiko community building the capability fabric. Contribute to open-source projects, connect with CNCF, OpenAPI, and AsyncAPI ecosystems.
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /community
+  localeId: null
+- id: 691a3269574eb5f0ef792f0e
+  siteId: 690a6acf18713a7e3b856b21
+  title: Careers
+  slug: careers
+  parentId: null
+  collectionId: null
+  createdOn: '2025-11-16T20:22:01.560Z'
+  lastUpdated: '2025-12-08T09:05:39.548Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: Careers | Naftiko
+    description: "We\u2019re mapping out future roles and inviting curious engineers, contributors, and builders to register interest today."
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /careers
+  localeId: null
+- id: 6919de2d3a47cdf8dd26c2f7
+  siteId: 690a6acf18713a7e3b856b21
+  title: Team
+  slug: team
+  parentId: null
+  collectionId: null
+  createdOn: '2025-11-16T14:22:37.319Z'
+  lastUpdated: '2025-12-07T10:29:08.663Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: Team | Naftiko
+    description: "Naftiko was founded by J\u00e9r\u00f4me Louvel and Kin Lane to modernize API integration with an open-source capability fabric, built for scale and trust."
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /team
+  localeId: null
+- id: 6919a635728014e8c056e06b
+  siteId: 690a6acf18713a7e3b856b21
+  title: Contact us
+  slug: contact-us
+  parentId: null
+  collectionId: null
+  createdOn: '2025-11-16T10:23:49.798Z'
+  lastUpdated: '2026-01-07T13:50:47.437Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: Contact us | Naftiko
+    description: Get in touch with Naftiko. Join the waitlist, contribute, follow our community, or register interest in future careers as we build the capability fabric.
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /contact-us
+  localeId: null
+- id: 6918fd26dc09e9e742e59c0d
+  siteId: 690a6acf18713a7e3b856b21
+  title: Resources
+  slug: resources
+  parentId: null
+  collectionId: null
+  createdOn: '2025-11-15T22:22:30.990Z'
+  lastUpdated: '2026-01-05T21:19:18.646Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: Resources | Naftiko
+    description: Explore Naftiko resources white papers, deep-dive blog posts, and signals from the crew shaping modern API integration.
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /resources
+  localeId: null
+- id: 6918660f328e4a2318289ddd
+  siteId: 690a6acf18713a7e3b856b21
+  title: Newsletter
+  slug: newsletter
+  parentId: null
+  collectionId: null
+  createdOn: '2025-11-15T11:37:51.525Z'
+  lastUpdated: '2025-12-06T17:04:45.693Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: Newsletter | Naftiko
+    description: Subscribe to The Logbook for curated insights on APIs, SaaS, and AI. Get ecosystem updates from CNCF, OpenAPI, AsyncAPI, and Naftiko product news.
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /newsletter
+  localeId: null
+- id: 69170cd29982fefadfdf6297
+  siteId: 690a6acf18713a7e3b856b21
+  title: apidays event
+  slug: apidays-event
+  parentId: 691d14bcd28b69d5b1112462
+  collectionId: null
+  createdOn: '2025-11-14T11:04:50.888Z'
+  lastUpdated: '2025-11-25T12:08:41.370Z'
+  archived: false
+  draft: true
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: apidays event | Naftiko
+    description: "Join Naftiko at apidays Paris 2025. We\u2019re sharing new white papers, insights on SaaS and AI, and conversations with our founders."
+  openGraph:
+    title: null
+    titleCopied: false
+    description: null
+    descriptionCopied: false
+  publishedPath: /drafts/apidays-event
+  localeId: null
+- id: 6915e51cdd59b276297cbe4f
+  siteId: 690a6acf18713a7e3b856b21
+  title: Product
+  slug: product
+  parentId: null
+  collectionId: null
+  createdOn: '2025-11-13T14:03:08.581Z'
+  lastUpdated: '2026-02-05T23:34:24.484Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: Product | Naftiko
+    description: Discover Naftiko Studio. Build, run, and govern integrations with Studio, Engine, and Hub, powered by an open source framework for scalable, repeatable integration.
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /product
+  localeId: null
+- id: 690a6ad118713a7e3b856b86
+  siteId: 690a6acf18713a7e3b856b21
+  title: Home
+  slug: null
+  parentId: null
+  collectionId: null
+  createdOn: '2025-11-04T21:06:25.279Z'
+  lastUpdated: '2026-02-23T15:53:18.252Z'
+  archived: false
+  draft: false
+  canBranch: true
+  isBranch: false
+  branchId: null
+  seo:
+    title: Naftiko
+    description: Embrace your API legacy, integrate your AI future. Naftiko turns API sprawl into a governed capability fabric that teams can depend on.
+  openGraph:
+    title: null
+    titleCopied: true
+    description: null
+    descriptionCopied: true
+  publishedPath: /
+  localeId: null
+pagination:
+  limit: 100
+  offset: 0
+  total: 28

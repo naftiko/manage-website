@@ -1,0 +1,50 @@
+items:
+- id: 69211e381e54213d33a42ecd
+  cmsLocaleId: 691ced877a6ed28f42bd2fb9
+  lastPublished: '2025-12-06T10:17:39.239Z'
+  lastUpdated: '2025-12-06T10:17:02.397Z'
+  createdOn: '2025-11-22T02:21:44.102Z'
+  isArchived: false
+  isDraft: false
+  name: Data sovereignty
+  slug: data-sovereignty
+- id: 69211cb593aafc734593092d
+  cmsLocaleId: 691ced877a6ed28f42bd2fb9
+  lastPublished: '2025-12-06T10:17:39.239Z'
+  lastUpdated: '2025-12-06T10:17:09.589Z'
+  createdOn: '2025-11-22T02:15:17.747Z'
+  isArchived: false
+  isDraft: false
+  name: SQL data access
+  slug: sql-data-access
+- id: 69211a1f671c1883a636bbf3
+  cmsLocaleId: 691ced877a6ed28f42bd2fb9
+  lastPublished: '2025-12-06T10:17:39.239Z'
+  lastUpdated: '2025-12-06T10:17:16.759Z'
+  createdOn: '2025-11-22T02:04:15.263Z'
+  isArchived: false
+  isDraft: false
+  name: AI context
+  slug: ai-context
+- id: 69211931da6adec3cced7209
+  cmsLocaleId: 691ced877a6ed28f42bd2fb9
+  lastPublished: '2025-12-06T10:17:39.239Z'
+  lastUpdated: '2025-12-06T10:17:24.295Z'
+  createdOn: '2025-11-22T02:00:17.696Z'
+  isArchived: false
+  isDraft: false
+  name: AI orchestration
+  slug: ai-orchestration
+- id: 69210f2406a274647151f1af
+  cmsLocaleId: 691ced877a6ed28f42bd2fb9
+  lastPublished: '2025-12-06T10:17:39.239Z'
+  lastUpdated: '2025-12-06T10:17:31.485Z'
+  createdOn: '2025-11-22T01:17:24.679Z'
+  isArchived: false
+  isDraft: false
+  name: API reusability
+  slug: api-reusability
+pagination:
+  limit: 100
+  offset: 0
+  total: 5
